@@ -7,18 +7,22 @@ This document is issued to define our team project - Mobile insect processing pl
 | 01               | 00               | 03/08/2019       | Draft for Audit 1 | Jessica Ying      |                   |
 
 ## Table of Content
-- [1. Relevant Stakeholders](#1-relevant-stakeholders)
-  * [1.1. Project Team](#11-project-team)
-  * [1.2. Project Client](#12-project-client)
-  * [1.3. Supervisors](#13-supervisors)
-  * [1.4. Shadow Team](#14-shadow-team)
-  * [1.5. Potential Customers](#15-potential-customers)
+- [1. Project Vision](#Project-vision)
+  * [1.1. Value Proposition](#value-proposition)
+  * [1.2. Project Scope](#project-scole)
+  * [1.3. Key Achievement](#key-achievement)
+- [2. Relevant Stakeholders](#1-relevant-stakeholders)
+  * [2.1. Project Team](#11-project-team)
+  * [2.2. Project Client](#12-project-client)
+  * [2.3. Supervisors](#13-supervisors)
+  * [2.4. Shadow Team](#14-shadow-team)
+  * [2.5. Potential Customers](#15-potential-customers)
 
 
 
-## 1. Relevant Stakeholders
+## 2. Relevant Stakeholders
 
-### 1.1. Project Team 
+### 2.1. Project Team 
 
 This project team consists of 4 undergraduate students with different engineering skills. All the members need to follow the ground rules in the group. Each member has their distinct roles and needs to be responsible for their sections. Other external stakeholders can direct contact with the member if they have any advice, concerns or questions toward one specific section.
 
@@ -52,7 +56,7 @@ This project team consists of 4 undergraduate students with different engineerin
    * Document key points in each meetings and upload documentation to repository. 
    * Ensure all the project goals and milestones are achieved and not behind schedule.
   
-### 1.2. Project Client
+### 2.2. Project Client
 
 Our client is [Goterra Pty Ltd](https://www.goterra.com.au). The company is a organic waste management company. They believe that make a difference means doing things differently. Different with other organic waste processing technologies, Goterra farms insects, especially, Black Soldier Fly, Hermetia Illucens (BSF) to consume organic waste and Throughout the course of our process we harvest our larvae and frass to turn them into valuable agricultural commodities. The client team members are involved in this mobile insect processing plant design project are outlined in the table below.
 
@@ -73,7 +77,7 @@ Our client is [Goterra Pty Ltd](https://www.goterra.com.au). The company is a or
   * Provide relevent and necessary technical supervisation and assistance.
   * Be able to attend the regularly set meeting. 
  
-### 1.3. Third Party Supervisors
+### 2.3. Third Party Supervisors
 
 The third party supervisors in the project are the course convenor and tutor of ENGN4221 at Australian National University. 
 
@@ -94,7 +98,7 @@ The third party supervisors in the project are the course convenor and tutor of 
   * Assist the project team to complete the project and let the project be beneficial to the client.
   * Have capacity on the communication, such as email and appointment.
 
-### 1.4. Shadow Team
+### 2.4. Shadow Team
 
 The shadow team is another stakeholder in the project, who is enroled in the same tutorial slot as our project team. The shadow team has access to review all project information and will regularly provide feedback on each stages of project. Our project progress may inspired them and their recommendations may also be useful on the improvments of the project.
 
@@ -105,7 +109,7 @@ The shadow team is another stakeholder in the project, who is enroled in the sam
 - Responsibilities of the shadow team to the project
   * Provide feedback on the project timely.
 
-### 1.5. Potential Customers
+### 2.5. Potential Customers
 
 Potential customers of our project product will be the insect farms, organic waste management companies. Goterra has client from government, councils, hotels, hospitals, restaurants and households. They are also the target customers.  
 
