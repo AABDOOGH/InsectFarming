@@ -132,37 +132,35 @@ Potential customers of our project product will be the insect farms, organic was
 
 Potential customers have no responsibilities to the project, but their requirements are one of the most important factors to be considered on the progress of designing the mobile insect processing plant. 
 
-## Milestones 
+## Milestone 
 
 The following statement of milestones are drafts, they will be updates with the progress of project.
 
-| **Milestone 1** |---| Communicate with client to clarify the project scope and requirement and learn about the existing issues.|
-
-**Milestone 2**: Research on the exiting food processing plant designs and brainstone on the deisgn ideas.
-
-**Milestone 3**: Following the systematic engineering procedures, generate several possible design schemes and choose the best solutions. 
-
-**Milestone 4**: Complete the first version of the detailed design with components in each sections identified and gain the feedback from client, third party supervisors and shadow team.
-
-**Milestone 5**: Optimise the initial design with the feedback.
-
-**Milestone 6**: Validate the and evaluate the design achieved the project requirements.
-
-**Milestone 7**: Finalise the design and documentate all the information of the project back to client.
+| Milestone  | Objectives| Exit Criteria                                    |
+| :-------:   | :-------  | :-------------------------------------------------- |
+| 1 | Communicate with client to clarify the project scope and requirements and learn about the existing issues. | <ul><li>The problem is well defined and documentated </li><li>The client needs are finalished and signed off by the client</li></ul>|
+| 2 | Research on the exiting food processing plant designs and brainstone on the design ideas.                 | <ul><li>Gather the technical idea how the insect processing plant work and complete the plant system functional anlysis</li><li>Collect the information about the plant and insect, for example dimensions of each sections, such as cooker, decanter and separator and viscorsity of cooked insects</li><li></li></ul>
+| 3 | Following the systematic engineering procedures, generate several possible design schemes and choose the best solutions.| <ul><li>Complete the draft deisgn schemes </li><li>Complete scenario planning to select the best design</li></ul>
+| 4 | Complete the first version of the detailed design with components in each sections identified and gain the feedback from client, third party supervisors and shadow team.|<ul><li>The overall 3D design is done by using CAD with its properties detailed such as material </li><li>Complete each component design and state its functionalities</li></ul> |
+| 5 | Optimise the initial design with the feedback.|<ul><li>Complete the updated design and send to the stakeholders </li></ul> |
+| 6 | Validate the and evaluate the design achieved the project requirements.|<ul><li>Complete pressure and heat analysis on the 3D model of the designed plant that ensure the design is achieved all of the project requirements and client needs</li><li>Complete technical importance table and evaluation matrix </li></ul> |
+| 7 | Finalise the design and documentate all the information of the project back to client.|<ul><li>All documentations and repository information given to Goterra</li><li>All the CAD design files given to Goterra</li><li>Meet the client to ensure the client satification and give the general introduce on the continues work</li></ul> |
 
 ### Goals for Each Audit
 | Audit           | Time             | Goals and deliverables           |
 | :-------------: | :--------------: | :--------------  | 
 | Audit 01        | 09/08/2019       | <ul><li>Decide and establish the project landing page and repository</li><li>Clarify the ojectives to define project for this semester with client including problem scope, stakeholder analysis and system boundary analysis</li><li>Complete the first version of Concept of Operation document</li><li>Briefly estimate the financial budget</li><li>Do the research on the food processing plant and brainstorn the design ideas</li></ul> |
-| Audit 02        | 30/08/2019       | <ul><li>Complete systematic engieering governance, such as requirements analysis, functional analysis and system architeture for the design</li><li>Generate and sketch several possible design schemes</li><li>Provide more detail on each section design</li><li>Update Concept of Operation document into second version</li></ul> | 
+| Audit 02        | 30/08/2019       | <ul><li>Complete systematic engieering governance, such as requirements analysis including pairwise analysis and technical performance measures, functional analysis and system architeture for the design</li><li>Generate and sketch several possible design schemes</li><li>Provide more detail on each section design</li><li>Update Concept of Operation document into second version</li></ul> | 
 | Audit 03        | 11/10/2019       | <ul><li>Finalise the mobile insect processing plant design, including</li><li>Validate and evaluate the design achieved the project requirements </li><li>Documentate the estimated finanal cost on building the plant and the lifecycle of the plant</li><li>Complete the handover documentation back to the client</li><li>Complete and submit the project poster and be ready to present at the project showcase</li></ul> | 
 
-
-
-
-
 ### Contingencies
+
+If everything goes well and the first 7 [Milestone](#Milestone) could be completed before the set timeline, the further more complex analysis with less limitations could be achieved and a scaled-downed prototype of the designed plant is another milestone. 
+
+The initial generated progress of the project may effect by the many unpredicable and unexpected factors. Hence, the baseline of the project is finish the CAD design of the insect processing plant with all its funcationalities identified and dimensions detailed.
+
 ### Timeline of the Project
+
 ### Work Breakdown Structure
 
 ## Contracts 
