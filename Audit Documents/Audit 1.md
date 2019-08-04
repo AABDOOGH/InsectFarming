@@ -77,7 +77,7 @@ This project team consists of 4 undergraduate students with different engineerin
 
 Our client is [Goterra Pty Ltd](https://www.goterra.com.au). The company is a organic waste management company. They believe that make a difference means doing things differently. Different with other organic waste processing technologies, Goterra farms insects, especially, Black Soldier Fly, Hermetia Illucens (BSF) to consume organic waste and Throughout the course of our process we harvest our larvae and frass to turn them into valuable agricultural commodities. The client team members are involved in this mobile insect processing plant design project are outlined in the table below.
 
-| Name           | Role                  | Contact                   | Interaction with the Project                           |
+| Name           | Role                  | Contact                   | Key interaction with the Project                           |
 | :------------: |:-------------:        | :-----:                   | ------                                                 |
 | Olympia Yarger | Founder and CEO       | olympia@goterra.com.au    | Provides the defination and objectives of the project and guides on the project progress |
 | Jiefei Wang    | Robotics Engineer     | jiefei@goterra.com.au     | Provides relevant technical supervisation and assistance |
@@ -96,9 +96,9 @@ Our client is [Goterra Pty Ltd](https://www.goterra.com.au). The company is a or
  
 ### 2.3. Third Party Supervisors
 
-The third party supervisors in the project are the course convenor and tutor of ENGN4221 at Australian National University. 
+The third party supervisors in the project are the course convenor and tutor of [ENGN4221](https://programsandcourses.anu.edu.au/course/engn4221) at Australian National University. The purpose of the course is engaging the students to solve the practical industrial design problem with application of the learnt systematic and techincal knowledge. Whilst doing the project, the development of communication skills, professional skills, team work management will be expected.
 
-| Name           | Role                  | Contact                   | Interaction with the Project                           |
+| Name           | Role                  | Contact                   | Key interaction with the Project                           |
 | :------------: |:-------------:        | :-----:                   | ------                                                 |
 | Ankur Sharma   | Course Convenor       | ankur.sharma@anu.edu.au   | Provide feedback on the different stages of the project and give systematic gudiance on how to do the project |
 | Jani Sega      | Course Tutor          | jani.sega@anu.edu.au      | Provide feedback on the different stages of the project and give systematic gudiance on how to do the project | 
@@ -133,10 +133,34 @@ Potential customers of our project product will be the insect farms, organic was
 Potential customers have no responsibilities to the project, but their requirements are one of the most important factors to be considered on the progress of designing the mobile insect processing plant. 
 
 ## Milestones 
+
+The following statement of milestones are drafts, they will be updates with the progress of project.
+
+| **Milestone 1** |---| Communicate with client to clarify the project scope and requirement and learn about the existing issues.|
+
+**Milestone 2**: Research on the exiting food processing plant designs and brainstone on the deisgn ideas.
+
+**Milestone 3**: Following the systematic engineering procedures, generate several possible design schemes and choose the best solutions. 
+
+**Milestone 4**: Complete the first version of the detailed design with components in each sections identified and gain the feedback from client, third party supervisors and shadow team.
+
+**Milestone 5**: Optimise the initial design with the feedback.
+
+**Milestone 6**: Validate the and evaluate the design achieved the project requirements.
+
+**Milestone 7**: Finalise the design and documentate all the information of the project back to client.
+
 ### Goals for Each Audit
-- Audit 1
-- Audit 2
-- Audit 3
+| Audit           | Time             | Goals and deliverables           |
+| :-------------: | :--------------: | :--------------  | 
+| Audit 01        | 09/08/2019       | <ul><li>Decide and establish the project landing page and repository</li><li>Clarify the ojectives to define project for this semester with client including problem scope, stakeholder analysis and system boundary analysis</li><li>Complete the first version of Concept of Operation document</li><li>Briefly estimate the financial budget</li><li>Do the research on the food processing plant and brainstorn the design ideas</li></ul> |
+| Audit 02        | 30/08/2019       | <ul><li>Complete systematic engieering governance, such as requirements analysis, functional analysis and system architeture for the design</li><li>Generate and sketch several possible design schemes</li><li>Provide more detail on each section design</li><li>Update Concept of Operation document into second version</li></ul> | 
+| Audit 03        | 11/10/2019       | <ul><li>Finalise the mobile insect processing plant design, including</li><li>Validate and evaluate the design achieved the project requirements </li><li>Documentate the estimated finanal cost on building the plant and the lifecycle of the plant</li><li>Complete the handover documentation back to the client</li><li>Complete and submit the project poster and be ready to present at the project showcase</li></ul> | 
+
+
+
+
+
 ### Contingencies
 ### Timeline of the Project
 ### Work Breakdown Structure
