@@ -20,7 +20,22 @@ This document is issued to define our team project - Mobile insect processing pl
 
 ## 1. Project Vision 
 
-The aim of this project is to produce a mobile and cost-effective rendering plant, capable of processing insects into meals and oils that meet regulatory requirements. The goal for this semester is to finish the designing part of the project. 
+This project aims to produce mobile and cost-effective rendering plant, capable of processing insects into meals and oils that meet regulatory requirements. The goal for this semester is to finish the designing part of the project.
+
+### 1.1 Value proposition 
+
+Population increases dramatically in recent years and it accompanies with increased consumption of food. One important component in human's dietary structure, protein, requires people to expand the soybean cultivation to feed livestock. One alternative solution is farm insect to provide an alternative food resource to livestock. The current regulations require the animal products which are used in agriculture feeds to be processed in the rendering plant. However, the existing rendering plant cannot process the insects in an economically way due to the small-scale nature of insect farming industry in Australia. Thus, this project is aiming to design a mobile, micro processing plant which can process insects cost-effectively.  
+
+### 1.2 Project Scope 
+
+The project scopes are divided into three parts and summarized below.
+* Use CAD software to draw the schematic drawing of the designed micro-processing rendering plant. 
+* Use FEA software to simulate the working process of the plant and make sure the designed plant can technically work properly and meet the requirements. 
+* Conduct the economic analysis to find out the budget for building a prototype and a plant. 
+
+
+### 1.3 Key achievement 
+The expected key achievement in this project is designing and building a mobile and cost-effective rendering plant which can process and convert insects into oil and meal for livestock which can meet regulatory requirements. 
 
 ## 2. Relevant Stakeholders
 
@@ -134,6 +149,18 @@ Potential customers have no responsibilities to the project, but their requireme
 
 ## Development Tools and management of taks(Project Repository)
 ### Repository Guide 
-The repository for this project is divided into the following six components. 
+The repository for this project is divided into six components. click this link can redirect you to project repository xxxxxxxx.  
+- Meeting minutes
+  * This section includes all the important points discussed in each meeting, including weekly group meetings, client meetings, and any other external meetings. 
+ - Audits
+   * This section includes all the information related to each audit, including audit documents, presentations preparation, and feedback from other stakeholders in each audit tutorials. 
+ - Research 
+  * This section includes all the references that have been used in the designing and evaluating phases for the rendering process.   
+ - Desicion making 
+   * This section includes all the decision-making process in details during the whole project
+  - Rendering design 
+   * This section includes all the information related to the designing and evaluating the rendering plant, including the CAD drawings, simulations, and financial analysis.  
+  - Resources 
+  * This section includes all the other miscellaneous parts of the repository, including project initiation and project schedule. 
 
 
