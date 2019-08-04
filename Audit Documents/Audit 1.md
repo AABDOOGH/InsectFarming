@@ -134,5 +134,6 @@ Potential customers have no responsibilities to the project, but their requireme
 
 ## Development Tools and management of taks(Project Repository)
 ### Repository Guide 
+The repository for this project is divided into the following six components. 
 
 
