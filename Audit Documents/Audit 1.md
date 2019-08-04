@@ -117,6 +117,9 @@ Potential customers have no responsibilities to the project, but their requireme
 
 ## Milestones 
 ### Goals for Each Audit
+- Audit 1
+- Audit 2
+- Audit 3
 ### Contingencies
 ### Timeline of the Project
 ### Work Breakdown Structure
