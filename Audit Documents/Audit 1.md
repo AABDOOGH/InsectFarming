@@ -161,6 +161,6 @@ The repository for this project is divided into six components. click this link 
  - Rendering design 
    * This section includes all the information related to the designing and evaluating the rendering plant, including the CAD drawings, simulations, and financial analysis.  
  - Resources 
-   * This section includes all the other miscellaneous parts of the repository, including project initiation and project schedule. 
+   * This section includes all the other miscellaneous parts of the repository, including project initiation, project schedule and work timesheet. 
 
 
