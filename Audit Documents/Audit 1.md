@@ -18,7 +18,9 @@ This document is issued to define our team project - Mobile insect processing pl
   * [2.4. Shadow Team](#14-shadow-team)
   * [2.5. Potential Customers](#15-potential-customers)
 
+## 1. Project Vision 
 
+The aim of this project is to produce a mobile and cost-effective rendering plant, capable of processing insects into meals and oils that meet regulatory requirements. The goal for this semester is to finish the designing part of the project. 
 
 ## 2. Relevant Stakeholders
 
