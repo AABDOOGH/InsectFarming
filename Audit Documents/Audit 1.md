@@ -30,7 +30,28 @@ This project team consists of 4 undergraduate students with different engineerin
 |Jiaying Ying| Research and repository manager| u6034298@anu.edu.au |
 |Minghui Zhang | Mechanism engineers | u6065938@anu.edu.au|
 
+- Project team ground rules
+  * All team members need to communicate and treat each other with respect.
+  * All team members need to attend regular weekly meetings, client meetings and external meetings on time. If any group members cannot attend meeting on time, please let others know.  
+  * All team members need to value feedback from team members and other stakeholders; avoid being defensive about giving and accepting any constructive feedback.
+  * All team members need to communicate task progress regularly, try to finish the assigned tasks on time based on the deadline set in the milestone. 
 
+- Responsibilities of the Mechanism engineers  
+  * Finish the conceptual design based on the research. 
+  * Use CAD software to draw the schematic diagrams of the designed mobile rendering process. 
+  * Use finite-element-analysis tool (COMSOL Multiphysics) to simulate the machine-working-process and ensure the mobile plant can process insects into meals and oils that meet regulatory requirements.
+  
+- Responsibilities of the research and repository manager
+  * Do the required technical research about the rendering process.
+  * Do financial research about the whole designed rendering process and obtain the budget of both prototype.
+  * Manage the repository and upload all the files and documents related to the project.
+  
+ - Responsibilities of administrator 
+   * Set amd lead weekly regular group meetings.
+   * Maintain contacts with clients and arrange regularly meeting between the project team and clients.
+   * Document key points in each meetings and upload documentation to repository. 
+   * Ensure all the project goals and milestones are achieved and not behind schedule.
+  
 ### 1.2. Project Client
 
 Our client is [Goterra Pty Ltd](https://www.goterra.com.au). The company is a organic waste management company. They believe that make a difference means doing things differently. Different with other organic waste processing technologies, Goterra farms insects, especially, Black Soldier Fly, Hermetia Illucens (BSF) to consume organic waste and Throughout the course of our process we harvest our larvae and frass to turn them into valuable agricultural commodities. The client team members are involved in this mobile insect processing plant design project are outlined in the table below.
