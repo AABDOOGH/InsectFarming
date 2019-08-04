@@ -14,15 +14,20 @@ This document is issued to define our team project - Mobile insect processing pl
 | Audit 02        | 30/08/2019       | <ul><li>Complete systematic engieering governance, such as requirements analysis, functional analysis and system architeture for the design</li><li>Generate and sketch several possible design schemes</li><li>Provide more detail on each section design</li><li>Update Concept of Operation document into second version</li></ul> | 
 | Audit 03        | 11/10/2019       | <ul><li>Finalise the mobile insect processing plant design, including</li><li>Validate and evaluate the design achieved the project requirements </li><li>Documentate the estimated finanal cost on building the plant and the lifecycle of the plant</li><li>Complete the handover documentation back to the client</li><li>Complete and submit the project poster and be ready to present at the project showcase</li></ul> | 
 
-The following statement of milestones are drafts, they will be updates with the progress of project.
-**Milestone 1**: Communicate with client to clarify the project scope and requirement and learn about the existing issues.
-**Milestone 2**: Research on the exiting food processing plant designs and brainstone on the deisgn ideas.
-**Milestone 3**: Following the systematic engineering procedures, generate several possible design schemes and choose the best solutions. 
-**Milestone 4**: Complete the first version of the detailed design with components in each sections identified and gain the feedback from client, third party supervisors and shadow team.
-**Milestone 5**: Optimise the initial design with the feedback.
-**Milestone 6**: Validate the and evaluate the design achieved the project requirements.
-**Milestone 7**: Finalise the design and documentate all the information of the project back to client.
+## Milestones 
 
+The following statement of milestones are drafts, they will be updates with the progress of project.
+
+
+| Milestones  | Objectives|
+| :-------------: | :-------------- |
+| 1 | Communicate with client to clarify the project scope and requirement and learn about the existing issues. |
+| 2 | Research on the exiting food processing plant designs and brainstone on the deisgn ideas.                 |
+| 3 | Following the systematic engineering procedures, generate several possible design schemes and choose the best solutions.| 
+| 4 | Complete the first version of the detailed design with components in each sections identified and gain the feedback from client, third party supervisors and shadow team.|
+| 5 | Optimise the initial design with the feedback.|
+| 6 | Validate the and evaluate the design achieved the project requirements.|
+| 7 | Finalise the design and documentate all the information of the project back to client.|
 
 
 
