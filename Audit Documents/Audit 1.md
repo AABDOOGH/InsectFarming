@@ -57,17 +57,17 @@ This project team consists of 4 undergraduate students with different engineerin
   * All team members need to value feedback from team members and other stakeholders; avoid being defensive about giving and accepting any constructive feedback.
   * All team members need to communicate task progress regularly, try to finish the assigned tasks on time based on the deadline set in the milestone. 
 
-- Responsibilities of the Mechanism engineers  
+- Responsibilities of the Mechanism engineers to the project 
   * Finish the conceptual design based on the research. 
   * Use CAD software to draw the schematic diagrams of the designed mobile rendering process. 
   * Use finite-element-analysis tool (COMSOL Multiphysics) to simulate the machine-working-process and ensure the mobile plant can process insects into meals and oils that meet regulatory requirements.
   
-- Responsibilities of the research and repository manager
+- Responsibilities of the research and repository manager to the project 
   * Do the required technical research about the rendering process.
   * Do financial research about the whole designed rendering process and obtain the budget of both prototype.
   * Manage the repository and upload all the files and documents related to the project.
   
- - Responsibilities of administrator 
+ - Responsibilities of administrator to the project 
    * Set amd lead weekly regular group meetings.
    * Maintain contacts with clients and arrange regularly meeting between the project team and clients.
    * Document key points in each meetings and upload documentation to repository. 
