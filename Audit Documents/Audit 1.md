@@ -132,4 +132,5 @@ Potential customers have no responsibilities to the project, but their requireme
 
 ### Intellectual property 
 
- 
+## Setup of Tooling 
+
