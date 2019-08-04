@@ -20,6 +20,8 @@ This document is issued to define our team project - Mobile insect processing pl
 
 ### 1.1. Project Team 
 
+This project team consists of 4 undergraduate students with different engineering skills. All the members need to follow the ground rules in the group. Each member has their distinct roles and needs to be responsible for their sections. Other external stakeholders can direct contact with the member if they have any advice, concerns or questions toward one specific section.
+
 ### 1.2. Project Client
 
 Our client is [Goterra Pty Ltd](https://www.goterra.com.au). The company is a organic waste management company. They believe that make a difference means doing things differently. Different with other organic waste processing technologies, Goterra farms insects, especially, Black Soldier Fly, Hermetia Illucens (BSF) to consume organic waste and Throughout the course of our process we harvest our larvae and frass to turn them into valuable agricultural commodities. The client team members are involved in this mobile insect processing plant design project are outlined in the table below.
