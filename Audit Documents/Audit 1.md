@@ -161,7 +161,7 @@ The initial generated progress of the project may effect by the many unpredicabl
 
 ### Timeline of the Project
 
-
+![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/timeline.png)
 
 ### Work Breakdown Structure
 
