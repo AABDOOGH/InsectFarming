@@ -161,7 +161,7 @@ The initial generated progress of the project may effect by the many unpredicabl
 
 ### Timeline of the Project
 
-The Gantt Chart of the project could be found [HERE](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/Gantt-Chart.pdf)
+The Gantt Chart of the project could be found [HERE](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/Gantt%20Chart.pdf)
 
 
 ### Work Breakdown Structure
