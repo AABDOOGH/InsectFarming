@@ -168,7 +168,7 @@ The initial generated progress of the project may effect by the many unpredicabl
 | Level |	WBS code |	Element	| Duration (Days)|	Start Date|	End Date|	Responsible Person|	Dependancies	Descriptions|	Completence|
 | --- |	--- |	--- 	| --- |	--- |	--- |	--- |	--- |	--- |
 |1|	1	| Stretch Sense Integration	| 0 |	29/7/19	| 29/7/19	| Project team	|		
-|2|	1.1|	Concept of Operation	|8	|2/8/19	|9/8/19				|
+|**2|	1.1|	Concept of Operation	|8	|2/8/19	|9/8/19**				|
 |3|	1.1.1|	Project Scope |	6	|2/8/19|	7/8/19|	Minghui Zhang	|N/a		|
 |3|	1.1.2|	Stakeholder Analysis|	6|	2/8/19	|7/8/19	|Jessica Ying|	N/a		|
 |3|	1.1.3|	Completion of Non-Disclosure and IP Agreements	|6|	2/8/19	|7/8/19|	Project team and Goterra|	N/a		|
@@ -177,14 +177,14 @@ The initial generated progress of the project may effect by the many unpredicabl
 |3|	1.1.6|	Setup landing page and repository |	6	|2/8/19|	7/8/19	|Project team|	N/a		|
 |3|	1.1.7|	Setup milestones| 	6|	2/8/19|	7/8/19	|Jessica Ying|	N/a	|	
 |3|	1.1.8|	Finalise Initiation Documentation	|2	|7/8/19	|9/8/19	|Project team	|1.1.1-1.16	|	
-|2|	1.2	|Systems engineering governance	|	| 5/8/19	|30/8/2019	|(not specific determine yet)|	1.1	|	
+|**2|	1.2	|Systems engineering governance	|	| 5/8/19	|30/8/2019	|(not specific determine yet)|	1.1**	|	
 |3|	1.2.1	|Comfirm client needs	|5|	5/8/19	|9/8/19	|Project team and Goterra|	N/a	|	
 |3|	1.2.2	|Undertake requirements analysis|	8|	9/8/19|	16/8/19	|Project team|	1.2.1	|	
 |3|	1.2.3|	Undertake functional analysis	|8	|9/8/19|	16/8/19	|Project team|	1.3.1|		
 |3|	1.2.4|	Brainstone the possible design schemes	|8	|16/8/19	|23/8/19|	Project team|	1.2.1-1.2.3	|	
 |3|	1.2.5|	Undertake idea generation| 	8|	16/8/19	|23/8/19	|Project team	|1.2.1-1.2.4		|
 |3|	1.2.6|	Undertake system architecture	|8|	23/8/19|	30/8/19|	Project team|	1.2.1-1.2.5	|	
-|2|	1.3	|Project Execution	|	|2/8/19|	11/10/19	|(not specific determine yet)|	1.1-1.2|		
+|**2|	1.3	|Project Execution	|	|2/8/19|	11/10/19	|(not specific determine yet)|	1.1-1.2**|		
 |3|	1.3.1|	Research the plant and its technologies	|12|	2/8/19	|13/8/19|	Project team|	1.2|		
 |3|	1.3.2|	Sketch several possible design schemes|	11|	13/8/19	|23/8/19	|Project team	|1.2 & 1.3.1		|
 |3|	1.3.3	|Fill in the detail into the sections of the selected design	|8|	23/8/19	|30/8/19|	Project team|	1.2 & 1.3.2	|	
@@ -194,7 +194,7 @@ The initial generated progress of the project may effect by the many unpredicabl
 |3|	1.3.7	|Validate and evaluate the design achieved the requirements	|8|	27/9/19	|4/10/19|	Project team	|1.2 & 1.3.6	|	
 |3|	1.3.8	|Finalise the design |	8|	4/10/19|	11/10/19|	Project team|	1.1 & 1.2 & 1.3.7	|	
 |3|	1.3.9	|Finalise the financial budget estimation and product lifecycle|	22	|20/9/19|	11/10/19	|Project team	|1.1.4 & 1.3.8	|	
-|2|	1.4	|Project Delivery	|	| 11/10/19	|18/10/19| |		1.1-1.3|		
+|**2|	1.4	|Project Delivery	|	| 11/10/19	|18/10/19| |		1.1-1.3**|		
 |3|	1.4.1|	Finalise Documentation|	8|	11/10/19	|18/10/19|	Project team	|1.1-1.3		|
 |3|	1.4.2|	Project Handover|	0|	18/10/19	|18/10/19	|Project team|	1.4.1		|
 	
