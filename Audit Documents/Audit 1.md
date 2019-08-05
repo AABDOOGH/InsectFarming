@@ -163,10 +163,6 @@ The initial generated progress of the project may effect by the many unpredicabl
 
 ### Work Breakdown Structure
 
-The work breakdown structure table could be found [HERE] ( https://anu365.sharepoint.com/:x:/s/InsectFarming/EV9tcIgW1m1BhytURUJwBm0BOhnMe9ZFD9VFys6SwJPoqQ?e=uKMpYW ).
-
-<iframe width="402" height="346" frameborder="0" scrolling="no" src="https://anu365.sharepoint.com/sites/InsectFarming/_layouts/15/Doc.aspx?sourcedoc={88706d5f-d616-416d-872b-54454270066d}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
-
 | Level |	WBS code |	Element	| Duration (Days)|	Start Date|	End Date|	Responsible Person|	Dependancies	Descriptions|	Completence|
 | --- |	--- |	--- 	| --- |	--- |	--- |	--- |	--- |	--- |
 |1|	1	| Stretch Sense Integration	| 0 |	29/7/19	| 29/7/19	| Project team	|		
