@@ -161,7 +161,7 @@ The initial generated progress of the project may effect by the many unpredicabl
 
 ### Timeline of the Project
 
-![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/timeline.png)
+![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/Gantt_Chart.pdf)
 
 ### Work Breakdown Structure
 
@@ -197,6 +197,8 @@ The initial generated progress of the project may effect by the many unpredicabl
 |**2**|	**1.4**	|**Project Delivery**	|	| **11/10/19**	|**18/10/19**| |		**1.1-1.3**|		
 |3|	1.4.1|	Finalise Documentation|	8|	11/10/19	|18/10/19|	Project team	|1.1-1.3		|
 |3|	1.4.2|	Project Handover|	0|	18/10/19	|18/10/19	|Project team|	1.4.1		|
+	
+![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/timeline.png)
 	
 ## Contracts 
 
