@@ -216,12 +216,10 @@ The repository for this project is divided into six components. Click [here](htt
    * This section includes all the information related to each audit, including audit documents, presentations preparation, and feedback from other stakeholders in each audit tutorials. 
  - Research 
    * This section includes all the references that have been used in the designing and evaluating phases for the rendering process.   
- - Desicion making 
-   * This section includes all the decision-making process in details during the whole project
  - Rendering design 
    * This section includes all the information related to the designing and evaluating the rendering plant, including the CAD drawings, simulations, and financial analysis.  
  - Resources 
-   * This section includes all the other miscellaneous parts of the repository, including project initiation, project schedule and work timesheet. 
+   * This section includes all the other miscellaneous parts of the repository, including project initiation, project schedule, decision making and risk assessment. 
 - Image
    * This section includes all the images used in each documentations. 
 
