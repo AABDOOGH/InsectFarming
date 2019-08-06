@@ -212,7 +212,7 @@ The Gantt Chart of the project could be found [HERE](https://github.com/JessYJY/
 The repository for this project is divided into six components. Click [here](https://github.com/JessYJY/insectfarming.github.io) can redirect you to project repository.  
 - Meeting minutes
   * This section includes all the important points discussed in each meeting, including weekly group meetings, client meetings, and any other external meetings. 
- - Audits
+ - Audit documents
    * This section includes all the information related to each audit, including audit documents, presentations preparation, and feedback from other stakeholders in each audit tutorials. 
  - Research 
    * This section includes all the references that have been used in the designing and evaluating phases for the rendering process.   
@@ -222,5 +222,6 @@ The repository for this project is divided into six components. Click [here](htt
    * This section includes all the information related to the designing and evaluating the rendering plant, including the CAD drawings, simulations, and financial analysis.  
  - Resources 
    * This section includes all the other miscellaneous parts of the repository, including project initiation, project schedule and work timesheet. 
-
+- Images
+   * This section includes all the images used in each documentations. 
 
