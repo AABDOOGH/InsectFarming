@@ -17,6 +17,12 @@ This document is issued to define our team project - Mobile insect processing pl
   * [2.3. Supervisors](#13-supervisors)
   * [2.4. Shadow Team](#14-shadow-team)
   * [2.5. Potential Customers](#15-potential-customers)
+- [3. Resources, Risks and Contingencies](#2-resources-risks-and-contingencies)
+  * [3.1. Project Costs](#21-project-costs)
+  * [3.2. Project Outcome Risks](#22-project-outcome-risks)
+  	* [3.2.1. Financial Risks](#221-financial-risks)
+	* [3.2.2. Material Risks](#222-material-risks)
+  * [3.3. Contingencies](#23-contingencies)
 
 ## 1. Project Vision 
 
@@ -24,14 +30,14 @@ This project aims to produce mobile and cost-effective rendering plant, capable 
 
 ### 1.1 Value proposition 
 
-Population increases dramatically in recent years, and it accompanies with increased consumption of food. One crucial component in human's dietary structure, protein, requires people to expand the soybean cultivation to feed livestock. One alternative solution is farm insect to provide an alternative food resource to livestock. The current regulations require the animal products which are used in agriculture feeds to be processed in the rendering plant. However, the existing rendering plant cannot process the insects in an economically way due to the small-scale nature of insect farming industry in Australia. Thus, this project is aiming to design a mobile, micro processing plant which can process insects cost-effectively.  
+Population increases have dramatically risen in recent years, and with it increased consumption of food. One crucial component in human's dietary structure, protein, requires people to expand the soybean cultivation to feed livestock. One alternative solution is to farm insects in order to provide an alternative food resource to livestock. Current regulations require the animal products, which are used in agriculture feeds, to be processed in modern rendering plants. However, the existing rendering plants cannot process the insects economically, due to the small-scale nature of insect farming industry in Australia. Thus, this project is aiming to design a mobile, micro processing plant which can process insects cost-effectively.  
 
 ### 1.2 Project Scope 
 
 The project scopes are divided into three parts and summarized below.
 * Use CAD software to draw the schematic drawing of the designed micro-processing rendering plant. 
-* Use FEA software to simulate the working process of the plant and make sure the designed plant can technically work properly and meet the requirements. 
-* Conduct the economic analysis to find out the budget for building a prototype and a plant. 
+* Use FEA software to simulate the working process of the plant and make sure the designed plant can technically work properly and meet the stakeholder requirements. 
+* Conduct economic analysis to calculate the budget for building a prototype plant. 
 
 
 ### 1.3 Key achievement 
@@ -41,7 +47,7 @@ The expected key achievement in this project is designing and building a mobile 
 
 ### 2.1. Project Team 
 
-This project team consists of 4 undergraduate students with different engineering skills. All the members need to follow the ground rules in the group. Each member has their distinct roles and needs to be responsible for their sections. Other external stakeholders can direct contact with the member if they have any advice, concerns or questions toward one specific section.
+This project team consists of 4 undergraduate students with different engineering skills. All the members need to follow the ground rules in the group. Each member has their distinct roles and needs to be responsible for their sections. Other external stakeholders can have direct contact with the member if they have any advice, concerns or questions toward one specific section.
 
 
 | Name           | Role                  | Email                                                   |
@@ -58,24 +64,24 @@ This project team consists of 4 undergraduate students with different engineerin
   * All team members need to communicate task progress regularly, try to finish the assigned tasks on time based on the deadline set in the milestone. 
 
 - Responsibilities of the Mechanism engineers to the project 
-  * Finish the conceptual design based on the research. 
+  * Finish the conceptual design based on research conducted. 
   * Use CAD software to draw the schematic diagrams of the designed mobile rendering process. 
   * Use finite-element-analysis tool (COMSOL Multiphysics) to simulate the machine-working-process and ensure the mobile plant can process insects into meals and oils that meet regulatory requirements.
   
 - Responsibilities of the research and repository manager to the project 
   * Do the required technical research about the rendering process.
-  * Do financial research about the whole designed rendering process and obtain the budget of both prototype.
+  * Do financial research about the whole designed rendering process and obtain the budget of the final proposed prototype.
   * Manage the repository and upload all the files and documents related to the project.
   
  - Responsibilities of administrator to the project 
-   * Set amd lead weekly regular group meetings.
+   * Set and lead weekly regular group meetings.
    * Maintain contacts with clients and arrange regularly meeting between the project team and clients.
    * Document key points in each meetings and upload documentation to repository. 
    * Ensure all the project goals and milestones are achieved and not behind schedule.
   
 ### 2.2. Project Client
 
-Our client is [Goterra Pty Ltd](https://www.goterra.com.au). The company is a organic waste management company. They believe that make a difference means doing things differently. Different with other organic waste processing technologies, Goterra farms insects, especially, Black Soldier Fly, Hermetia Illucens (BSF) to consume organic waste and Throughout the course of our process we harvest our larvae and frass to turn them into valuable agricultural commodities. The client team members are involved in this mobile insect processing plant design project are outlined in the table below.
+Our client is [Goterra Pty Ltd](https://www.goterra.com.au). The company is a organic waste management company. They believe that in order to make a difference, things need to be done differently. Different from other organic waste processing technologies, Goterra farms insects, especially the Black Soldier Fly, Hermetia Illucens (BSF) to consume organic waste and throughout the course of our process, harvest larvae and frass to turn them into valuable agricultural commodities. The client team members that are involved in this mobile insect processing plant design project are outlined in the table below.
 
 | Name           | Role                  | Contact                   | Key interaction with the Project                           |
 | :------------: |:-------------:        | :-----:                   | ------                                                 |
@@ -86,17 +92,17 @@ Our client is [Goterra Pty Ltd](https://www.goterra.com.au). The company is a or
 - Responsibilities of the project team to the client
   * Design a low-cost mobile insect processing plant in regards to the client baseline requirements.
   * Regularly report the project progress and other relative information (such as reasonable delays and potential risks). 
-  * According to the design,estimate a finanal budget analysis (including the product lifecycle and potential cost on build the plant).   
+  * According to the design, estimate a financial budget analysis (including the product lifecycle and potential cost of the build of the plant).   
 
 - Responsibilities of the client to the project
-  * Provide the defination and objectives of the project. 
-  * Provide feedback to project team timely.
-  * Provide relevent and necessary technical supervisation and assistance.
+  * To define the objectives of the project. 
+  * Provide feedback to the project team timely.
+  * Provide relevent and necessary technical supervision and assistance.
   * Be able to attend the regularly set meeting. 
  
 ### 2.3. Third Party Supervisors
 
-The third party supervisors in the project are the course convenor and tutor of [ENGN4221](https://programsandcourses.anu.edu.au/course/engn4221) at Australian National University. The purpose of the course is engaging the students to solve the practical industrial design problem with application of the learnt systematic and techincal knowledge. Whilst doing the project, the development of communication skills, professional skills, team work management will be expected.
+The third party supervisors in the project are the course convenor and tutor of [ENGN4221](https://programsandcourses.anu.edu.au/course/engn4221) at Australian National University. The purpose of the course is to engage the students to solve a practical industrial design problem with application of the learnt systematic and techincal knowledge. Whilst doing the project, the development of communication skills, professional skills, team work management will be expected.
 
 | Name           | Role                  | Contact                   | Key interaction with the Project                           |
 | :------------: |:-------------:        | :-----:                   | ------                                                 |
@@ -105,7 +111,7 @@ The third party supervisors in the project are the course convenor and tutor of 
 
 - Responsibilities of the project team to the third party supervisors
   * Provide the detailed information in regards to the assessment guidance about the project progress towards the milestone.
-  * Attend the regular tutorials and do the presentations to talk about the project.
+  * Attend the regular tutorials and do the presentations that talk about the project.
   * Submit the required documents on time.
 
 - Responsibilities of the third party supervisors to the project
@@ -117,10 +123,10 @@ The third party supervisors in the project are the course convenor and tutor of 
 
 ### 2.4. Shadow Team
 
-The shadow team is another stakeholder in the project, who is enroled in the same tutorial slot as our project team. The shadow team has access to review all project information and will regularly provide feedback on each stages of project. Our project progress may inspired them and their recommendations may also be useful on the improvments of the project.
+The shadow team is another stakeholder in the project, who is enroled in the same tutorial slot as our project team. The shadow team has access to review all project information and will regularly provide feedback on each stages of project. Our project progress may inspire them and their recommendations may also be useful on the improvments of the project.
 
 - Responsibilities of the project team to the shadow team
-  * Provide shadow team the required access to our team project respoitories.
+  * Provide shadow team the required access to our team project respositories.
   * Communicate appropriately with shadow team. 
 
 - Responsibilities of the shadow team to the project
@@ -128,13 +134,68 @@ The shadow team is another stakeholder in the project, who is enroled in the sam
 
 ### 2.5. Potential Customers
 
-Potential customers of our project product will be the insect farms, organic waste management companies. Goterra has client from government, councils, hotels, hospitals, restaurants and households. They are also the target customers.  
+Potential customers (and the targets) of our project product will be insect farms and other organic waste management companies. Goterra has clients from government, councils, hotels, hospitals, restaurants and households.  
 
-Potential customers have no responsibilities to the project, but their requirements are one of the most important factors to be considered on the progress of designing the mobile insect processing plant. 
+Potential customers have no responsibilities to the project, but their requirements are one of the most important factors to be considered in the process of designing the mobile insect processing plant.
+
+## 3. Resources, Risks and Contingencies
+
+Large amounts of heat, pressure and liquid are involved in the rendering process. While better manageable in a factory setting, with infrastructural ventilation and cooling, doing the same processes in a small scale space will require thorough understanding of the thermodynamic systems taking place. 
+This is of course to minimize the resources needed to complete the project, the possible risks faced,  and allows accurate understanding of the contingencies needed to prevent them.
+
+### 3.1. Project Costs
+
+The goal of this project is to deliver a preliminary design for a movable, compact, insect meal rendering plant, with actual prototyping and final design to be completed over a "to be determined" period of time beyond 2019. The costs associated with the first stage of this process will therefore be minimal, as most of the project work will revolve around building simulated designs using different software tools, as well as conducting market research with different industry partners, and having discussions with foreign manufacturers and merchants. 
+
+The projected budget is therefore as follows:
+
+| Resource needed | Bearer | Estimated Cost (AUS $) |
+| :-------:   | :-------  | :-------------------------------------------------- |
+| Labour | ANU | N/A |
+| Software Resources | ANU | N/A |
+| Transport | Gotera/ANU | 50 |
+| Total | | 50 |
+
+### 3.2. Project Outcome Risks
+
+The integrated nature of the final design, has with it accompanying risks that all pose their own different levels of importance. These risks can be relegated into two categories: Financial and Material Risks, each with their own set of contigencies that will aim to minimize their probability and impact.
+
+#### 3.2.1. Financial Risks
+
+As the categoriy suggests, these are risks that result due to poor research and design, which result in either mismanaged funds or wasted capital expenditure. 
+
+The most significant of these are as follows:
+
+| Risk | Description                                                  |
+| :-------:   | :----------------------------------------------------------  |
+| Innacurate Cost Projections | Some of the costing done of the equipment and general infrastructure of the unit will require estimates based on what information is publicly available or readily obtainable. If these project costs are innacurate, and they move through into the final design, it may end up maaking the plant too expensive too produce, with the addition ofa possible re-start near the beginning of the design process. | 
+| Over-Engineered Design| A key stakeholder requirement is that the costs of the final design be kept as low as possible, and as efficient as possible. If the final design has built-in ineffcencies, this equates to over-spending on equipment, and therefore must be avoided.|
+| Poorly Engineered Design | The worst case scenario in which both of the above scenarios may take place, as well as the additional issue that the final design is not fit for purpose, most likely resulting in acquisition of large amounts of capital that has no function.|
+
+#### 3.2.2. Material Risks
+
+These risks pertain to the physical nature of the rendering plant and its associated processes. 
+
+| Risk | Description                                                  |
+| :-------:   | :----------------------------------------------------------  |
+| Inadequate Cooling | The large amounts of heat produced by the rendering process will require effective cooling methods to ensure no damage can result to the equipment integrated togethor in the confined area, while also ensuring the safety of any human operators nearby or when scheduled maintenace takes place |
+| Pressure Build-Up | The confined space that the process will be housed in may result in gradual pressure build-up, due to the heat and gasses used to seperate the meal from the tallow. If left un-mitigated, damage can occur to not only the equipment housed inside the module, but also to any humans near the unit when the pressure is violently released, whether in the form of an explosion(s) or super heated gasses.|
+| Inadequate Supporting Structure | The housing that the plant will be placed in needs to not only protect the equipment, but also ensure that weight distribution is even, peripheral equipment such as conveyer belts and pipes are properly supported, no piece of equipment can interfere with the function of another, and that movement of the module will not cause damage to the equipment housed inside (as mobility of the rendering plant is a key stakeholder requirement).|
+| Limited Access | The design of the plant and housing needs to support accessability to the equipment and all supporting infrastructure, in order to ensure regular maintenance and repairs, minimizing some of the hazardous risks explained above.|
+
+### 3.3. Contingencies
+
+As demonstrated, the risks the project in general faces are widespread and feature not only in the physical space but in the financial one as well. There are therefore contingencies that need to be placed to ensure that the design process minimizes the probability of each of the afformentioned risks, ensuring the highest probability of success for the project.
+
+Instituting key aspects into the design process is therefore crucial, with those being identified as:
+<ul><li> A Central Control System: This will observe all sensor data measured in the plant to notify any operators of potential hazards that need to be mitigated. 
+</li><li> Modular Design: Ensuring that any design is modular (while also fostering integration) will allow easy access, as well as assist in cooling and ventilating the plant.
+</li><li> Stepped Design and Review Process: This will assure proof of concept, minimizing the financial risks mentioned, as well as producing the best overall desing that meets the stakeholder requirements.
+</li></ul>
 
 ## Milestone 
 
-The following statement of milestones are drafts, they will be updates with the progress of project.
+The following statement of milestones are drafts, they will be updated with the progress of project.
 
 | Milestone  | Objectives| Exit Criteria                                    |
 | :-------:   | :-------  | :-------------------------------------------------- |
