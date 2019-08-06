@@ -209,7 +209,7 @@ The Gantt Chart of the project could be found [HERE](https://github.com/JessYJY/
 
 ## Development Tools and management of taks(Project Repository)
 ### Repository Guide 
-The repository for this project is divided into six components. click this link can redirect you to project repository xxxxxxxx.  
+The repository for this project is divided into six components. Click [here](https://github.com/JessYJY/insectfarming.github.io) can redirect you to project repository.  
 - Meeting minutes
   * This section includes all the important points discussed in each meeting, including weekly group meetings, client meetings, and any other external meetings. 
  - Audits
