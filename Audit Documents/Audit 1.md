@@ -24,7 +24,7 @@ This project aims to produce mobile and cost-effective rendering plant, capable 
 
 ### 1.1 Value proposition 
 
-Population increases dramatically in recent years and it accompanies with increased consumption of food. One important component in human's dietary structure, protein, requires people to expand the soybean cultivation to feed livestock. One alternative solution is farm insect to provide an alternative food resource to livestock. The current regulations require the animal products which are used in agriculture feeds to be processed in the rendering plant. However, the existing rendering plant cannot process the insects in an economically way due to the small-scale nature of insect farming industry in Australia. Thus, this project is aiming to design a mobile, micro processing plant which can process insects cost-effectively.  
+Population increases dramatically in recent years, and it accompanies with increased consumption of food. One crucial component in human's dietary structure, protein, requires people to expand the soybean cultivation to feed livestock. One alternative solution is farm insect to provide an alternative food resource to livestock. The current regulations require the animal products which are used in agriculture feeds to be processed in the rendering plant. However, the existing rendering plant cannot process the insects in an economically way due to the small-scale nature of insect farming industry in Australia. Thus, this project is aiming to design a mobile, micro processing plant which can process insects cost-effectively.  
 
 ### 1.2 Project Scope 
 
@@ -35,7 +35,7 @@ The project scopes are divided into three parts and summarized below.
 
 
 ### 1.3 Key achievement 
-The expected key achievement in this project is designing and building a mobile and cost-effective rendering plant which can process and convert insects into oil and meal for livestock which can meet regulatory requirements. 
+The expected key achievement in this project is designing and building a mobile and cost-effective rendering plant, which can process and convert insects into oil and meal for livestock which can meet regulatory requirements. 
 
 ## 2. Relevant Stakeholders
 
@@ -53,8 +53,8 @@ This project team consists of 4 undergraduate students with different engineerin
 
 - Project team ground rules
   * All team members need to communicate and treat each other with respect.
-  * All team members need to attend regular weekly meetings, client meetings and external meetings on time. If any group members cannot attend meeting on time, please let others know.  
-  * All team members need to value feedback from team members and other stakeholders; avoid being defensive about giving and accepting any constructive feedback.
+  * All team members need to attend meetings on time. If any group members cannot attend meeting, please let others know.  
+  * All team members need to value feedback from team members and other stakeholders; avoid being defensive about giving and receiving any constructive feedback.
   * All team members need to communicate task progress regularly, try to finish the assigned tasks on time based on the deadline set in the milestone. 
 
 - Responsibilities of the Mechanism engineers to the project 
@@ -202,15 +202,15 @@ The Gantt Chart of the project could be found [HERE](https://github.com/JessYJY/
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/timeline.png)
 	
 ## Contracts 
-
-### Non-Disclosure Agreement 
-
-### Intellectual property 
+The client specified that our team do not need to sign over non-disclosure agreement and any contract related to intellectual property. 
 
 ## Development Tools and management of taks(Project Repository)
+
+Both SharePoint and GitHub are used in this project as development tools. SharePoint is used to collaborate with tasks together. The primary purpose of using Github is to organise, and archive finalised documentations. Besides, it is used as the repository in this project.  
+
 ### Repository Guide 
 The repository for this project is divided into six components. Click [here](https://github.com/JessYJY/insectfarming.github.io) can redirect you to project repository.  
-- Meeting minutes
+- Meeting
   * This section includes all the important points discussed in each meeting, including weekly group meetings, client meetings, and any other external meetings. 
  - Audit documents
    * This section includes all the information related to each audit, including audit documents, presentations preparation, and feedback from other stakeholders in each audit tutorials. 
