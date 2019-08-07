@@ -7,22 +7,30 @@ This document is issued to define our team project - Mobile insect processing pl
 | 01               | 00               | 03/08/2019       | Draft for Audit 1 | Jessica Ying      |                   |
 
 ## Table of Content
-- [1. Project Vision](#Project-vision)
-  * [1.1. Value Proposition](#value-proposition)
-  * [1.2. Project Scope](#project-scole)
-  * [1.3. Key Achievement](#key-achievement)
-- [2. Relevant Stakeholders](#1-relevant-stakeholders)
-  * [2.1. Project Team](#11-project-team)
-  * [2.2. Project Client](#12-project-client)
-  * [2.3. Supervisors](#13-supervisors)
-  * [2.4. Shadow Team](#14-shadow-team)
-  * [2.5. Potential Customers](#15-potential-customers)
-- [3. Resources, Risks and Contingencies](#2-resources-risks-and-contingencies)
-  * [3.1. Project Costs](#21-project-costs)
-  * [3.2. Project Outcome Risks](#22-project-outcome-risks)
-  	* [3.2.1. Financial Risks](#221-financial-risks)
-	* [3.2.2. Material Risks](#222-material-risks)
-  * [3.3. Contingencies](#23-contingencies)
+- [1. Project Vision](#1-project-vision)
+  * [1.1 Value proposition](#11-value-proposition)
+  * [1.2 Project Scope](#12-project-scope)
+  * [1.3 Key achievement](#13-key-achievement)
+- [2. Relevant Stakeholders](#2-relevant-stakeholders)
+  * [2.1. Project Team](#21-project-team)
+  * [2.2. Project Client](#22-project-client)
+  * [2.3. Third Party Supervisors](#23-third-party-supervisors)
+  * [2.4. Shadow Team](#24-shadow-team)
+  * [2.5. Potential Customers](#25-potential-customers)
+- [3. Resources Risks and Contingencies](#3-resources-risks-and-contingencies)
+  * [3.1. Project Costs](#31-project-costs)
+  * [3.2. Project Outcome Risks](#32-project-outcome-risks)
+    + [3.2.1. Financial Risks](#321-financial-risks)
+    + [3.2.2. Material Risks](#322-material-risks)
+  * [3.3. Contingencies](#33-contingencies)
+- [Milestone](#milestone)
+  * [Goals for Each Audit](#goals-for-each-audit)
+  * [Contingencies](#contingencies)
+  * [Timeline of the Project](#timeline-of-the-project)
+  * [Work Breakdown Structure](#work-breakdown-structure)
+- [Contracts](#contracts)
+- [Development Tools and management of taks - Project Repository](#development-tools-and-management-of-taks---project-repository)
+  * [Repository Guide](#repository-guide)
 
 ## 1. Project Vision 
 
@@ -139,7 +147,7 @@ Potential customers (and the targets) of our project product will be insect farm
 
 Potential customers have no responsibilities to the project, but their requirements are one of the most important factors to be considered in the process of designing the mobile insect processing plant.
 
-## 3. Resources, Risks and Contingencies
+## 3. Resources Risks and Contingencies
 
 Large amounts of heat, pressure and liquid are involved in the rendering process. While better manageable in a factory setting, with infrastructural ventilation and cooling, doing the same processes in a small scale space will require thorough understanding of the thermodynamic systems taking place. 
 This is of course to minimize the resources needed to complete the project, the possible risks faced,  and allows accurate understanding of the contingencies needed to prevent them.
@@ -261,12 +269,12 @@ The Gantt Chart of the project could be found [HERE](https://github.com/JessYJY/
 |3|	1.4.1|	Finalise Documentation|	8|	11/10/19	|18/10/19|	Project team	|1.1-1.3		|
 |3|	1.4.2|	Project Handover|	0|	18/10/19	|18/10/19	|Project team|	1.4.1		|
 	
-![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/timeline.png)
+![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/timeline_updated.png)
 	
 ## Contracts 
 The client specified that our team do not need to sign over non-disclosure agreement and any contract related to intellectual property. 
 
-## Development Tools and management of taks(Project Repository)
+## Development Tools and management of taks - Project Repository
 
 Both SharePoint and GitHub are used in this project as development tools. SharePoint is used to collaborate tasks together. The primary purpose of using Github is to organise, and archive finalised documentations. Besides, it is being the repository for this project.  
 
