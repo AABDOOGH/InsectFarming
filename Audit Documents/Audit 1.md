@@ -35,7 +35,7 @@ Population increases have dramatically risen in recent years, and with it increa
 ### 1.2 Project Scope 
 
 The project scopes are divided into three parts and summarized below.
-* Design the micro-scale rendering plant based on research and current exist large-scale plant. 
+* Design the micro-scale rendering plant based on research. 
 * Use CAD software to draw the schematic drawing of the designed micro-processing rendering plant. 
 * Use FEA software to simulate the working process of the plant and make sure the designed plant can technically work properly and meet the stakeholder requirements. 
 * Conduct economic analysis to calculate the budget for building a prototype plant. 
