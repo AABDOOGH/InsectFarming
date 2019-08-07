@@ -5,11 +5,15 @@ At Goterra, we believe that making a difference means doing things differently.
 # Table of Contents
 
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/xEka0FpmR5k/0.jpg)](http://www.youtube.com/watch?v=xEka0FpmR5k)
+
+
+
 
 ## Project Vision 
 
 This project aims to produce mobile and cost-effective rendering plant, capable of processing insects into meals and oils that meet regulatory requirements. The goal for this semester is to finish the designing part of the project.
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/xEka0FpmR5k/0.jpg)](http://www.youtube.com/watch?v=xEka0FpmR5k)
 
 ### Value proposition 
 
