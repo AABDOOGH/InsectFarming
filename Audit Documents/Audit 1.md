@@ -41,7 +41,7 @@ The project scopes are divided into three parts and summarized below.
 
 
 ### 1.3 Key achievement 
-The expected key achievement in this project is designing and building a mobile and cost-effective rendering plant, which can process and convert insects into oil and meal for livestock which can meet regulatory requirements. 
+The expected achievement in this project is designing and building a mobile and cost-effective rendering plant, which can process and convert insects into oil and meal for livestock which can meet regulatory requirements. The key achievement in this semester is to finalize the designing part of the project.
 
 ## 2. Relevant Stakeholders
 
@@ -267,10 +267,10 @@ The client specified that our team do not need to sign over non-disclosure agree
 
 ## Development Tools and management of taks(Project Repository)
 
-Both SharePoint and GitHub are used in this project as development tools. SharePoint is used to collaborate with tasks together. The primary purpose of using Github is to organise, and archive finalised documentations. Besides, it is used as the repository in this project.  
+Both SharePoint and GitHub are used in this project as development tools. SharePoint is used to collaborate tasks together. The primary purpose of using Github is to organise, and archive finalised documentations. Besides, it is being the repository for this project.  
 
 ### Repository Guide 
-The repository for this project is divided into six components. Click [here](https://github.com/JessYJY/insectfarming.github.io) can redirect you to project repository.  
+The repository for this project is divided into six components. Click [here](https://github.com/JessYJY/insectfarming.github.io) can direct you to project repository.  
 - Meeting
   * This section includes all the important points discussed in each meeting, including weekly group meetings, client meetings, and any other external meetings. 
  - Audit documents
