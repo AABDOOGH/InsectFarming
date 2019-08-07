@@ -23,14 +23,14 @@ This document is issued to define our team project - Mobile insect processing pl
     + [3.2.1. Financial Risks](#321-financial-risks)
     + [3.2.2. Material Risks](#322-material-risks)
   * [3.3. Contingencies](#33-contingencies)
-- [Milestone](#milestone)
-  * [Goals for Each Audit](#goals-for-each-audit)
-  * [Contingencies](#contingencies)
-  * [Timeline of the Project](#timeline-of-the-project)
-  * [Work Breakdown Structure](#work-breakdown-structure)
-- [Contracts](#contracts)
-- [Development Tools and management of taks - Project Repository](#development-tools-and-management-of-taks---project-repository)
-  * [Repository Guide](#repository-guide)
+- [4. Milestone](#4-milestone)
+  * [4.1. Goals for Each Audit](#41-goals-for-each-audit)
+  * [4.2. Contingencies](#42-contingencies)
+  * [4.3. Timeline of the Project](#43-timeline-of-the-project)
+  * [4.5. Work Breakdown Structure](#45-work-breakdown-structure)
+- [5. Contracts](#5-contracts)
+- [6. Development Tools and management of taks - Project Repository](#6-development-tools-and-management-of-taks---project-repository)
+  * [6.1. Repository Guide](#61-repository-guide)
 
 ## 1. Project Vision 
 
@@ -202,7 +202,7 @@ Instituting key aspects into the design process is therefore crucial, with those
 </li><li> Stepped Design and Review Process: This will assure proof of concept, minimizing the financial risks mentioned, as well as producing the best overall desing that meets the stakeholder requirements.
 </li></ul>
 
-## Milestone 
+## 4. Milestone 
 
 The following statement of milestones are drafts, they will be updated with the progress of project.
 
@@ -216,25 +216,25 @@ The following statement of milestones are drafts, they will be updated with the 
 | 6 | Validate and evaluate the design achieved the project requirements.|<ul><li>Complete pressure and heat analysis on the 3D model of the designed plant that ensure the design is achieved all of the project requirements and client needs</li><li>Complete technical importance table and evaluation matrix </li></ul> |
 | 7 | Finalise the design and documentate all the information of the project back to client.|<ul><li>All documentations and repository information given to Goterra</li><li>All the CAD design files given to Goterra</li><li>Meet the client to ensure the client satification and give the general introduce on the continues work</li></ul> |
 
-### Goals for Each Audit
+### 4.1. Goals for Each Audit
 | Audit           | Time             | Goals and deliverables           |
 | :-------------: | :--------------: | :--------------  | 
 | Audit 01        | 09/08/2019       | <ul><li>Decide and establish the project landing page and repository</li><li>Clarify the ojectives to define project for this semester with client including problem scope, stakeholder analysis and system boundary analysis</li><li>Complete the first version of Concept of Operation document</li><li>Briefly estimate the financial budget</li></ul> |
 | Audit 02        | 30/08/2019       | <ul><li>Complete systematic engieering governance, such as requirements analysis including pairwise analysis and technical performance measures, functional analysis and system architeture for the design</li><li>Do the research on the food processing plant and brainstone the design ideas</li><li>Generate and sketch several possible design schemes</li><li>Provide more detail on each section design</li><li>Update Concept of Operation document into second version</li></ul> | 
 | Audit 03        | 11/10/2019       | <ul><li>Finalise the mobile insect processing plant design, including</li><li>Validate and evaluate the design achieved the project requirements </li><li>Documentate the estimated finanal cost on building the plant and the lifecycle of the plant</li><li>Complete the handover documentation back to the client</li><li>Complete and submit the project poster and be ready to present at the project showcase</li></ul> | 
 
-### Contingencies
+### 4.2. Contingencies
 
 If everything goes well and the first 7 [Milestone](#Milestone) could be completed before the set timeline, the further more complex analysis with less limitations could be achieved and a scaled-downed prototype of the designed plant is another milestone. 
 
 The initial generated progress of the project may effect by the many unpredicable and unexpected factors. Hence, the baseline of the project is finish the CAD design of the insect processing plant with all its funcationalities identified and dimensions detailed.
 
-### Timeline of the Project
+### 4.3. Timeline of the Project
 
 The Gantt Chart of the project could be found [HERE](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/Gantt%20Chart.pdf)
 
 
-### Work Breakdown Structure
+### 4.5. Work Breakdown Structure
 
 | Level |	WBS code |	Element	| Duration (Days)|	Start Date|	End Date|	Responsible Person|	Dependancies	Descriptions|	Completence|
 | --- |	--- |	--- 	| --- |	--- |	--- |	--- |	--- |	--- |
@@ -271,14 +271,14 @@ The Gantt Chart of the project could be found [HERE](https://github.com/JessYJY/
 	
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/timeline_updated.png)
 	
-## Contracts 
+## 5. Contracts 
 The client specified that our team do not need to sign over non-disclosure agreement and any contract related to intellectual property. 
 
-## Development Tools and management of taks - Project Repository
+## 6. Development Tools and management of taks - Project Repository
 
 Both SharePoint and GitHub are used in this project as development tools. SharePoint is used to collaborate tasks together. The primary purpose of using Github is to organise, and archive finalised documentations. Besides, it is being the repository for this project.  
 
-### Repository Guide 
+### 6.1. Repository Guide 
 The repository for this project is divided into six components. Click [here](https://github.com/JessYJY/insectfarming.github.io) can direct you to project repository.
 - Project initiation 
   * In this section, it includes project scope, stakeholder analysis, requirement analysis, function analysis and risk assessment.  
