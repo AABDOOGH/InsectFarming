@@ -38,3 +38,8 @@ The following statement of milestones are drafts, they will be updates with the 
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 | <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=xEka0FpmR5k
+" target="_blank"><img src="http://img.youtube.com/vi/xEka0FpmR5k/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
