@@ -1,9 +1,15 @@
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/ProTitle.png)
 
-At Goterra, we believe that making a difference means doing things differently.
 
 # Table of Contents
-
+- [Project Vision](#project-vision)
+  * [Value proposition](#value-proposition)
+  * [Project Scope](#project-scope)
+  * [Key achievement](#key-achievement)
+- [Relevant Stakeholders](#relevant-stakeholders)
+  * [Project Team](#project-team)
+  * [Project Client](#project-client)
+  * [Potential Customers](#potential-customers)
 
 
 
