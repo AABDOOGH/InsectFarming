@@ -163,7 +163,8 @@ The projected budget is therefore as follows:
 | Labour | ANU | N/A |
 | Software Resources | ANU | N/A |
 | Transport | Gotera/ANU | 50 |
-| Total | | 50 |
+| Prototyping| ANU| 500
+| Total | | 550 |
 
 ### 3.2. Project Outcome Risks
 
