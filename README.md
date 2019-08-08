@@ -9,10 +9,10 @@
   * [Project Team](#project-team)
   * [Project Client](#project-client)
   * [Potential Customers](#potential-customers)
-  * [Concept of Operations](#concept-of-operations)
-  * [Project Schedule](#project-schedule)
-  * [Meeting Minutes](#meeting-minutes)
-  * [Decision Log](#decision-log)
+ - [Concept of Operations](#concept-of-operations)
+ - [Project Schedule](#project-schedule)
+ - [Meeting Minutes](#meeting-minutes)
+ - [Decision Log](#decision-log)
 
 
 
