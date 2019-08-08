@@ -280,7 +280,7 @@ The client specified that our team do not need to sign over non-disclosure agree
 Both SharePoint and GitHub are used in this project as development tools. SharePoint is used to collaborate tasks together. The primary purpose of using Github is to organise, and archive finalised documentations. Besides, it is being the repository for this project.  
 
 ### 6.1. Repository Guide 
-The repository for this project is divided into six components. Click [here](https://github.com/JessYJY/insectfarming.github.io) can direct you to project repository.
+The repository for this project is divided into seven components. Click [here](https://github.com/JessYJY/insectfarming.github.io) can direct you to project repository.
 - Project initiation 
   * In this section, it includes project scope, stakeholder analysis, requirement analysis, function analysis, resources risks and contingencies  
 - Project Schedule 
@@ -289,6 +289,8 @@ The repository for this project is divided into six components. Click [here](htt
   * This section includes all the important points discussed in each meeting, including weekly group meetings, client meetings, and any other external meetings. 
  - Audit documents
    * This section includes all the information related to each audit, including audit documents, presentations preparation, and feedback from other stakeholders in each audit tutorials. 
+ - Deision log 
+   * This section contains each decision making process during the project, including background, SWOT anlaysis of option considered, action items and the outcomes. 
  - Research 
    * This section includes all the references that have been used in the designing and evaluating phases for the rendering process.   
  - Rendering design 
