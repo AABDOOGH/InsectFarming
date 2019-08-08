@@ -98,10 +98,11 @@ This project team consists of 4 undergraduate students with different engineerin
 Our client is [Goterra Pty Ltd](https://www.goterra.com.au). The company is a organic waste management company. They believe that in order to make a difference, things need to be done differently. Different from other organic waste processing technologies, Goterra farms insects, especially the Black Soldier Fly, Hermetia Illucens (BSF) to consume organic waste and throughout the course of our process, harvest larvae and frass to turn them into valuable agricultural commodities. The client team members that are involved in this mobile insect processing plant design project are outlined in the table below.
 
 | Name           | Role                  | Contact                   | Key interaction with the Project                           |
-| :------------: |:-------------:        | :-----:                   | ------                                                 |
+| :------------: |:-------------:        | :-----:                   | ------                                                |
+| Martin Amidy   | On behalf of Olympia  | martin.amidy@anu.edu.au   | Regularlly provides feedback and supervision during the project ongoing period and builds the connection between our project team and the project client |
 | Olympia Yarger | Founder and CEO       | olympia@goterra.com.au    | Provides the defination and objectives of the project and guides on the project progress |
 | Jiefei Wang    | Robotics Engineer     | jiefei@goterra.com.au     | Provides relevant technical supervisation and assistance |
-| Martin Amidy   | On behalf of Olympia  | martin.amidy@anu.edu.au   | Regularlly provides feedback and supervision during the project ongoing period and builds the connection between our project team and the project client |
+
  
 - Responsibilities of the project team to the client
   * Design a low-cost mobile insect processing plant in regards to the client baseline requirements.
@@ -148,7 +149,7 @@ The shadow team is another stakeholder in the project, who is enroled in the sam
 
 ### 2.5. Potential Customers
 
-Potential customers (and the targets) of our project product will be insect farms and other organic waste management companies. Goterra has clients from government, councils, hotels, hospitals, restaurants and households.  
+Potential customers (and the targets) of our project product will be insect farms and other organic waste management companies, who are willing to convert waste into valuable products through insects. 
 
 Potential customers have no responsibilities to the project, but their requirements are one of the most important factors to be considered in the process of designing the mobile insect processing plant.
 
