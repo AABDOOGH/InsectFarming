@@ -1,10 +1,10 @@
 ## Table of Content
-- [1. Relevant Stakeholders](#2-relevant-stakeholders)
-  * [1.1. Project Team](#21-project-team)
-  * [1.2. Project Client](#22-project-client)
-  * [1.3. Third Party Supervisors](#23-third-party-supervisors)
-  * [1.4. Shadow Team](#24-shadow-team)
-  * [1.5. Potential Customers](#25-potential-customers)
+- [1. Relevant Stakeholders](#1-relevant-stakeholders)
+  * [1.1. Project Team](#11-project-team)
+  * [1.2. Project Client](#12-project-client)
+  * [1.3. Third Party Supervisors](#13-third-party-supervisors)
+  * [1.4. Shadow Team](#14-shadow-team)
+  * [1.5. Potential Customers](#15-potential-customers)
   
 ## 1. Relevant Stakeholders
 
