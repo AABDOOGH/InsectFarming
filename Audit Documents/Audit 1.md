@@ -221,7 +221,7 @@ The following statement of milestones are drafts, they will be updated with the 
 | 4 | Complete the first version of the detailed design with components in each sections identified and gain the feedback from client, third party supervisors and shadow team.|<ul><li>The overall 3D design is done by using CAD with its properties detailed such as material </li><li>Complete each component design and state its functionalities</li></ul> |
 | 5 | Optimise the initial design with the feedback.|<ul><li>Complete the updated design and send to the stakeholders </li></ul> |
 | 6 | Validate and evaluate the design achieved the project requirements.|<ul><li>Complete pressure and heat analysis on the 3D model of the designed plant that ensure the design is achieved all of the project requirements and client needs</li><li>Complete technical importance table and evaluation matrix </li></ul> |
-| 7 | Finalise the design and documentate all the information of the project back to client.|<ul><li>All documentations and repository information given to Goterra</li><li>All the CAD design files given to Goterra</li><li>Meet the client to ensure the client satification and give the general introduce on the continues work</li></ul> |
+| 7 | Finalise the design, conduct the economic analysis and documentate all the information of the project back to client.|<ul><li>All documentations and repository information given to Goterra</li><li>All the CAD design files given to Goterra</li><li>Meet the client to ensure the client satification and give the general introduce on the continues work</li></ul> |
 
 ### 4.1. Goals for Each Audit
 | Audit           | Time             | Goals and deliverables           |
@@ -304,6 +304,4 @@ The repository for this project is divided into seven components. Click [here](h
    * This section includes all the information related to the designing and evaluating the rendering plant, including the CAD drawings, simulations, and financial analysis.  
 - Image
    * This section includes all the images used in each documentations. 
-
-## 7. Signatures
 
