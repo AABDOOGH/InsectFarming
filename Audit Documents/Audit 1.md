@@ -290,7 +290,7 @@ The repository for this project is divided into seven components. Click [here](h
  - Audit documents
    * This section includes all the information related to each audit, including audit documents, presentations preparation, and feedback from other stakeholders in each audit tutorials. 
  - Deision log 
-   * This section contains each decision making process during the project, including background, SWOT anlaysis of option considered, action items and the outcomes. 
+   * This section contains each decision-making process during the project, including background, SWOT analysis of option considered, action items and the outcomes. 
  - Research 
    * This section includes all the references that have been used in the designing and evaluating phases for the rendering process.   
  - Rendering design 
