@@ -22,4 +22,3 @@ The project scopes are divided into three parts and summarized below.
 
 ### 1.3 Key achievement 
 The expected achievement in this project is designing and building a mobile and cost-effective rendering plant. It need to be able to process and convert insects into oil and meal for livestock which can meet regulatory requirements. The key achievement in this semester is to finalize the designing part of the project.
-
