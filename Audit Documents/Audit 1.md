@@ -8,9 +8,9 @@ This document is issued to define our team project - Mobile insect processing pl
 
 ## Table of Content
 - [1. Project Vision](#1-project-vision)
-  * [1.1 Value proposition](#11-value-proposition)
+  * [1.1 Value Proposition](#11-value-proposition)
   * [1.2 Project Scope](#12-project-scope)
-  * [1.3 Key achievement](#13-key-achievement)
+  * [1.3 Key Achievement](#13-key-achievement)
 - [2. Relevant Stakeholders](#2-relevant-stakeholders)
   * [2.1. Project Team](#21-project-team)
   * [2.2. Project Client](#22-project-client)
@@ -27,16 +27,16 @@ This document is issued to define our team project - Mobile insect processing pl
   * [4.1. Goals for Each Audit](#41-goals-for-each-audit)
   * [4.2. Contingencies](#42-contingencies)
   * [4.3. Timeline of the Project](#43-timeline-of-the-project)
-  * [4.5. Work Breakdown Structure](#45-work-breakdown-structure)
+  * [4.4. Work Breakdown Structure](#45-work-breakdown-structure)
 - [5. Contracts](#5-contracts)
-- [6. Development Tools and management of taks - Project Repository](#6-development-tools-and-management-of-taks---project-repository)
+- [6. Development Tools and Management of Taks - Project Repository](#6-development-tools-and-management-of-taks---project-repository)
   * [6.1. Repository Guide](#61-repository-guide)
 
 ## 1. Project Vision 
 
 This project aims to produce mobile and cost-effective rendering plant, capable of processing insects into meals and oils that meet regulatory requirements. The goal for this semester is to finish the designing part of the project.
 
-### 1.1 Value proposition 
+### 1.1 Value Proposition 
 
 Population increases have dramatically risen in recent years, and with it increased consumption of food. One crucial component in human's dietary structure, protein, requires people to expand the soybean cultivation to feed livestock. One alternative solution is to farm insects in order to provide an alternative food resource to livestock. Current regulations require the animal products, which are used in agriculture feeds, to be processed in modern rendering plants. However, the existing rendering plants cannot process the insects economically, due to the small-scale nature of insect farming industry in Australia. Thus, this project is aiming to design a mobile, micro processing plant which can process insects cost-effectively.  
 
@@ -49,7 +49,7 @@ The project scopes are divided into three parts and summarized below.
 * Conduct economic analysis to calculate the budget for building a prototype plant. 
 
 
-### 1.3 Key achievement 
+### 1.3 Key Achievement 
 The expected achievement in this project is designing and building a mobile and cost-effective rendering plant. It need to be able to process and convert insects into oil and meal for livestock which can meet regulatory requirements. The key achievement in this semester is to finalize the designing part of the project.
 
 ## 2. Relevant Stakeholders
@@ -235,7 +235,7 @@ The initial generated progress of the project may effect by the many unpredicabl
 The Gantt Chart of the project could be found [HERE](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/Gantt%20Chart.pdf)
 
 
-### 4.5. Work Breakdown Structure
+### 4.4. Work Breakdown Structure
 
 | Level |	WBS code |	Element	| Duration (Days)|	Start Date|	End Date|	Responsible Person|	Dependancies	Descriptions|	Completence|
 | --- |	--- |	--- 	| --- |	--- |	--- |	--- |	--- |	--- |
@@ -275,16 +275,16 @@ The Gantt Chart of the project could be found [HERE](https://github.com/JessYJY/
 ## 5. Contracts 
 The client specified that our team do not need to sign over non-disclosure agreement and any contract related to intellectual property. 
 
-## 6. Development Tools and management of taks - Project Repository
+## 6. Development Tools and Management of Taks - Project Repository
 
 Both SharePoint and GitHub are used in this project as development tools. SharePoint is used to collaborate tasks together. The primary purpose of using Github is to organise, and archive finalised documentations. Besides, it is being the repository for this project.  
 
 ### 6.1. Repository Guide 
 The repository for this project is divided into six components. Click [here](https://github.com/JessYJY/insectfarming.github.io) can direct you to project repository.
 - Project initiation 
-  * In this section, it includes project scope, stakeholder analysis, requirement analysis, function analysis and risk assessment.  
-- Project Schedule and resources 
-  * This section includes the project milestone, work breakdown structure and resources. 
+  * In this section, it includes project scope, stakeholder analysis, requirement analysis, function analysis, resources risks and contingencies  
+- Project Schedule 
+  * This section includes the project milestone and work breakdown structure. 
 - Meeting
   * This section includes all the important points discussed in each meeting, including weekly group meetings, client meetings, and any other external meetings. 
  - Audit documents
