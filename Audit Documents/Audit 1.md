@@ -284,6 +284,7 @@ The client specified that our team do not need to sign over non-disclosure agree
 Both SharePoint and GitHub are used in this project as development tools. SharePoint is used to collaborate tasks together. The primary purpose of using Github is to organise, and archive finalised documentations. Besides, it is being the repository for this project.  
 
 ### 6.1. Repository Guide 
+Our team's landing page can be found [here](https://jessyjy.github.io/insectfarming.github.io/).  
 The repository for this project is divided into seven components. Click [here](https://github.com/JessYJY/insectfarming.github.io) can direct you to project repository.
 - Project initiation 
   * In this section, it includes project scope, stakeholder analysis, requirement analysis, function analysis, resources risks and contingencies  
