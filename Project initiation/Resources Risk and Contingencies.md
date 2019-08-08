@@ -1,9 +1,18 @@
+## Table of content
+
+- [1. Resources Risks and Contingencies](#1-resources-risks-and-contingencies)
+  * [1.1. Project Costs](#11-project-costs)
+  * [1.2. Project Outcome Risks](#12-project-outcome-risks)
+    + [1.2.1. Financial Risks](#121-financial-risks)
+    + [1.2.2. Material Risks](#122-material-risks)
+  * [1.3. Contingencies](#13-contingencies)
+
 ## 1. Resources Risks and Contingencies
 
 Large amounts of heat, pressure and liquid are involved in the rendering process. While better manageable in a factory setting, with infrastructural ventilation and cooling, doing the same processes in a small scale space will require thorough understanding of the thermodynamic systems taking place. 
 This is of course to minimize the resources needed to complete the project, the possible risks faced,  and allows accurate understanding of the contingencies needed to prevent them.
 
-### 3.1. Project Costs
+### 1.1. Project Costs
 
 The goal of this project is to deliver a preliminary design for a movable, compact, insect meal rendering plant, with actual prototyping and final design to be completed over a "to be determined" period of time beyond 2019. The costs associated with the first stage of this process will therefore be minimal, as most of the project work will revolve around building simulated designs using different software tools, as well as conducting market research with different industry partners, and having discussions with foreign manufacturers and merchants. 
 
