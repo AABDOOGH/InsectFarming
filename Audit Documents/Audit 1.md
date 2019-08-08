@@ -184,7 +184,7 @@ The most significant of these are as follows:
 
 | Risk | Description                                                  |
 | :-------:   | :----------------------------------------------------------  |
-| Innacurate Cost Projections | Some of the costing done of the equipment and general infrastructure of the unit will require estimates based on what information is publicly available or readily obtainable. If these project costs are innacurate, and they move through into the final design, it may end up maaking the plant too expensive too produce, with the addition ofa possible re-start near the beginning of the design process. | 
+| Inacurate Cost Projections | Some of the costing done of the equipment and general infrastructure of the unit will require estimates based on what information is publicly available or readily obtainable. If these project costs are innacurate, and they move through into the final design, it may end up maaking the plant too expensive too produce, with the addition ofa possible re-start near the beginning of the design process. | 
 | Over-Engineered Design| A key stakeholder requirement is that the costs of the final design be kept as low as possible, and as efficient as possible. If the final design has built-in ineffcencies, this equates to over-spending on equipment, and therefore must be avoided.|
 | Poorly Engineered Design | The worst case scenario in which both of the above scenarios may take place, as well as the additional issue that the final design is not fit for purpose, most likely resulting in acquisition of large amounts of capital that has no function.|
 
