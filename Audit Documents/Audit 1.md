@@ -281,6 +281,7 @@ The client specified that our team do not need to sign over non-disclosure agree
 
 ## 6. Development Tools and Management of Taks - Project Repository
 Our team's landing page can be found [here](https://jessyjy.github.io/insectfarming.github.io/).
+
 Both SharePoint and GitHub are used in this project as development tools. SharePoint is used to collaborate tasks together. The primary purpose of using Github is to organise, and archive finalised documentations. Besides, it is being the repository for this project.  
 
 ### 6.1. Repository Guide 
