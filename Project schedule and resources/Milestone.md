@@ -1,9 +1,9 @@
 
-- [1. Milestone](#4-milestone)
-  * [1.1. Goals for Each Audit](#41-goals-for-each-audit)
-  * [1.2. Contingencies](#42-contingencies)
-  * [1.3. Timeline of the Project](#43-timeline-of-the-project)
-  * [1.4. Work Breakdown Structure](#45-work-breakdown-structure)
+- [1. Milestone](#1-milestone)
+  * [1.1. Goals for Each Audit](#11-goals-for-each-audit)
+  * [1.2. Contingencies](#12-contingencies)
+  * [1.3. Timeline of the Project](#13-timeline-of-the-project)
+  * [1.4. Work Breakdown Structure](#14-work-breakdown-structure)
   
 ## 1. Milestone 
 
