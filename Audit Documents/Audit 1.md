@@ -4,7 +4,11 @@ This document is issued to define our team project - Mobile insect processing pl
 
 | Issue            | Revision         | Date             | Purpose of Issue  | Prepared by       | Reviewed by       |
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | :---------------: |
-| 01               | 00               | 03/08/2019       | Draft for Audit 1 | Jessica Ying      |                   |
+| 01               | 00               | 03/08/2019       | Draft for Audit 1 | Jiaying Ying      | N/A                  |
+| 02               | 00               | 04/08/2019       | Edit section 2&4 | Jiaying Ying      | N/A                  |
+| 03               | 00               | 05/08/2019       |Edit section 1 | Minghui Zhang      |N/A                   |
+| 04               | 00               | 06/08/2019       | Edit section 3  | Andre Olivier     | N/A                  |
+| 04               | 01               | 08/08/2019       | Final review  |  N/A    | Minghui Zhang                  |
 
 ## Table of Content
 - [1. Project Vision](#1-project-vision)
@@ -270,7 +274,7 @@ The Gantt Chart of the project could be found [HERE](https://github.com/JessYJY/
 |3|	1.4.1|	Finalise Documentation|	8|	11/10/19	|18/10/19|	Project team	|1.1-1.3		|
 |3|	1.4.2|	Project Handover|	0|	18/10/19	|18/10/19	|Project team|	1.4.1		|
 	
-![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/timeline_updated.png)
+![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/timeline_updated1.png)
 	
 ## 5. Contracts 
 The client specified that our team do not need to sign over non-disclosure agreement and any contract related to intellectual property. 
