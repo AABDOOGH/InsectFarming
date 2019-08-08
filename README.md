@@ -3,13 +3,16 @@
 
 # Table of Contents
 - [Project Vision](#project-vision)
-  * [Value proposition](#value-proposition)
+  * [Value Proposition](#value-proposition)
   * [Project Scope](#project-scope)
 - [Relevant Stakeholders](#relevant-stakeholders)
   * [Project Team](#project-team)
   * [Project Client](#project-client)
   * [Potential Customers](#potential-customers)
-
+  * [Concept of Operations](#concept-of-operations)
+  * [Project Schedule](#project-schedule)
+  * [Meeting Minutes](#meeting-minutes)
+  * [Decision Log](#decision-log)
 
 
 
@@ -20,7 +23,7 @@ This project aims to produce mobile and cost-effective rendering plant, capable 
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/xEka0FpmR5k/0.jpg)](http://www.youtube.com/watch?v=xEka0FpmR5k)
 
-### Value proposition 
+### Value Proposition 
 
 Population increases have dramatically risen in recent years, and with it increased consumption of food. One crucial component in human's dietary structure, protein, requires people to expand the soybean cultivation to feed livestock. One alternative solution is to farm insects in order to provide an alternative food resource to livestock. Current regulations require the animal products, which are used in agriculture feeds, to be processed in modern rendering plants. However, the existing rendering plants cannot process the insects economically, due to the small-scale nature of insect farming industry in Australia. Thus, this project is aiming to design a mobile, micro processing plant which can process insects cost-effectively.  
 
