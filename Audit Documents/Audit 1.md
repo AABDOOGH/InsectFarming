@@ -99,8 +99,8 @@ Our client is [Goterra Pty Ltd](https://www.goterra.com.au). The company is a or
 
 | Name           | Role                  | Contact                   | Key interaction with the Project                           |
 | :------------: |:-------------:        | :-----:                   | ------                                                |
-| Martin Amidy   | Goterra liason  | martin.amidy@anu.edu.au   | Regularlly provides feedback and supervision during the project ongoing period and join the meetings|
-| Olympia Yarger | Founder and CEO       | olympia@goterra.com.au    | Provides the defination and objectives of the project and guides on the project progress |
+| Martin Amidy   | Goterra liason  | martin.amidy@anu.edu.au   | Regularlly provides feedback and supervision during the project ongoing period, joins the meetings and guides the project progress|
+| Olympia Yarger | Founder and CEO       | olympia@goterra.com.au    | Provides the defination and objectives of the project |
 | Jiefei Wang    | Robotics Engineer     | jiefei@goterra.com.au     | Provides relevant technical supervisation and assistance |
 
  
