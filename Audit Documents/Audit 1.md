@@ -6,7 +6,7 @@ This document is issued to define our team project - Mobile insect processing pl
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | :---------------: |
 | 01               | 00               | 03/08/2019       | Draft for Audit 1 | Jiaying Ying      | N/A                  |
 | 02               | 00               | 04/08/2019       | Edit section 2&4 | Jiaying Ying      | N/A                  |
-| 03               | 00               | 05/08/2019       |Edit section 1 | Minghui Zhang      |N/A                   |
+| 03               | 00               | 05/08/2019       |Edit section 1&5&6 | Minghui Zhang      |N/A                   |
 | 04               | 00               | 06/08/2019       | Edit section 3  | Andre Olivier     | N/A                  |
 | 04               | 01               | 08/08/2019       | Final review  |  N/A    | Minghui Zhang                  |
 
