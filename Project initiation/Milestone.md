@@ -4,8 +4,7 @@
   * [1.3. Timeline of the Project](#43-timeline-of-the-project)
   * [1.4. Work Breakdown Structure](#45-work-breakdown-structure)
   
-  
-  ## 1. Milestone 
+## 1. Milestone 
 
 The following statement of milestones are drafts, they will be updated with the progress of project.
 
