@@ -61,10 +61,10 @@ This project team consists of 4 undergraduate students with different engineerin
 
 | Name           | Role                  | Email                                                   |
 | :------------: |:-------------:        | :-----:                                                 |
-|Andre Oliver    |Mechanism engineers    | u5807603@anu.edu.au                           |
+|Andre Oliver    |Mechanical engineer    | u5807603@anu.edu.au                           |
 |Haoxuan Tan  | Administrator |u6391332@anu.edu.au|
 |Jiaying Ying| Research and repository manager| u6034298@anu.edu.au |
-|Minghui Zhang | Mechanism engineers | u6065938@anu.edu.au|
+|Minghui Zhang | Mechanical engineer | u6065938@anu.edu.au|
 
 - Project team ground rules
   * All team members need to communicate and treat each other with respect.
