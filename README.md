@@ -5,7 +5,6 @@
 - [Project Vision](#project-vision)
   * [Value proposition](#value-proposition)
   * [Project Scope](#project-scope)
-  * [Key achievement](#key-achievement)
 - [Relevant Stakeholders](#relevant-stakeholders)
   * [Project Team](#project-team)
   * [Project Client](#project-client)
@@ -34,9 +33,6 @@ The project scopes are divided into three parts and summarized below.
 * Conduct economic analysis to calculate the budget for building a prototype plant. 
 
 
-### Key achievement 
-The expected achievement in this project is designing and building a mobile and cost-effective rendering plant. It need to be able to  process and convert insects into oil and meal for livestock which can meet regulatory requirements. The key achievement in this semester is to finalize the designing part of the project.
-
 ## Relevant Stakeholders
 
 ### Project Team 
@@ -53,3 +49,18 @@ Our client is [Goterra Pty Ltd](https://www.goterra.com.au). The company is a or
 Potential customers (and the targets) of our project product will be insect farms and other organic waste management companies. Goterra has clients from government, councils, hotels, hospitals, restaurants and households.  
 
 Potential customers have no responsibilities to the project, but their requirements are one of the most important factors to be considered in the process of designing the mobile insect processing plant.
+
+## Concept of Operations 
+The Concept of Operations for insect farming team can be found [here](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/Audit%201.md). 
+
+## Project schedule 
+Click [here](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20schedule/Gantt%20Chart.pdf) can find out what progresses the team have done, what our team are currently working on and what are the future tasks. 
+
+
+## Meeting Minutes
+Detailed information in each meeting are recorded and can be found [here](https://github.com/JessYJY/insectfarming.github.io/tree/master/Meeting). 
+
+
+## Decision Log
+Detailed information for each major decision made in the whole project can be found in [Decision Log](https://github.com/JessYJY/insectfarming.github.io/tree/master/Decision%20log). 
+
