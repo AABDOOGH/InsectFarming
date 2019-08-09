@@ -13,8 +13,9 @@ This document is issued to record the decision making process for choosing the a
 - [2. Background](#2-Background)
 - [Option Considered](#3-Option-Considered)
 - [SWOT Analysis](#4-SWOT-analysis)
-- [Action Item](#5-Action-Item)
-- [Outcome](#6-Outcome)
+- [Outcome](#5-Outcome)
+- [Action Item](#6-Action-Item)
+
 
 ## 1. Decision summary 
 |Status|  Completed |
@@ -24,13 +25,13 @@ This document is issued to record the decision making process for choosing the a
 |Approver| ALl team members   |
 |Contributor | ALl team members  |
 |Due Date|  2 August |
-|Outcome| Github   |
+|Outcome| Github  |
 
 
 ## 2. Background
 A project landing page is required for each project. The landing page is used for give instructions for all stakeholders on how to access the repositories and tools are using in the project. 
 
-## 3. Option Considered 
+## 3. Options Considered 
 |Option Number|Development Tool|
 | :---------------: | :---------------: |
 |Option 1|SharePoint |
@@ -50,7 +51,12 @@ A project landing page is required for each project. The landing page is used fo
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Decision%20log/github%20repository%20swot.png)
 
 
+## 5. Outcome 
+Based on the SWOT analysis, both GitHub and SharePoints has strengths and weaknesses. Consider there is no IP concerns in this project, one of the GitHub weakness related to no private repository can be neglected. GitHub allows user to use simple text editor to write formatted documents offers advantages in time saving. Thus, the development tool to develop repository is GitHub in this Project. 
+Toward to the second weakness for GitHub, our group will assign tasks for each member and minimize the situation that members must need to edit one file at the same time. 
 
+## 6. Action item 
 
+Based on the analysis, the development tool for repository in this project will be GitHub. The next action is creating a project repostiroy and regularly uploading files related to the project into project repository. 
 
 
