@@ -153,6 +153,9 @@ Potential customers (and the targets) of our project product will be insect farm
 
 Potential customers have no responsibilities to the project, but their requirements are one of the most important factors to be considered in the process of designing the mobile insect processing plant.
 
+![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/SktakeholderAnalysis.png)
+
+
 ## 3. Resources Risks and Contingencies
 
 Large amounts of heat, pressure and liquid are involved in the rendering process. While better manageable in a factory setting, with infrastructural ventilation and cooling, doing the same processes in a small scale space will require thorough understanding of the thermodynamic systems taking place. 
