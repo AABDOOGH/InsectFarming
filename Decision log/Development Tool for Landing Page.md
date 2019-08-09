@@ -5,7 +5,7 @@ This document is issued to record the decision making process for choosing the a
 
 | Issue            | Revision         | Date             | Purpose of Issue  | Prepared by       | Reviewed by       |
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | :---------------: |
-| 01               | 00               | 03/08/2019       | Decision log-Tool for Repository | Minghui Zhang     | N/A                  |
+| 01               | 00               | 03/08/2019       | Decision log-Tool for Landing Page | Minghui Zhang     | N/A                  |
 
 ## Table of content 
 - [1. Decision Summary](#1-Decision-summary)
