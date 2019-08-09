@@ -60,6 +60,7 @@ The expected achievement in this project is designing and building a mobile and 
 ## 2. Relevant Stakeholders
 
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/SktakeholderAnalysis.png)
+![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/stakeholdermap.png)
 
 ### 2.1. Project Team 
 
