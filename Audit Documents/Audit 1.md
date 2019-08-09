@@ -59,6 +59,8 @@ The expected achievement in this project is designing and building a mobile and 
 
 ## 2. Relevant Stakeholders
 
+![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/SktakeholderAnalysis.png)
+
 ### 2.1. Project Team 
 
 This project team consists of 4 undergraduate students with different engineering skills. All the members need to follow the ground rules in the group. Each member has their distinct roles and needs to be responsible for their sections. Other external stakeholders can have direct contact with the member if they have any advice, concerns or questions toward one specific section.
@@ -153,7 +155,7 @@ Potential customers (and the targets) of our project product will be insect farm
 
 Potential customers have no responsibilities to the project, but their requirements are one of the most important factors to be considered in the process of designing the mobile insect processing plant.
 
-![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/SktakeholderAnalysis.png)
+
 
 
 ## 3. Resources Risks and Contingencies
