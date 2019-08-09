@@ -11,12 +11,12 @@ This document is issued to record the decision making process for choosing the a
 ## Table of content 
 - [1. Decision Summary](#1-Decision-summary)
 - [2. Background](#2-Background)
-- [Option Considered](#3-Option-Considered)
-- [SWOT Analysis](#4-SWOT-analysis)
-  * [SharePoint](#41-SharePoint)
-  * [GitHub](#42-GitHub)
-- [Outcome](#5-Outcome)
-- [Action Item](#6-Action-Item)
+- [3. Option Considered](#3-Option-Considered)
+- [4. SWOT Analysis](#4-SWOT-analysis)
+  * [4.1.SharePoint](#41-SharePoint)
+  * [4.2.GitHub](#42-GitHub)
+- [5. Outcome](#5-Outcome)
+- [6. Action Item](#6-Action-Item)
 
 
 ## 1. Decision summary 
