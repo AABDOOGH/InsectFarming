@@ -276,7 +276,7 @@ The Gantt Chart of the project could be found [HERE](https://github.com/JessYJY/
 |3|	1.4.1|	Finalise Documentation|	8|	11/10/19	|18/10/19|	Project team	|1.1-1.3		|
 |3|	1.4.2|	Project Handover|	0|	18/10/19	|18/10/19	|Project team|	1.4.1		|
 	
-![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/timeline_updated2.png)
+![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/timeline2.png)
 	
 ## 5. Contracts 
 The client specified that our team do not need to sign over non-disclosure agreement and any contract related to intellectual property. 
