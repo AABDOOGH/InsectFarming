@@ -1,6 +1,5 @@
 
 
-
 This document is issued to record the decision making process for choosing the appropraite tool for landing page. 
 
 
@@ -60,5 +59,6 @@ Toward to the second weakness for GitHub, our group will assign tasks for each m
 ## 6. Action item 
 
 Based on the analysis, the development tool for repository in this project will be GitHub. The next action is creating a project repostiroy and regularly uploading files related to the project into project repository. 
+
 
 
