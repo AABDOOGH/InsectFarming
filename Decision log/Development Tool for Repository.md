@@ -31,7 +31,7 @@ This document is issued to record the decision making process for choosing the a
 
 
 ## 2. Background
-A project landing page is required for each project. The landing page is used for give instructions for all stakeholders on how to access the repositories and tools are using in the project. 
+A project repository is required for each project. All the files related to the proejct need to be uploaded to the project repository. A organized project repository will help to manage the project and provide encough information for the next team. 
 
 ## 3. Options Considered 
 |Option Number|Development Tool|
