@@ -13,6 +13,8 @@ This document is issued to record the decision making process for choosing the a
 - [2. Background](#2-Background)
 - [Option Considered](#3-Option-Considered)
 - [SWOT Analysis](#4-SWOT-analysis)
+  * [SharePoint](#41-SharePoint)
+  * [GitHub](#42-GitHub)
 - [Outcome](#5-Outcome)
 - [Action Item](#6-Action-Item)
 
@@ -40,13 +42,13 @@ A project landing page is required for each project. The landing page is used fo
 
 ## 4. SWOT Analysis 
 
-### SharePoint
+### 4.1. SharePoint
 
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Decision%20log/sharepoint%20repository%20swot.png)
 
 
 
-### GitHub
+### 4.2. GitHub
 
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Decision%20log/github%20repository%20swot.png)
 
