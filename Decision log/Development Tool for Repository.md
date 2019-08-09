@@ -20,8 +20,9 @@ This document is issued to record the decision making process for choosing the a
 
 
 ## 1. Decision summary 
-|Status|  Completed |
+||Decision summary|
 | :---------------: | :---------------: |
+|Status|  Completed |
 |Driver | Choose the best option for project repository for storing and managing the artefacts that produced in the project |
 |Risk to Project|Low|
 |Approver| ALl team members   |
