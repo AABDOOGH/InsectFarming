@@ -71,8 +71,8 @@ This project team consists of 4 undergraduate students with different engineerin
 | Name           | Role                  | Email                                                   |
 | :------------: |:-------------:        | :-----:                                                 |
 |Andre Oliver    |Mechanical engineer    | u5807603@anu.edu.au                           |
-|Haoxuan Tan  | Administrator |u6391332@anu.edu.au|
-|Jiaying Ying| Research and repository manager| u6034298@anu.edu.au |
+|Haoxuan Tan  | Administrator and engineering technologiest |u6391332@anu.edu.au|
+|Jiaying Ying| Research, repository manager and software engineer| u6034298@anu.edu.au |
 |Minghui Zhang | Mechanical engineer | u6065938@anu.edu.au|
 
 - Project team ground rules
@@ -245,7 +245,7 @@ The initial generated progress of the project may effect by the many unpredicabl
 
 ### 4.3. Timeline of the Project
 
-The Gantt Chart of the project could be found [HERE](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/Gantt%20Chart.pdf)
+The Gantt Chart of the project could be found [HERE](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20schedule/Gantt%20Chart_v1.pdf)
 
 
 ### 4.4. Work Breakdown Structure
