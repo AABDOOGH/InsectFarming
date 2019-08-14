@@ -182,8 +182,10 @@ The projected budget is therefore as follows:
 
 ### 3.2. Project Outcome Risks
 
-The integrated nature of the final design, has with it accompanying risks that all pose their own different levels of importance. These risks can be relegated into two categories: Financial and Material Risks, each with their own set of contigencies that will aim to minimize their probability and impact. 
+The integrated nature of the final design, has with it accompanying risks that all pose their own different levels of importance. These risks can be relegated into two categories: Financial and Material Risks, each with their own set of contigencies that will aim to minimize their probability and impact. The below diagram shows the risk breakdown structure. 
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/risk%20analysis.png)
+The below diagram shows the risk impact severity matrix
+![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/risk%20analysis%202.png)
 
 #### 3.2.1. Financial Risks
 
