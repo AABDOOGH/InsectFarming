@@ -27,6 +27,7 @@ This document is issued to define our team project - Mobile insect processing pl
   * [3.2. Project Outcome Risks](#32-project-outcome-risks)
     + [3.2.1. Financial Risks](#321-financial-risks)
     + [3.2.2. Material Risks](#322-material-risks)
+    + [3.4. Risk response strategy](#323-risk-response-strategy)
   * [3.3. Contingencies](#33-contingencies)
 - [4. Milestone](#4-milestone)
   * [4.1. Goals for Each Audit](#41-goals-for-each-audit)
@@ -209,6 +210,11 @@ These risks pertain to the physical nature of the rendering plant and its associ
 | Pressure Build-Up | The confined space that the process will be housed in may result in gradual pressure build-up, due to the heat and gasses used to seperate the meal from the tallow. If left un-mitigated, damage can occur to not only the equipment housed inside the module, but also to any humans near the unit when the pressure is violently released, whether in the form of an explosion(s) or super heated gasses.|
 | Inadequate Supporting Structure | The housing that the plant will be placed in needs to not only protect the equipment, but also ensure that weight distribution is even, peripheral equipment such as conveyer belts and pipes are properly supported, no piece of equipment can interfere with the function of another, and that movement of the module will not cause damage to the equipment housed inside (as mobility of the rendering plant is a key stakeholder requirement).|
 | Limited Access | The design of the plant and housing needs to support accessability to the equipment and all supporting infrastructure, in order to ensure regular maintenance and repairs, minimizing some of the hazardous risks explained above.|
+
+
+#### 3.2.2. Risk response strategy
+
+
 
 ### 3.3. Contingencies
 
