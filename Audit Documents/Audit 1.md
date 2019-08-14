@@ -27,7 +27,7 @@ This document is issued to define our team project - Mobile insect processing pl
   * [3.2. Project Outcome Risks](#32-project-outcome-risks)
     + [3.2.1. Financial Risks](#321-financial-risks)
     + [3.2.2. Material Risks](#322-material-risks)
-    + [3.4. Risk response strategy](#323-risk-response-strategy)
+    + [3.2.3. Risk response strategy](#323-risk-response-strategy)
   * [3.3. Contingencies](#33-contingencies)
 - [4. Milestone](#4-milestone)
   * [4.1. Goals for Each Audit](#41-goals-for-each-audit)
@@ -212,7 +212,7 @@ These risks pertain to the physical nature of the rendering plant and its associ
 | Limited Access | The design of the plant and housing needs to support accessability to the equipment and all supporting infrastructure, in order to ensure regular maintenance and repairs, minimizing some of the hazardous risks explained above.|
 
 
-#### 3.2.2. Risk response strategy
+#### 3.2.3. Risk response strategy
 
 
 
