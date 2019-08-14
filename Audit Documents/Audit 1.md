@@ -165,6 +165,7 @@ Potential customers have no responsibilities to the project, but their requireme
 Large amounts of heat, pressure and liquid are involved in the rendering process. While better manageable in a factory setting, with infrastructural ventilation and cooling, doing the same processes in a small scale space will require thorough understanding of the thermodynamic systems taking place. 
 This is of course to minimize the resources needed to complete the project, the possible risks faced,  and allows accurate understanding of the contingencies needed to prevent them.
 
+
 ### 3.1. Project Costs
 
 The goal of this project is to deliver a preliminary design for a movable, compact, insect meal rendering plant, with actual prototyping and final design to be completed over a "to be determined" period of time beyond 2019. The costs associated with the first stage of this process will therefore be minimal, as most of the project work will revolve around building simulated designs using different software tools, as well as conducting market research with different industry partners, and having discussions with foreign manufacturers and merchants. 
@@ -181,7 +182,8 @@ The projected budget is therefore as follows:
 
 ### 3.2. Project Outcome Risks
 
-The integrated nature of the final design, has with it accompanying risks that all pose their own different levels of importance. These risks can be relegated into two categories: Financial and Material Risks, each with their own set of contigencies that will aim to minimize their probability and impact.
+The integrated nature of the final design, has with it accompanying risks that all pose their own different levels of importance. These risks can be relegated into two categories: Financial and Material Risks, each with their own set of contigencies that will aim to minimize their probability and impact. 
+![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/risk%20analysis.png)
 
 #### 3.2.1. Financial Risks
 
