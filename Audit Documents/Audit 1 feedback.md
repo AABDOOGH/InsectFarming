@@ -149,10 +149,10 @@ There is no decision log in excel form in our repostiory is becuase we want note
 | Action items           | Contributor        | Status          | 
 | :--------------: | :--------------: | :--------------: | 
 |Add "Action Items from Previous Meeting" section in meeting minute| Derek | In progress|
-|Create a folder for external communication |Minghui |Completed|
-|Create a file to track each task status| Minghui| Completed|
-|Create a work log for each member|Minghui |Completed|
-|Create a file root directory|Minghui | Completed|
-|Divide technical design tasks| All team members |Completed|
+|Create a folder for external communication |Minghui |In progress|
+|Create a file to track each task status| Minghui| In progress|
+|Create a work log for each member|Minghui |In progress|
+|Create a file root directory|Minghui | In progress|
+|Divide technical design tasks| All team members |In progress|
 |Generate ideas for prototyping|All team members |In progress|
 |Plan the visit to a rendering plant |All team members| In progress|
