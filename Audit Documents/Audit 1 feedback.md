@@ -30,23 +30,31 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 
 ## 2. Self Feedback 
 ### 2.1 Proejct Output 
-
+Our team believed our team performance is good so far. 
 
 
 ### 2.2 Decision Log
 
+Our team believe the each deicsion making process is recorded in details, including  the date, ﬁnal decision and action item. In the next phase, as we select the best design after ideas generation. 
 
+One thing we could improve is we can involve more audiences in the decision-making process. 
 
 ### 2.3. Communication 
 
+Our project team believed most part of our communication did well. Below, it shows some ideas we can imporve in the communication aspects. 
 
+Now, we didn’t talk about our project with our shadow team or the other teams in our tutorials too much. It will be beneﬁcial to introduce our project with other peoples and listen to their suggestions and opinions on our design idea. In addition, I will recommend our team to discuss our project and seek for suggestions with someone who has plant design experience. 
 
 ### 2.4 Teamwork 
 
+Our team believe most parts of teamwork is good so far. There are some points we can improve our teamwork. 
 
+One thing we need to consider is the technical design task allocation. 
+
+### 2.5 Other Feedbacks 
+It might be better if we speak clearer and use more visualisation tool such as videos and graphs during the presentation. 
 
 ## 3. Shadow Team Feedback 
-
 
 ### 3.1 Project Output 
 None. 
