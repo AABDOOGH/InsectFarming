@@ -152,5 +152,5 @@ There is no decision log in excel form in our repostiory is becuase we want note
 |Create a work log for each member|Minghui |Completed|
 |Create a file root dictionary|Minghui | Completed|
 |Divide technical design tasks| All team members |Completed|
-|Generate idea for prototyping|All team members |In progress|
-|Plan the visit rendering plant |All team members| In progress|
+|Generate ideas for prototyping|All team members |In progress|
+|Plan the visit to a rendering plant |All team members| In progress|
