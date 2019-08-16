@@ -9,7 +9,7 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 
 
 ## Table of content 
-- [1. Indication of Performance by Stakeholders](#1-indication-of-performance-by-stakeholder)
+- [1. Indication of Performance by Stakeholders](#1-indication-of-performance-by-stakeholders)
 - [2. Self Feedback](#2-Self-feedback)
   * [2.1. Project Output](#21-Project-Output)
   * [2.2. Decision Log](#22-Decision-Log)
