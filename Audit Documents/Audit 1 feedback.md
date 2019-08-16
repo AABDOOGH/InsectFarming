@@ -137,3 +137,18 @@ There is no decision log in excel form in our repostiory is becuase we want note
 1. Our team will create a work log for each member to show the contributions for each person. 
 
 2. Our team will divde the technical design tasks. 
+
+### 5.1.5 Other aspects 
+
+
+
+### Action Items 
+| Action items           | Contributor        | Status          | 
+| :--------------: | :--------------: | :--------------: | 
+|Create a folder to record external communication |All team members |Completed|
+|Add "Action Items from Previous Meeting" section in meeting minute| Derek | In progress|
+|Plan the visit rendering plant |All team members| In progress|
+||Create a file to track each task status| Minghui| Completed|
+|Create a work log for each member|Minghui |Completed|
+|Divide technical design tasks| All team members |Completed|
+|Generate idea for prototyping|All team members |In progress|
