@@ -140,9 +140,9 @@ There is no decision log in excel form in our repostiory is becuase we want note
 
 ### 5.1.5 Other aspects 
 
+1. In the next audit presentation, we will use more visualisation tool such as videos and graphs during the presentation
 
-
-### Action Items 
+### 5.2 Action Items 
 | Action items           | Contributor        | Status          | 
 | :--------------: | :--------------: | :--------------: | 
 |Create a folder to record external communication |All team members |Completed|
@@ -152,3 +152,4 @@ There is no decision log in excel form in our repostiory is becuase we want note
 |Create a work log for each member|Minghui |Completed|
 |Divide technical design tasks| All team members |Completed|
 |Generate idea for prototyping|All team members |In progress|
+|Create a file root dictionary|Minghui | Completed|
