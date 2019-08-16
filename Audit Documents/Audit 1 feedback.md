@@ -23,7 +23,7 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 - [4. Tutor Feedback](#4-Tutor-Feedback)
   * [4.1. Aspects Done Well](#41-Aspects-done-well)
   * [4.2 Aspects to Improve](#42-Aspects-to-improve)
-  
+- [5. Action Items](#5-Action-Items) 
   
 ## 1. Indication of Performance by Stakeholders 
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/Audit%201%20Indication%20of%20performance%20by%20stakeholders.png) 
@@ -55,8 +55,11 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 
 
 ### 3.3 Communication 
+Your team has demonstrated professional communication skills. 
 
+Our shadow team advice us two sections may be created for minute-taking, one is ‘New Action Items’, to record what the team may need to do after the meeting; and the other one is ‘Action Items from Previous Meeting’, to indicate what results the team has gotten, and if the items are completed or still in-progress. 
 
+Our shaodw team advice us another folder may be created to input any external interaction ( with your clients or suppliers), especially for formal touches like email correspondence. 
 ### 3.4 Teamwork 
 
 
@@ -81,3 +84,7 @@ Your PA1 presentation was also very good with nice clear slides about your proje
 It would in my opinion be important for you to see and experience in person how this process works.
 
 You should also consider making some practical prototypes/experiments to help you validate and test your ideas for the three key sub systems (breaking/pre-cooking, continuous cooking, separation) of your proposed design.
+
+
+## 5 Action items 
+
