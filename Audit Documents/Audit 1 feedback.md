@@ -23,7 +23,7 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 - [4. Tutor Feedback](#4-Tutor-Feedback)
   * [4.1. Aspects Done Well](#41-Aspects-done-well)
   * [4.2 Aspects to Improve](#42-Aspects-to-improve)
-- [5. Action Items](#5-Action-Items) 
+- [5. Responses and Action Items](#5-Responses-and-Action-Items) 
   
 ## 1. Indication of Performance by Stakeholders 
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/Audit%201%20Indication%20of%20performance%20by%20stakeholders.png) 
@@ -49,24 +49,29 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 
 
 ### 3.1 Project Output 
-
+None. 
 
 ### 3.2 Decision Log 
-
+Our shadow team do not find the decision log in excel form. 
 
 ### 3.3 Communication 
-Your team has demonstrated professional communication skills. 
 
 Our shadow team advice us two sections may be created for minute-taking, one is ‘New Action Items’, to record what the team may need to do after the meeting; and the other one is ‘Action Items from Previous Meeting’, to indicate what results the team has gotten, and if the items are completed or still in-progress. 
 
 Our shaodw team advice us another folder may be created to input any external interaction ( with your clients or suppliers), especially for formal touches like email correspondence. 
+
+Our shadow team recommend it will be great if we can have something to indicate the follow-up process of the tasks assigned during the meeting. 
+
 ### 3.4 Teamwork 
 
+Our shadow team recommend to separate each person’s log book and count the weekly duration each member spent to give you guys a better representation of who is putting more work than the others. 
+
+### 3.5 Other feedbacks 
+
+If there can be a summary to indicate what is included in each file, it will be easy to access the repository. 
 
 
 ## 4. Tutor Feedback 
-
-
 
 ### 4.1. Aspects Done Well
 Your landing page is also extremely very well presented. 
@@ -86,5 +91,5 @@ It would in my opinion be important for you to see and experience in person how 
 You should also consider making some practical prototypes/experiments to help you validate and test your ideas for the three key sub systems (breaking/pre-cooking, continuous cooking, separation) of your proposed design.
 
 
-## 5 Action items 
+## 5 Responses and Action Items 
 
