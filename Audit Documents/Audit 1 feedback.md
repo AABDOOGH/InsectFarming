@@ -146,8 +146,8 @@ There is no decision log in excel form in our repostiory is becuase we want note
 ### 5.2 Action Items 
 | Action items           | Contributor        | Status          | 
 | :--------------: | :--------------: | :--------------: | 
-|Create a folder for external communication |Minghui |Completed|
 |Add "Action Items from Previous Meeting" section in meeting minute| Derek | In progress|
+|Create a folder for external communication |Minghui |Completed|
 |Create a file to track each task status| Minghui| Completed|
 |Create a work log for each member|Minghui |Completed|
 |Create a file root dictionary|Minghui | Completed|
