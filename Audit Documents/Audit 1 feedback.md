@@ -66,6 +66,18 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 
 
 ### 4.1. Aspects Done Well
+Your landing page is also extremely very well presented. 
+You have made a great start with your repository. 
+Your documentation is of very high standard and concise with clear revision logs in all your key documents. 
+
+Your ConOps has a clear goal and scope of your project, team roles and ground rules, stakeholders analysis, WBS, risk analysis, budget analysis and addresses some contingencies.
+
+Each team member knows their speciﬁc roles and what they are accountable for. Everyone appears to be contributing to your project, as reﬂected in your internal and client meeting minutes. 
+
+Your PA1 presentation was also very good with nice clear slides about your project. 
 
 
 ### 4.2 Aspects to Improve
+It would in my opinion be important for you to see and experience in person how this process works.
+
+You should also consider making some practical prototypes/experiments to help you validate and test your ideas for the three key sub systems (breaking/pre-cooking, continuous cooking, separation) of your proposed design.
