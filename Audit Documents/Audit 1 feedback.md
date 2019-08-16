@@ -29,6 +29,7 @@ This document is issued to summarized the feedbacks from own team, shadow team a
      + [5.1.2. Decision Log](#512-Decision-Log)
      + [5.1.3. Communication](#513-Communication)
      + [5.1.4 Teamwork](#514-Teamwork)
+     + [5.1.5 Other Aspects](#515-Other-aspects)
   * [5.2 Action Items](#52-Action-items)
 ## 1. Indication of Performance by Stakeholders 
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/Audit%201%20Indication%20of%20performance%20by%20stakeholders.png) 
@@ -138,7 +139,7 @@ There is no decision log in excel form in our repostiory is becuase we want note
 
 2. Our team will divde the technical design tasks. 
 
-### 5.1.5 Other aspects 
+#### 5.1.5 Other aspects 
 
 1. In the next audit presentation, we will use more visualisation tool such as videos and graphs during the presentation
 
