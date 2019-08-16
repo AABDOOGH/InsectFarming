@@ -101,3 +101,10 @@ You should also consider making some practical prototypes/experiments to help yo
 
 ## 5 Responses and Action Items 
 
+### 5.1 Project Output 
+None 
+
+### Decision Log 
+1. One shadow feedback is there is no decision log in excel form. 
+
+There is no decision log in excel form in our repostiory is becuase we want note down every important points during the decision-making process. Thus, we created a file to record each decision, including, background, date, contributors, options considered, SWOT analysis for each option, outcome and action item. We think this might be helpful if we want to review the decision in for our team and the next team  who will continue to do the project. 
