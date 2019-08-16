@@ -100,11 +100,29 @@ You should also consider making some practical prototypes/experiments to help yo
 
 
 ## 5 Responses and Action Items 
-
-### 5.1 Project Output 
+### 5.1 Response
+#### 5.1.1 Project Output 
 None 
 
-### Decision Log 
+#### 5.1.2 Decision Log 
 1. One shadow feedback is there is no decision log in excel form. 
 
 There is no decision log in excel form in our repostiory is becuase we want note down every important points during the decision-making process. Thus, we created a file to record each decision, including, background, date, contributors, options considered, SWOT analysis for each option, outcome and action item. We think this might be helpful if we want to review the decision in for our team and the next team  who will continue to do the project. 
+
+2. In the future decision-making process, we will try to involve more audiences (experts) in the process. 
+
+#### 5.1.3 Communication 
+
+
+1. A folder will be created to show the external communication with our clients. 
+
+2. In the furthre meeting minutes, we will add another section ‘Action Items from Previous Meeting’, to indicate what results the team has gotten, and if the items are completed or still in-progress. 
+
+3. Our team will try to communicate with experts who are woking the relevant industry and seek for advice from them. 
+
+4. Our team will arrange a visit to a rendering plant to have more external communications. 
+5. Our team will create a file to track each task from each meeting. 
+#### 5.1.4 Teamwork 
+1. Our team will create a work log for each member to show the contributions for each person. 
+
+2. Our team will divde the technical design tasks. 
