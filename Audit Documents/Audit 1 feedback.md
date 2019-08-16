@@ -141,7 +141,9 @@ There is no decision log in excel form in our repostiory is becuase we want note
 
 #### 5.1.5 Other aspects 
 
-1. In the next audit presentation, we will use more visualisation tool such as videos and graphs during the presentation
+1. Our team will create a file root directory to help other stakeholders access our repository.   
+
+2. In the next audit presentation, we will use more visualisation tool such as videos and graphs during the presentation
 
 ### 5.2 Action Items 
 | Action items           | Contributor        | Status          | 
@@ -150,7 +152,7 @@ There is no decision log in excel form in our repostiory is becuase we want note
 |Create a folder for external communication |Minghui |Completed|
 |Create a file to track each task status| Minghui| Completed|
 |Create a work log for each member|Minghui |Completed|
-|Create a file root dictionary|Minghui | Completed|
+|Create a file root directory|Minghui | Completed|
 |Divide technical design tasks| All team members |Completed|
 |Generate ideas for prototyping|All team members |In progress|
 |Plan the visit to a rendering plant |All team members| In progress|
