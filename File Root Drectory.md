@@ -3,9 +3,9 @@
 
 The purpose of issue this file is to help with accessing our repostory. 
 
-1. [Audit Documents](https://github.com/JessYJY/insectfarming.github.io/tree/master/Audit%20Documents)
+[Audit Documents](https://github.com/JessYJY/insectfarming.github.io/tree/master/Audit%20Documents)
 
-  1.1 [Audit 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/Audit%201.md)
+[Audit 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/Audit%201.md)
   
   [Audit 2](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/Audit%202.md)
   
