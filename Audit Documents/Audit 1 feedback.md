@@ -4,8 +4,8 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 ## Document Revision History 
 | Issue            | Revision         | Date             | Purpose of Issue  | Prepared by       | Reviewed by       |
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | :---------------: |
-| 01               | 00               | 016/08/2019       | Summarize Audit 1 feedback | Minghui Zhang     | N/A                  |
-|02                |01                 | 017/08/2019          |Upddate action items status| Minghui Zhang| N/A|
+| 01               | 00               | 16/08/2019       | Summarize Audit 1 feedback | Minghui Zhang     | N/A                  |
+|02                |00                | 17/08/2019          |Update action items status| Minghui Zhang| N/A|
 
 
 ## Table of content 
