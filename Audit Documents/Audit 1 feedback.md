@@ -36,14 +36,19 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 
 ## 2. Self Feedback 
 ### 2.1 Proejct Output 
-Our team believed our team performance is good so far. 
 
+Our team thought our project output is good so far. 
+
+In the next stage, we will start to communicate with client and finish the function anlaysis and finish the first version of design. 
 
 ### 2.2 Decision Log
 
 Our team believe the each deicsion making process is recorded in details, including  the date, ﬁnal decision and action item. In the next phase, as we select the best design after ideas generation. 
 
+
 One thing we could improve is we can involve more audiences in the decision-making process. 
+
+Another thing we could do is we need to  look at the relevant standards and material speciﬁcations to support the decision on determine the material used to build the plant.
 
 ### 2.3. Communication 
 
@@ -64,11 +69,11 @@ It might be better if we speak clearer and use more visualisation tool such as v
 
 ### 3.1 Project Output 
 
-1. One of the suggestion from our shadow team is adding more information in the stakeholder analysis. 
+One of the suggestion from our shadow team is adding more information in the stakeholder analysis. 
 
-2. There is no project constraint section. 
+There is no project constraint section. 
 
-3. Our shadow team recommand us to show the breakdown of the project cost. 
+Our shadow team recommand us to show the breakdown of the project cost. 
 
 ### 3.2 Decision Log 
 
@@ -96,21 +101,21 @@ If there can be a summary to indicate what is included in each file, it will be 
 ## 4. Tutor Feedback 
 
 ### 4.1. Aspects Done Well
-Your landing page is also extremely very well presented. 
-You have made a great start with your repository. 
-Your documentation is of very high standard and concise with clear revision logs in all your key documents. 
+Landing page is also extremely very well presented. 
+Great start with your repository. 
+Documentation is of very high standard and concise with clear revision logs in all your key documents. 
 
-Your ConOps has a clear goal and scope of your project, team roles and ground rules, stakeholders analysis, WBS, risk analysis, budget analysis and addresses some contingencies.
+ConOps has a clear goal and scope of your project, team roles and ground rules, stakeholders analysis, WBS, risk analysis, budget analysis and addresses some contingencies.
 
 Each team member knows their speciﬁc roles and what they are accountable for. Everyone appears to be contributing to your project, as reﬂected in your internal and client meeting minutes. 
 
-Your PA1 presentation was also very good with nice clear slides about your project. 
+PA1 presentation was also very good with nice clear slides about your project. 
 
 
 ### 4.2 Aspects to Improve
-It would in my opinion be important for you to see and experience in person how this process works.
+It is important for you to see and experience in person how this process works.
 
-You should also consider making some practical prototypes/experiments to help you validate and test your ideas for the three key sub systems (breaking/pre-cooking, continuous cooking, separation) of your proposed design.
+it would be better to also consider making some practical prototypes/experiments to help you validate and test your ideas for the three key sub systems (breaking/pre-cooking, continuous cooking, separation) of your proposed design.
 
 
 ## 5 Responses and Action Items 
@@ -119,44 +124,46 @@ You should also consider making some practical prototypes/experiments to help yo
 
 #### 5.1.1 Project Output 
 
-None 
+Our team will start to consider the project constratins and upload in ConOps. 
+
+We will work on providing more details for the stakeholder analysis. 
 
 #### 5.1.2 Decision Log 
 
-1. One shadow feedback is there is no decision log in excel form. 
+Currently, there is no decision log in excel form in our repostiory is becuase we want note down every important points during the decision-making process. Thus, we created a file to record each decision, including, background, date, contributors, options considered, SWOT analysis for each option, outcome and action item. We think this might be helpful if we want to review the decision in for our team and the next team  who will take over our project in the next semester. They can have a better idea of why our team would like to do this decision. We will talk about this question with our tutor in the next tutorial and come back later. 
 
-There is no decision log in excel form in our repostiory is becuase we want note down every important points during the decision-making process. Thus, we created a file to record each decision, including, background, date, contributors, options considered, SWOT analysis for each option, outcome and action item. We think this might be helpful if we want to review the decision in for our team and the next team  who will continue to do the project. 
+In the future decision-making process, we will try to involve more audiences (experts) in the process. 
 
-2. In the future decision-making process, we will try to involve more audiences (experts) in the process. 
+In the decision making process, we will look at the relevant standards and material specifications to support the decision. 
 
 #### 5.1.3 Communication 
 
 
-1. A folder will be created to show the external communication with our clients. 
+A folder will be created to show the external communication with our clients. 
 
-2. In the furthre meeting minutes, we will add another section ‘Action Items from Previous Meeting’, to indicate what results the team has gotten, and if the items are completed or still in-progress. 
+In the furthre meeting minutes, we will add another section ‘Action Items from Previous Meeting’, to indicate what results the team has gotten, and if the items are completed or still in-progress. 
 
-3. Our team will try to communicate with experts who are woking the relevant industry and seek for advice from them. 
+Our team will try to communicate with experts who are woking the relevant industry and seek for advice from them. 
 
-4. Our team will arrange a visit to a rendering plant to have more external communications. 
-5. Our team will create a file to track each task from each meeting. 
+Our team will arrange a visit to a rendering plant to have more external communications. 
+
+Our team will create a file to track each task from each meeting. 
 
 #### 5.1.4 Teamwork 
 
-1. Our team will create a work log for each member to show the contributions for each person. 
+Our team will create a work log for each member to show the contributions for each person. 
 
-2. Our team will divde the technical design tasks. 
+Our team will divde the technical design tasks. 
 
 #### 5.1.5 Other aspects 
 
-1. Our team will create a file root directory to help other stakeholders access our repository.   
+Our team will create a file root directory to help other stakeholders access our repository.   
 
-2. In the next audit presentation, we will use more visualisation tool such as videos and graphs during the presentation
+In the next audit presentation, we will use more visualisation tool such as videos and graphs during the presentation
 
 ### 5.2 Action Items 
 | Action items           | Contributor        | Status          | 
 | :--------------: | :--------------: | :--------------: | 
-|Add "Action Items from Previous Meeting" section in meeting minute| Derek | In progress|
 |Create a folder for external communication |Minghui |In progress|
 |Create a file to track each task status| Minghui| In progress|
 |Create a work log for each member|Minghui |In progress|
