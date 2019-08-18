@@ -168,6 +168,6 @@ In the next audit presentation, we will use more visualisation tool such as vide
 |Create a file to track each task status| Minghui| In progress|
 |Create a work log for each member|Minghui |In progress|
 |Create a file root directory|Minghui | In progress|
-|Divide technical design tasks| All team members |In progress|
+|Divide technical design tasks| All team members |Completed|
 |Generate ideas for prototyping|All team members |In progress|
 |Plan the visit to a rendering plant |All team members| In progress|
