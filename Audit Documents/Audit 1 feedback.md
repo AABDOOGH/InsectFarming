@@ -35,7 +35,7 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/Audit%201%20Indication%20of%20performance%20by%20stakeholders.png) 
 
 ## 2. Self Feedback 
-### 2.1 Proejct Output 
+### 2.1 Project Output 
 
 Our team thought our project output is good so far. 
 
