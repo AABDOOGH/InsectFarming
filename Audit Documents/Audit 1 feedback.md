@@ -63,10 +63,18 @@ It might be better if we speak clearer and use more visualisation tool such as v
 ## 3. Shadow Team Feedback 
 
 ### 3.1 Project Output 
-None. 
+
+1. One of the suggestion from our shadow team is adding more information in the stakeholder analysis. 
+
+2. There is no project constraint section. 
+
+3. Our shadow team recommand us to show the breakdown of the project cost. 
 
 ### 3.2 Decision Log 
-Our shadow team do not find the decision log in excel form. 
+
+One of the shadow team member do not find the decision log in excel form. 
+
+Our shadow team recommend to use Excel spreadsheet to record the decision. The table form will will help us to see when the decision occurred and whether or not it was related to the previous decision. 
 
 ### 3.3 Communication 
 
