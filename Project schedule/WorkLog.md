@@ -9,7 +9,7 @@ The document is used to show the traceability of our team contributing to the pr
 
 # Table of Content 
 - [1. Work Log for Team](#1-Work-log-for-team)
-- [2. Work Log for Andre Olivier](#2-Work-log-for andre-olivier)
+- [2. Work Log for Andre Olivier](#2-Work-log-for-andre-olivier)
 - [3. Work Log for Derek Tan](#3-work-log-for-derek-tan)
 - [4. Work Log for Jiaying Ying](#4-work-log-for-jiaying-ying)
 - [5. Work Log for Minghui Zhang](#5-work-log-for-Minghui-Zhang)
