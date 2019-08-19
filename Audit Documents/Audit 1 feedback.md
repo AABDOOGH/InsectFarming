@@ -176,7 +176,7 @@ In the next audit presentation, we will use more visualisation tool such as vide
 |Create a file to track each task status| Minghui| In progress|
 |Create a file root directory|Minghui | In progress|
 |Plan the visit to a rendering plant |All team members| In progress|
-|Collect client feedback from Audit 1|All team members|In progress|
+|Collect client feedback for Audit 1|All team members|In progress|
 |Create a work log for each member|Minghui |Completed|
 |Divide technical design tasks| All team members |Completed|
 
