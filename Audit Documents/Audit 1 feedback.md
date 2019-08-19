@@ -32,7 +32,7 @@ This document is issued to summarized the feedbacks from own team, shadow team a
      + [5.1.5 Other Aspects](#515-Other-aspects)
   * [5.2 Action Items](#52-Action-items)
  - [6. Additional Feedbacks in Week 5 Tutorial](#6-additional-feedbacks-in-week-5-tutorial)
- - [7. Client feedbacks](#7-client feedback)
+ - [7. Clients feedbacks](#7-client feedback)
 ## 1. Indication of Performance by Stakeholders 
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/Audit%201%20Indication%20of%20performance%20by%20stakeholders.png) 
 
@@ -177,10 +177,10 @@ In the next audit presentation, we will use more visualisation tool such as vide
 |Collect client feedback from Audit 1|All team members|In progress|
 
 
-## 6. Additional feedbacks from Week 5 tuotrials
+## 6. Additional Feedbacks from Week 5 Tuotrials
 
 
 
-## 7. Additional feedbacks from clients 
+## 7. Clients feedbacks
 
 Our team have not received feedbacks from clients. After we received it, we will read through it and plan for actions. 
