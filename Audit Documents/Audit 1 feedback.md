@@ -170,8 +170,6 @@ In the next audit presentation, we will use more visualisation tool such as vide
 ### 5.2 Action Items 
 | Action items           | Contributor        | Status          | 
 | :--------------: | :--------------: | :--------------: | 
-|Create a work log for each member|Minghui |Completed|
-|Divide technical design tasks| All team members |Completed|
 |Communicate with other stakeholders(clients, shadow team or tutors) to clarify the some feedbacks|All team members|In progress|
 |Create a folder and record the communication with clients and external audiences |Derek |In progress|
 |Come up with project constratins and upload in ConOps|Andre|In progress|
@@ -179,7 +177,8 @@ In the next audit presentation, we will use more visualisation tool such as vide
 |Create a file root directory|Minghui | In progress|
 |Plan the visit to a rendering plant |All team members| In progress|
 |Collect client feedback from Audit 1|All team members|In progress|
-
+|Create a work log for each member|Minghui |Completed|
+|Divide technical design tasks| All team members |Completed|
 
 ## 6. Additional Feedbacks from Week 5 Tuotrials
 
