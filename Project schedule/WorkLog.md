@@ -7,6 +7,14 @@ The document is used to show the traceability of our team contributing to the pr
 
 
 
+# Table of Content 
+-[1. Work Log for Team](#1-Work-log-for-team)
+-[2. Work Log for Andre Olivier](#2-Work-log-for andre-olivier)
+-[3. Work Log for Derek Tan](#3-work-log-for-derek-tan)
+-[4. Work Log for Jiaying Ying](#4-work-log-for-jiaying-ying)
+-[5. Work Log for Minghui Zhang](#5-work-log-for-Minghui-Zhang)
+
+## 1. Work Log for Team
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | 
 |31/07/2019 |Visit client company and factory and discuss about the project scope | Milestone 1 | 2hrs | All Team|
@@ -15,6 +23,20 @@ The document is used to show the traceability of our team contributing to the pr
 |9/8/2019|Meet with the client and get teh ConOps signed and prepare for Audit1| Milestone 1 | 1hrs | All Team |
 
 
+
+## 2. Work Log for Andre Olivier 
+|Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
+| :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | 
+|3/8/2019-4/8/2019 |ConOp documentation section 3 | Milestone 1 | 3hrs | Andre Olivier |
+
+
+## 3. Work Log for Derek Tan 
+|Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
+| :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | 
+|31/07/2019|Meeting minites for 31/07/2019|Milestone 1| 1hrs|Derek Tan|
+
+
+## 4. Work log for Jiaying Ying 
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | 
 |27/07/2019 |Created the repository  |Milestone 1 | 2hrs | Jiaying Ying|
@@ -22,21 +44,8 @@ The document is used to show the traceability of our team contributing to the pr
 |5/8/2019 |Drawing the milestone timeline and WBS| Milestone 1  | 3hrs | Jiaying Ying|
 |7/8/2019 |Setup Landing page| Milestone 1 | 3hrs|Jiaying Ying|
 
-
+## 5. Work Log for Minghui Zhang 
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | 
 |3/8/2019-4/8/2019 |ConOp documentation section 1,2&6 | Milestone 1 | 3hrs | Minghui Zhang |
 |15/8/2019-19/8/2019|Reflection for audit 1 feedback|Milestone 1|3 hrs|Minghui Zhang|
-
-
-
-|Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
-| :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | 
-|3/8/2019-4/8/2019 |ConOp documentation section 3 | Milestone 1 | 3hrs | Andre Olivier |
-
-
-
-|Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
-| :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | 
-|31/07/2019|Meeting minites for 31/07/2019|Milestone 1| 1hrs|Derek Tan|
-
