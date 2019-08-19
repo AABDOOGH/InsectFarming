@@ -31,6 +31,8 @@ This document is issued to summarized the feedbacks from own team, shadow team a
      + [5.1.4 Teamwork](#514-Teamwork)
      + [5.1.5 Other Aspects](#515-Other-aspects)
   * [5.2 Action Items](#52-Action-items)
+ - [6. Additional Feedbacks in Week 5 Tutorial](#6-additional-feedbacks-in-week-5-tutorial)
+ - [7. Client feedbacks](#7-client feedback)
 ## 1. Indication of Performance by Stakeholders 
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/Audit%201%20Indication%20of%20performance%20by%20stakeholders.png) 
 
@@ -164,6 +166,7 @@ In the next audit presentation, we will use more visualisation tool such as vide
 ### 5.2 Action Items 
 | Action items           | Contributor        | Status          | 
 | :--------------: | :--------------: | :--------------: | 
+|Communicate with other stakeholders(clients, shadow team or tutors) to clarify the some feedbacks|All team members|In progress|
 |Create a folder for external communication |Minghui |In progress|
 |Create a file to track each task status| Minghui| In progress|
 |Create a work log for each member|Minghui |In progress|
@@ -171,3 +174,13 @@ In the next audit presentation, we will use more visualisation tool such as vide
 |Divide technical design tasks| All team members |Completed|
 |Generate ideas for prototyping|All team members |In progress|
 |Plan the visit to a rendering plant |All team members| In progress|
+|Collect client feedback from Audit 1|All team members|In progress|
+
+
+## 6. Additional feedbacks from Week 5 tuotrials
+
+
+
+## 7. Additional feedbacks from clients 
+
+Our team have not received feedbacks from clients. After we received it, we will read through it and plan for actions. 
