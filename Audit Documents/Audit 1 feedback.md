@@ -128,7 +128,7 @@ it would be better to also consider making some practical prototypes/experiments
 
 Our team will start to consider the project constratins and upload in ConOps. 
 
-We will work on providing more details for the stakeholder analysis. 
+One of the feedback is to provide more details for stakeholder. Actually, in our ConOps, we provide descriptions for each stakeholder, responsibilities and how stakholders interact with each other. We will communicate with our shadow team to find out what kind of additional information they required for the stakeholder anlysis. 
 
 #### 5.1.2 Decision Log 
 
@@ -172,7 +172,7 @@ In the next audit presentation, we will use more visualisation tool such as vide
 |Create a work log for each member|Minghui |In progress|
 |Create a file root directory|Minghui | In progress|
 |Divide technical design tasks| All team members |Completed|
-|Generate ideas for prototyping|All team members |In progress|
+|Come up with project constratins and upload in ConOps|All team members|In progress|
 |Plan the visit to a rendering plant |All team members| In progress|
 |Collect client feedback from Audit 1|All team members|In progress|
 
