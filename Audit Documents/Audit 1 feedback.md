@@ -183,4 +183,4 @@ In the next audit presentation, we will use more visualisation tool such as vide
 
 ## 7. Clients Feedbacks
 
-Our team have not received feedbacks from clients. After we received it, we will read through it and plan for actions. 
+Our team have not received feedbacks from clients. After we received it, we will communicate with our clients, reflect based on the feedback and plan for actions. 
