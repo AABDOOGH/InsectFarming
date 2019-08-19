@@ -6,6 +6,8 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | :---------------: |
 | 01               | 00               | 16/08/2019       | Summarize Audit 1 feedback | Minghui Zhang     | N/A                  |
 |02                |00                | 17/08/2019          |Update action items status| Minghui Zhang| N/A|
+|03|00|19/08/2019 |Update action items status| Minghui Zhang| N/A|
+
 
 
 ## Table of content 
@@ -130,6 +132,8 @@ Our team will start to consider the project constratins and upload in ConOps.
 
 One of the feedback is to provide more details for stakeholder. Actually, in our ConOps, we provide descriptions for each stakeholder, responsibilities and how stakholders interact with each other. We will communicate with our shadow team to find out what kind of additional information they required for the stakeholder anlysis. 
 
+One of the tutor suggestions is it will be really beneficial for our team to make practical prototype. We have discussed prototyping with our clients. Our client thought it might be not feasible for our team to produce the prototype in 12 weeks. Thus, we will discuss this question in the week 5 tutorial. 
+
 #### 5.1.2 Decision Log 
 
 Currently, there is no decision log in excel form in our repostiory is becuase we want note down every important points during the decision-making process. Thus, we created a file to record each decision, including, background, date, contributors, options considered, SWOT analysis for each option, outcome and action item. We think this might be helpful if we want to review the decision in for our team and the next team  who will take over our project in the next semester. They can have a better idea of why our team would like to do this decision. We will talk about this question with our tutor in the next tutorial and come back later. 
@@ -149,7 +153,7 @@ Our team will try to communicate with experts who are woking the relevant indust
 
 Our team will arrange a visit to a rendering plant to have more external communications. 
 
-Our team will create a file to track each task from each meeting. 
+Our team will create a task tracking file to track the status for each task. We believe this could help to manage the tasks.  
 
 #### 5.1.4 Teamwork 
 
@@ -167,12 +171,12 @@ In the next audit presentation, we will use more visualisation tool such as vide
 | Action items           | Contributor        | Status          | 
 | :--------------: | :--------------: | :--------------: | 
 |Communicate with other stakeholders(clients, shadow team or tutors) to clarify the some feedbacks|All team members|In progress|
-|Create a folder for external communication |Minghui |In progress|
+|Create a folder for external communication |Derek |In progress|
 |Create a file to track each task status| Minghui| In progress|
-|Create a work log for each member|Minghui |In progress|
+|Create a work log for each member|Minghui |Completed|
 |Create a file root directory|Minghui | In progress|
 |Divide technical design tasks| All team members |Completed|
-|Come up with project constratins and upload in ConOps|All team members|In progress|
+|Come up with project constratins and upload in ConOps|Andre|In progress|
 |Plan the visit to a rendering plant |All team members| In progress|
 |Collect client feedback from Audit 1|All team members|In progress|
 
