@@ -153,7 +153,7 @@ Our team will try to communicate with experts who are woking the relevant indust
 
 Our team will arrange a visit to a rendering plant to have more external communications. 
 
-Our team will create a task tracking file to track the status for each task. We believe this could help to manage the tasks.  
+one of the shadow team member suggest it will be beneificial if we could create a task tracking file to track the status for each task. We believe this could help to manage the tasks. Therefore, our team will create a work log for each person. Thus, we will create a task tracking file for the project to track the status for each allocated task. 
 
 #### 5.1.4 Teamwork 
 
@@ -170,13 +170,13 @@ In the next audit presentation, we will use more visualisation tool such as vide
 ### 5.2 Action Items 
 | Action items           | Contributor        | Status          | 
 | :--------------: | :--------------: | :--------------: | 
-|Communicate with other stakeholders(clients, shadow team or tutors) to clarify the some feedbacks|All team members|In progress|
-|Create a folder for external communication |Derek |In progress|
-|Create a file to track each task status| Minghui| In progress|
 |Create a work log for each member|Minghui |Completed|
-|Create a file root directory|Minghui | In progress|
 |Divide technical design tasks| All team members |Completed|
+|Communicate with other stakeholders(clients, shadow team or tutors) to clarify the some feedbacks|All team members|In progress|
+|Create a folder and record the communication with clients and external audiences |Derek |In progress|
 |Come up with project constratins and upload in ConOps|Andre|In progress|
+|Create a file to track each task status| Minghui| In progress|
+|Create a file root directory|Minghui | In progress|
 |Plan the visit to a rendering plant |All team members| In progress|
 |Collect client feedback from Audit 1|All team members|In progress|
 
