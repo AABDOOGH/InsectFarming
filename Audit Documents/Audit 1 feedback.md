@@ -225,7 +225,7 @@ Our team have not received feedbacks from clients. After we received it, we will
 
 
 
-## 6.  Action Items 
+## 6. Action Items 
 
 
 | Action items           | Contributor        | Status          | 
@@ -244,7 +244,7 @@ Our team have not received feedbacks from clients. After we received it, we will
 
 
 
-## 7. Additional Feedbacks from Week 5 Tuotrial
+## 7. Additional Feedbacks in Week 5 Tuotrial
 
 
 
