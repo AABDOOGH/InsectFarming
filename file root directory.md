@@ -12,7 +12,7 @@
 
 ## 2. [Meeting Minutes](https://github.com/JessYJY/insectfarming.github.io/tree/master/Meeting)
 
-## 3. [Project Initiation]( https://github.com/JessYJY/insectfarming.github.io/tree/master/Project%20initiation
+## 3. [Project Initiation]( https://github.com/JessYJY/insectfarming.github.io/tree/master/Project%20initiation)
 
 - [ Contracts](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20initiation/Contracts.md)
 - [ Project Vision](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20initiation/Project%20vision.md)
