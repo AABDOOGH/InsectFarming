@@ -58,9 +58,9 @@ R - Team response
 ### 2.1. Project Output 
 
 #### 2.1.1. Aspects Done well 
-1. Our team thought our project output before audit 1 is good. We set the goals, and figure out the ways to communicate with team members and the clients.  
-2. Our team have already get the approval for the ConOps from our clients. 
-3. Our team are using engineering approach to tackle the challenge. 
+F1: Our team thought our project output before audit 1 is good. We set the goals, and figure out the ways to communicate with team members and the clients.  
+F2: Our team have already get the approval for the ConOps from our clients. 
+F3: Our team are using engineering approach to tackle the challenge. 
 
 #### 2.1.2 Aspects To Improve 
 A1: Our of the team members mentaioned we need to start communicate with client and finish the function anlaysis and finish the first version of design. 
@@ -69,7 +69,7 @@ R1: Functional analysis is necessary to be done before the real design started. 
 
 ### 2.2 Decision Log
 #### 2.2.1. Aspects Done Well 
-1. Our team believe the each deicsion making process is recorded in details, including  the date, ﬁnal decision and action item. In the next phase, as we select the best design after ideas generation. 
+F1: Our team believe the each deicsion making process is recorded in details, including  the date, ﬁnal decision and action item. In the next phase, as we select the best design after ideas generation. 
 
 ### 2.2.2. Aspects To Improve
 F1: One thing we could improve is we can involve more audiences in the decision-making process. 
@@ -83,7 +83,8 @@ R1: In the functioanl anlaysis task (Week 4), we involved the  International sta
 
 ### 2.3. Communication 
 #### 2.3.1 Aspects Done Well 
-1. Our project team believed most part of our communication did well. Below, it shows some ideas we can imporve in the communication aspects. 
+F1: Our project team believed most part of our communication did well. Below, it shows some ideas we can imporve in the communication aspects. 
+
 #### 2.3.2 Aspects To Improve 
 
 F1. Now, we didn’t talk about our project with our shadow team or the other teams in our tutorials too much. It will be beneﬁcial to introduce our project with other peoples and listen to their suggestions and opinions on our design idea. In addition, I will recommend our team to discuss our project and seek for suggestions with someone who has plant design experience. 
@@ -92,8 +93,7 @@ R1: Our team do not have much communication with external audiences. In the week
 
 ### 2.4 Teamwork 
 #### 2.4.1 Aspects Done Well  
-1. Our team believe most parts of teamwork is good so far. There are some points we can improve our teamwork. 
-
+F1: Our team believe most parts of teamwork is good so far. Our group have set team ground rules to ensure the collaboration is effective. Each member in our group has designated specialist roles based on each members’ skills background. In addition, our client provided some useful information about the rendering process and technologies.
 
 #### 2.4.2. Aspects To Improve 
 F1. One thing we need to consider is the technical design task allocation. 
@@ -110,19 +110,22 @@ R1: In the next audit presentation, our team would use more visulisation tool in
 ### 3.1 Project Output 
 
 #### 3.1.1 Aspects Done Well
-1. Our team has set clear goals. 
+F1: Our team has set clear goals. 
+
+F2: The project team ground rules and responsibilities of each member is clear and transparent
 
 #### 3.1.2. Aspects To Improve
 F1. One of the suggestion from our shadow team is adding more information in the stakeholder analysis. 
 
-R1: 
+R1: In our ConOps, we provide descriptions for each stakeholder, responsibilities and how stakholders interact with each other. We will communicate with our shadow team to find out what kind of additional information they required for the stakeholder anlysis.
 
 F2: There is no project constraint section. 
 
-R2: 
+R2: We will work out the project constraints and add in the ConOps. 
 
 F3. Our shadow team recommand us to show the breakdown of the project cost. 
 
+R3: 
 
 R3: 
 
@@ -217,7 +220,6 @@ F2:
 
 Our team will start to consider the project constratins and upload in ConOps. 
 
-One of the feedback is to provide more details for stakeholder. Actually, in our ConOps, we provide descriptions for each stakeholder, responsibilities and how stakholders interact with each other. We will communicate with our shadow team to find out what kind of additional information they required for the stakeholder anlysis. 
 
 One of the tutor suggestions is it will be really beneficial for our team to make practical prototype. We have discussed prototyping with our clients. Our client thought it might be not feasible for our team to produce the prototype in 12 weeks. Thus, we will discuss this question in the week 5 tutorial. 
 
