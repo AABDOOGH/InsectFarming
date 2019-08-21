@@ -41,7 +41,7 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 - [4. Tutor Feedback](#4-Tutor-Feedback)
   * [4.1. Aspects Done Well](#41-Aspects-done-well)
   * [4.2 Aspects to Improve](#42-Aspects-to-improve)
-- [5. Client Feedbacks](#5-client-feebbacks)
+- [5. Client Feedbacks](#5-client-feedbacks)
 - [6. Action Items](#6-Action-Items) 
 - [7. Additional Feedbacks in Week 5 Tutorial](#7-additional-feedbacks-in-week-5-tutorial)
 
@@ -225,7 +225,7 @@ Our team have not received feedbacks from clients. After we received it, we will
 
 
 
-## 6  Action Items 
+## 6.  Action Items 
 
 
 | Action items           | Contributor        | Status          | 
