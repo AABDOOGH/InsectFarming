@@ -57,116 +57,161 @@ R - Team response
 ## 2. Self Feedback  
 ### 2.1. Project Output 
 
-#### 2.1.1. Aspects well done 
+#### 2.1.1. Aspects Done well 
 1. Our team thought our project output before audit 1 is good. We set the goals, and figure out the ways to communicate with team members and the clients.  
 2. Our team have already get the approval for the ConOps from our clients. 
 3. Our team are using engineering approach to tackle the challenge. 
 
-#### 2.1.2 Aspects to improve 
+#### 2.1.2 Aspects To Improve 
 A1: Our of the team members mentaioned we need to start communicate with client and finish the function anlaysis and finish the first version of design. 
 
-R1: 
+R1: Functional analysis is necessary to be done before the real design started. Our team will meet the client in Week 5 Wednesday. We will finalize the functional anlaysis during the meeting time. 
 
 ### 2.2 Decision Log
-#### 2.2.1. Aspects well done 
-Our team believe the each deicsion making process is recorded in details, including  the date, ﬁnal decision and action item. In the next phase, as we select the best design after ideas generation. 
+#### 2.2.1. Aspects Done Well 
+1. Our team believe the each deicsion making process is recorded in details, including  the date, ﬁnal decision and action item. In the next phase, as we select the best design after ideas generation. 
 
-### 2.2.2. Aspects to improve 
-1. One thing we could improve is we can involve more audiences in the decision-making process. 
+### 2.2.2. Aspects To Improve
+F1: One thing we could improve is we can involve more audiences in the decision-making process. 
+
+R1: We will involve more audiences in the designing phase decision. Now, our team are more focusing on researching and scoping the technologies and existing products. 
 
 
-2. Another thing we could do is we need to  look at the relevant standards and material speciﬁcations to support the decision on determine the material used to build the plant.
+F2. Another thing we could do is we need to  look at the relevant standards and material speciﬁcations to support the decision on determine the material used to build the plant.
+
+R1: In the functioanl anlaysis task (Week 4), we involved the  International standards and Australian standards toward to the manufacturing. In the future designing phase, we will reference more to support our decision on determing the material used to build the plant. 
 
 ### 2.3. Communication 
-#### 2.3.1 Aspects well done 
+#### 2.3.1 Aspects Done Well 
 1. Our project team believed most part of our communication did well. Below, it shows some ideas we can imporve in the communication aspects. 
-#### 2.3.2 Aspects to improve 
-2. Now, we didn’t talk about our project with our shadow team or the other teams in our tutorials too much. It will be beneﬁcial to introduce our project with other peoples and listen to their suggestions and opinions on our design idea. In addition, I will recommend our team to discuss our project and seek for suggestions with someone who has plant design experience. 
+#### 2.3.2 Aspects To Improve 
+
+F1. Now, we didn’t talk about our project with our shadow team or the other teams in our tutorials too much. It will be beneﬁcial to introduce our project with other peoples and listen to their suggestions and opinions on our design idea. In addition, I will recommend our team to discuss our project and seek for suggestions with someone who has plant design experience. 
+
+R1: Our team do not have much communication with external audiences. In the week 5 tutorial, we will seek for more advice from tutor and shadow team. In addition, our team are planning to visit the rendering plant in NSW. Our team believe we could seek for more information and advice relating to designing. 
 
 ### 2.4 Teamwork 
-#### 2.4.1 Aspects well done 
+#### 2.4.1 Aspects Done Well  
 1. Our team believe most parts of teamwork is good so far. There are some points we can improve our teamwork. 
 
 
-#### 2.4.2. Aspects to improve 
-1. One thing we need to consider is the technical design task allocation. 
+#### 2.4.2. Aspects To Improve 
+F1. One thing we need to consider is the technical design task allocation. 
 
+R1: Our team has already finished this task in week 4. 
 
 ### 2.5 Other Feedbacks 
-1. It might be better if we speak clearer and use more visualisation tool such as videos and graphs during the presentation. 
+F1. It might be better if we speak clearer and use more visualisation tool such as videos and graphs during the presentation. 
 
+
+R1: In the next audit presentation, our team would use more visulisation tool in the presentation. This would be an effective way for audience to understand our project. 
 ## 3. Shadow Team Feedback 
 
 ### 3.1 Project Output 
 
-#### 3.1.1 Aspects well done 
+#### 3.1.1 Aspects Done Well
+1. Our team has set clear goals. 
+
+#### 3.1.2. Aspects To Improve
+F1. One of the suggestion from our shadow team is adding more information in the stakeholder analysis. 
+
+R1: 
+
+F2: There is no project constraint section. 
+
+R2: 
+
+F3. Our shadow team recommand us to show the breakdown of the project cost. 
 
 
-#### 3.1.2. Aspects to improve 
-1. One of the suggestion from our shadow team is adding more information in the stakeholder analysis. 
-
-2. There is no project constraint section. 
-
-3. Our shadow team recommand us to show the breakdown of the project cost. 
+R3: 
 
 ### 3.2 Decision Log 
 
-#### 3.2.1. Aspects well done 
+#### 3.2.1. Aspects Done Well 
 
 
-#### 3.2.2. Aspects to improve 
-1. One of the shadow team member do not find the decision log in excel form. 
+#### 3.2.2. Aspects To Improve 
+F1: One of the shadow team member do not find the decision log in excel form. 
 
-2. Our shadow team recommend to use Excel spreadsheet to record the decision. The table form will will help us to see when the decision occurred and whether or not it was related to the previous decision. 
+
+R1: 
+
+
+F2: Our shadow team recommend to use Excel spreadsheet to record the decision. The table form will will help us to see when the decision occurred and whether or not it was related to the previous decision. 
+
+
+
+R2: 
+
 
 ### 3.3 Communication 
-#### 3.3.1. Aspects well done 
+#### 3.3.1. Aspects Done Well
 
-#### 3.3.2 Aspects to improve 
+#### 3.3.2 Aspects To Improve 
 
-1. Our shadow team advice us two sections may be created for minute-taking, one is ‘New Action Items’, to record what the team may need to do after the meeting; and the other one is ‘Action Items from Previous Meeting’, to indicate what results the team has gotten, and if the items are completed or still in-progress. 
+F1: Our shadow team advice us two sections may be created for minute-taking, one is ‘New Action Items’, to record what the team may need to do after the meeting; and the other one is ‘Action Items from Previous Meeting’, to indicate what results the team has gotten, and if the items are completed or still in-progress. 
 
-2. Our shaodw team advice us another folder may be created to input any external interaction ( with your clients or suppliers), especially for formal touches like email correspondence. 
+R1: 
 
-3. Our shadow team recommend it will be great if we can have something to indicate the follow-up process of the tasks assigned during the meeting. 
+
+F2: Our shaodw team advice us another folder may be created to input any external interaction ( with your clients or suppliers), especially for formal touches like email correspondence. 
+
+
+R2: 
+
+F3: Our shadow team recommend it will be great if we can have something to indicate the follow-up process of the tasks assigned during the meeting. 
+
+
+R3: 
+
 
 ### 3.4 Teamwork 
-#### 3.4.1 Aspects well done 
+#### 3.4.1 Aspects Done Well
 
 
-#### 3.4.2 Aspects well improve 
-1. Our shadow team recommend to separate each person’s log book and count the weekly duration each member spent to give you guys a better representation of who is putting more work than the others. 
+#### 3.4.2 Aspects To Improve 
+F1: Our shadow team recommend to separate each person’s log book and count the weekly duration each member spent to give you guys a better representation of who is putting more work than the others. 
+
+R1: 
+
 
 ### 3.5 Other feedbacks 
 
-1. If there can be a summary to indicate what is included in each file, it will be easy to access the repository. 
+F1: If there can be a summary to indicate what is included in each file, it will be easy to access the repository. 
+
+R1: 
 
 
 ## 4. Tutor Feedback 
 
 ### 4.1. Aspects Done Well
-1. Landing page is also extremely very well presented. 
+F1. Landing page is also extremely very well presented. 
 
-2. Great start with your repository. 
+F2. Great start with your repository. 
 
-3. Documentation is of very high standard and concise with clear revision logs in all your key documents. 
+F3. Documentation is of very high standard and concise with clear revision logs in all your key documents. 
 
-4. ConOps has a clear goal and scope of your project, team roles and ground rules, stakeholders analysis, WBS, risk analysis, budget analysis and addresses some contingencies.
+F4. ConOps has a clear goal and scope of your project, team roles and ground rules, stakeholders analysis, WBS, risk analysis, budget analysis and addresses some contingencies.
 
-5. Each team member knows their speciﬁc roles and what they are accountable for. Everyone appears to be contributing to your project, as reﬂected in your internal and client meeting minutes. 
+F5. Each team member knows their speciﬁc roles and what they are accountable for. Everyone appears to be contributing to your project, as reﬂected in your internal and client meeting minutes. 
 
-6. PA1 presentation was also very good with nice clear slides about your project. 
+F6. PA1 presentation was also very good with nice clear slides about your project. 
 
 
 ### 4.2 Aspects to Improve
-1. It is important for you to see and experience in person how this process works.
-
-2. It would be better to also consider making some practical prototypes/experiments to help you validate and test your ideas for the three key sub systems (breaking/pre-cooking, continuous cooking, separation) of your proposed design.
+F1.: It is important for you to see and experience in person how this process works.
 
 
-## 5 Responses and Action Items 
+R1:
 
-### 5.1 Responses
+
+F2: It would be better to also consider making some practical prototypes/experiments to help you validate and test your ideas for the three key sub systems (breaking/pre-cooking, continuous cooking, separation) of your proposed design.
+
+F2: 
+
+## 5  Action Items 
+
 
 #### 5.1.1 Project Output 
 
@@ -219,6 +264,7 @@ In the next audit presentation, we will use more visualisation tool such as vide
 |Create a file root directory|Minghui | In progress|
 |Plan the visit to a rendering plant |All team members| In progress|
 |Collect client feedback for Audit 1|All team members|In progress|
+|Finalize functional analysis |All team members and Client|In progree|
 |Create a work log for each member|Minghui |Completed|
 |Divide technical design tasks| All team members |Completed|
 
