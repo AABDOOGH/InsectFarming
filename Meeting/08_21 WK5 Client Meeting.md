@@ -44,7 +44,7 @@
 ## Action Items 
 
 | Actions | Assignment to | Deadline|
-| :---:    | :-- :         | :--:    |
+| :---:    | :--:         | :--:    |
 | Engineering governance (requirement and function analysis | Derek Tan | 23/08/19|
 | Feedback management | Minghui Zhang | 23/08/19|
 | Sketch idea design | Andre Olivier and Jiaying Ying | 23/08/19|
