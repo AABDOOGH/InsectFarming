@@ -168,6 +168,10 @@ F3: Our shadow team recommend it will be great if we can have something to indic
 
 R3: Yes, we believe this could help to manage the tasks. Our team will create a work log for each person. Thus, we will create a task tracking file for the project to track the status for each allocated task. 
 
+F4: Our shadow team suggest us to have more communication with experts in the relating industry. 
+
+R4：Yes! It will be beneficial for our team if we could communicate with the experts. Our team is arranging the visit to the rendering plant. We beleive we could get lots of useful feedback from them. 
+
 
 ### 3.4 Teamwork 
 #### 3.4.1 Aspects Done Well
