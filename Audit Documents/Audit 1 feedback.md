@@ -64,7 +64,7 @@ F2: Our team have already get the approval for the ConOps from our clients.
 F3: Our team are using engineering approach to tackle the challenge. 
 
 #### 2.1.2 Aspects To Improve 
-A1: Our of the team members mentaioned we need to start communicate with client and finish the function anlaysis and finish the first version of design. 
+F1: Our of the team members mentaioned we need to start communicate with client and finish the function anlaysis and finish the first version of design. 
 
 R1: Functional analysis is necessary to be done before the real design started. Our team will meet the client in Week 5 Wednesday. We will finalize the functional anlaysis during the meeting time. 
 
@@ -84,6 +84,7 @@ R1: In the functioanl anlaysis task (Week 4), we involved the  International sta
 
 ### 2.3. Communication 
 #### 2.3.1 Aspects Done Well 
+
 F1: Our project team believed most part of our communication did well. Below, it shows some ideas we can imporve in the communication aspects. 
 
 #### 2.3.2 Aspects To Improve 
@@ -144,7 +145,12 @@ R1: Currently, there is no decision log in excel form in our repostiory is becua
 
 ### 3.3 Communication 
 #### 3.3.1. Aspects Done Well
+F1: The meeting notes are very well done. 
 
+F2: It is very clear everyone’s contribution to the meeting and the to do list of each member. 
+
+F3: The team show that they have regular contact with their client to facilitate a good working relationship and to keep the client
+well informed
 #### 3.3.2 Aspects To Improve 
 
 F1: Our shadow team advice us two sections may be created for minute-taking, one is ‘New Action Items’, to record what the team may need to do after the meeting; and the other one is ‘Action Items from Previous Meeting’, to indicate what results the team has gotten, and if the items are completed or still in-progress. 
@@ -165,13 +171,13 @@ R3: Yes, we believe this could help to manage the tasks. Our team will create a 
 
 ### 3.4 Teamwork 
 #### 3.4.1 Aspects Done Well
+F1: The responsibilities of all other stakeholders are well defined which is great
 
-
+F2:  It is very clear which responsibilities fall on whom. 
 #### 3.4.2 Aspects To Improve 
 F1: Our shadow team recommend to separate each person’s log book and count the weekly duration each member spent to give you guys a better representation of who is putting more work than the others. 
 
 R1: Yes, we beleive this can clearly show what tasks did each member complete. Our team will create a work log for each member to show the contributions for each person. 
-
 
 ### 3.5 Other feedbacks 
 
