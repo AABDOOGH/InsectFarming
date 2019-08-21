@@ -2,7 +2,7 @@
 
 ## General Information
 | Content | Description | 
-| ------- | -------     |
+| :-----: | :------:    |
 | **Location and Time**|   Law Library 4pm-5pm  21/08/2019  |
 | **Purpose of Meeting**  |Provide feedback from first audit and ask the questions about the first preliminary design |\
 | **Attendees** | **Project team**: Derek Tan, Andre Olivier, Minghui Zhang, Jiaying Ying **Client team**: Jeifei Wang (Robotic Engineer from Gottera), Martin Amidy (Goterra liason) |
@@ -44,7 +44,7 @@
 ## Action Items 
 
 | Actions | Assignment to | Deadline|
-| ---     | --            | --      |
+| :---:    | :-- :         | :--:    |
 | Engineering governance (requirement and function analysis | Derek Tan | 23/08/19|
 | Feedback management | Minghui Zhang | 23/08/19|
 | Sketch idea design | Andre Olivier and Jiaying Ying | 23/08/19|
