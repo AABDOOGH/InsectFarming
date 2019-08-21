@@ -12,7 +12,7 @@
 
 ## 2. [Meeting Minutes](https://github.com/JessYJY/insectfarming.github.io/tree/master/Meeting)
 
-## 3. [Project Initiation]( https://github.com/JessYJY/insectfarming.github.io/tree/master/Project%20initiation)- [6 Function Analysis](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20initiation/Function%20analysis)
+## 3. [Project Initiation]( https://github.com/JessYJY/insectfarming.github.io/tree/master/Project%20initiation
 
 - [ Contracts](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20initiation/Contracts.md)
 - [ Project Vision](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20initiation/Project%20vision.md)
@@ -23,5 +23,19 @@
 
 ## 4. [Project Schedule](https://github.com/JessYJY/insectfarming.github.io/tree/master/Project%20schedule)
 
--[Gantt Chart]
+-[Gantt Chart](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20schedule/Gantt%20Chart.pdf)
+-[Timeline](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20schedule/timeline_updated1.png)
+-[Milestone](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20schedule/Milestone.md)
+-[Task status](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20schedule/Task%20tracking%20file.md)
+-[Work Log](https://github.com/JessYJY/insectfarming.github.io/tree/master/Project%20schedule)
+
+
+## 5. Rendering design 
+-[Preliminary rendering design](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/PreliminaryRenderingDesigns.pdf)
+
+-[TPM]((https://github.com/JessYJY/insectfarming.github.io/blob/master/Research/FinancePreliminary.xlsx))
+
+-[Finance preliminary](https://github.com/JessYJY/insectfarming.github.io/blob/master/Research/FinancePreliminary.xlsx)
+
+
 
