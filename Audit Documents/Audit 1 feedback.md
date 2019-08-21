@@ -244,7 +244,7 @@ Our team have not received feedbacks from clients. After we received it, we will
 
 
 
-## 7. Additional Feedbacks from Week 5 Tuotrials
+## 7. Additional Feedbacks from Week 5 Tuotrial
 
 
 
