@@ -233,10 +233,13 @@ R2:  We have discussed prototyping with our clients. Our client thought it might
 |Create a work log for each member|Minghui |Completed|
 |Divide technical design tasks| All team members |Completed|
 
-## 6. Additional Feedbacks from Week 5 Tuotrials
-
-
-
-## 7. Clients Feedbacks
+## 6. Clients Feedbacks
 
 Our team have not received feedbacks from clients. After we received it, we will communicate with our clients, reflect based on the feedback and plan for actions. 
+
+
+
+## 7. Additional Feedbacks from Week 5 Tuotrials
+
+
+
