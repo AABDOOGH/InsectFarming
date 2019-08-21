@@ -42,5 +42,6 @@
 
 - [Finance preliminary](https://github.com/JessYJY/insectfarming.github.io/blob/master/Research/FinancePreliminary.xlsx)
 
+## 6. Client communication
 
-
+- [Client email](https://github.com/JessYJY/insectfarming.github.io/blob/master/Client%20communication/Client%20email.md)
