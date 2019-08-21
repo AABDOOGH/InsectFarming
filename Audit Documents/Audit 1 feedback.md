@@ -90,7 +90,7 @@ F1: Our project team believed most part of our communication did well. Below, it
 
 F1. Now, we didn’t talk about our project with our shadow team or the other teams in our tutorials too much. It will be beneﬁcial to introduce our project with other peoples and listen to their suggestions and opinions on our design idea. In addition, I will recommend our team to discuss our project and seek for suggestions with someone who has plant design experience. 
 
-R1: Our team do not have much communication with external audiences. In the week 5 tutorial, we will seek for more advice from tutor and shadow team. In addition, our team are planning to visit the rendering plant in NSW. Our team believe we could seek for more information and advice relating to designing. 
+R1: Our team do not have much communication with external audiences. In the week 5 tutorial, we will seek for more advice from tutor and shadow team. In addition, our team are planning to visit the rendering plant in NSW. Our team believe we could seek for more information and advice relating to designing. In addition, our team will try to communicate with experts who are woking the relevant industry and seek for advice from them. We are arranging a visit to a rendering plant to have more external communications. 
 
 ### 2.4 Teamwork 
 #### 2.4.1 Aspects Done Well  
@@ -115,6 +115,7 @@ F1: Our team has set clear goals.
 
 F2: The project team ground rules and responsibilities of each member is clear and transparent
 
+
 #### 3.1.2. Aspects To Improve
 F1. One of the suggestion from our shadow team is adding more information in the stakeholder analysis. 
 
@@ -126,27 +127,19 @@ R2: We will work out the project constraints and add in the ConOps.
 
 F3. Our shadow team recommand us to show the breakdown of the project cost. 
 
-R3: 
-
-R3: 
+R3: The project scope is designing the mobile plant. Therefore, it will be a little bit hard to break down further more the project cost. We will communicate clients and tutor to figure out whether we ned to do the prototype. If our plan to do the prototype, we will figure out the detials for prototyping. 
 
 ### 3.2 Decision Log 
 
 #### 3.2.1. Aspects Done Well 
 
+F1: Our team involve client in the decision making process. 
 
 #### 3.2.2. Aspects To Improve 
-F1: One of the shadow team member do not find the decision log in excel form. 
 
+F1: One of the feedback is there is no decision log in excel spreadsheet form. Our shadow team recommend to use Excel spreadsheet to record the decision. The table form will will help us to see when the decision occurred and whether or not it was related to the previous decision. 
 
-R1: 
-
-
-F2: Our shadow team recommend to use Excel spreadsheet to record the decision. The table form will will help us to see when the decision occurred and whether or not it was related to the previous decision. 
-
-
-
-R2: 
+R1: Currently, there is no decision log in excel form in our repostiory is becuase we want note down every important points during the decision-making process. Thus, we created a file to record each decision, including, background, date, contributors, options considered, SWOT analysis for each option, outcome and action item. We think this might be helpful if we want to review the decision in for our team and the next team  who will take over our project in the next semester. They can have a better idea of why our team would like to do this decision. We will talk about this question with our tutor in the next tutorial and come back later. 
 
 
 ### 3.3 Communication 
@@ -156,18 +149,18 @@ R2:
 
 F1: Our shadow team advice us two sections may be created for minute-taking, one is ‘New Action Items’, to record what the team may need to do after the meeting; and the other one is ‘Action Items from Previous Meeting’, to indicate what results the team has gotten, and if the items are completed or still in-progress. 
 
-R1: 
+R1: Yes, in the furthre meeting minutes, we will add another section ‘Action Items from Previous Meeting’, to indicate what results the team has gotten, and if the items are completed or still in-progress. This is beneficial to indicate what results we have gotten and the progress of project. 
 
 
 F2: Our shaodw team advice us another folder may be created to input any external interaction ( with your clients or suppliers), especially for formal touches like email correspondence. 
 
 
-R2: 
+R2: Yes, this will be really beneficial. A folder will be created to show the external communication with our clients. 
 
 F3: Our shadow team recommend it will be great if we can have something to indicate the follow-up process of the tasks assigned during the meeting. 
 
 
-R3: 
+R3: Yes, we believe this could help to manage the tasks. Our team will create a work log for each person. Thus, we will create a task tracking file for the project to track the status for each allocated task. 
 
 
 ### 3.4 Teamwork 
@@ -177,14 +170,14 @@ R3:
 #### 3.4.2 Aspects To Improve 
 F1: Our shadow team recommend to separate each person’s log book and count the weekly duration each member spent to give you guys a better representation of who is putting more work than the others. 
 
-R1: 
+R1: Yes, we beleive this can clearly show what tasks did each member complete. Our team will create a work log for each member to show the contributions for each person. 
 
 
 ### 3.5 Other feedbacks 
 
 F1: If there can be a summary to indicate what is included in each file, it will be easy to access the repository. 
 
-R1: 
+R1: Yes, we will create file to show what information is included in each folder. This could provide help to people if they would like to quickly find out the exactly infomratiion.  
 
 
 ## 4. Tutor Feedback 
@@ -207,57 +200,16 @@ F6. PA1 presentation was also very good with nice clear slides about your projec
 F1.: It is important for you to see and experience in person how this process works.
 
 
-R1:
+R1: It will be definately beneficial for our team to see how the rendering plant work. Our team is planning the visit. 
 
 
 F2: It would be better to also consider making some practical prototypes/experiments to help you validate and test your ideas for the three key sub systems (breaking/pre-cooking, continuous cooking, separation) of your proposed design.
 
-F2: 
+R2:  We have discussed prototyping with our clients. Our client thought it might be not feasible for our team to produce the prototype in 12 weeks. Thus, we will discuss this question in the week 5 tutorial. 
 
 ## 5  Action Items 
 
 
-#### 5.1.1 Project Output 
-
-Our team will start to consider the project constratins and upload in ConOps. 
-
-
-One of the tutor suggestions is it will be really beneficial for our team to make practical prototype. We have discussed prototyping with our clients. Our client thought it might be not feasible for our team to produce the prototype in 12 weeks. Thus, we will discuss this question in the week 5 tutorial. 
-
-#### 5.1.2 Decision Log 
-
-Currently, there is no decision log in excel form in our repostiory is becuase we want note down every important points during the decision-making process. Thus, we created a file to record each decision, including, background, date, contributors, options considered, SWOT analysis for each option, outcome and action item. We think this might be helpful if we want to review the decision in for our team and the next team  who will take over our project in the next semester. They can have a better idea of why our team would like to do this decision. We will talk about this question with our tutor in the next tutorial and come back later. 
-
-In the future decision-making process, we will try to involve more audiences (experts) in the process. 
-
-In the decision making process, we will look at the relevant standards and material specifications to support the decision. 
-
-#### 5.1.3 Communication 
-
-
-A folder will be created to show the external communication with our clients. 
-
-In the furthre meeting minutes, we will add another section ‘Action Items from Previous Meeting’, to indicate what results the team has gotten, and if the items are completed or still in-progress. 
-
-Our team will try to communicate with experts who are woking the relevant industry and seek for advice from them. 
-
-Our team will arrange a visit to a rendering plant to have more external communications. 
-
-one of the shadow team member suggest it will be beneificial if we could create a task tracking file to track the status for each task. We believe this could help to manage the tasks. Therefore, our team will create a work log for each person. Thus, we will create a task tracking file for the project to track the status for each allocated task. 
-
-#### 5.1.4 Teamwork 
-
-Our team will create a work log for each member to show the contributions for each person. 
-
-Our team will divde the technical design tasks. 
-
-#### 5.1.5 Other aspects 
-
-Our team will create a file root directory to help other stakeholders access our repository.   
-
-In the next audit presentation, we will use more visualisation tool such as videos and graphs during the presentation
-
-### 5.2 Action Items 
 | Action items           | Contributor        | Status          | 
 | :--------------: | :--------------: | :--------------: | 
 |Communicate with other stakeholders(clients, shadow team or tutors) to clarify the some feedbacks|All team members|In progress|
