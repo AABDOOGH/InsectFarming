@@ -14,38 +14,58 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 - [1. Indication of Performance by Stakeholders](#1-indication-of-performance-by-stakeholders)
 - [2. Self Feedback](#2-Self-feedback)
   * [2.1. Project Output](#21-Project-Output)
+    + [2.1.1. Aspects Done Well](#211-Aspects-done-well)
+    + [2.1.2. Aspects To Improve](#212-Aspects-to-improve)
   * [2.2. Decision Log](#22-Decision-Log)
+     + [2.2.1. Aspects Done Well](#221-Aspects-done-well)
+     + [2.2.2. Aspects To Improve](#222-Aspects-to-improve)
   * [2.3. Commmunication](#23-Communication)
+     + [2.3.1. Aspects Done Well](#231-Aspects-done-well)
+     + [2.3.2. Aspects To Improve](#232-Aspects-to-improve)
   * [2.4. Teamwork](#24-Teamwork)
+     + [2.4.1. Aspects Done Well](#241-Aspects-done-well)
+     + [2.4.2. Aspects To Improve](#242-Aspects-to-improve)
 - [3. Shadow Team Feedback](#3-Shadow-Team-feedback)
   * [3.1. Project Output](#31-Project-Output)
+     + [3.1.1. Aspects Done Well](#311-Aspects-done-well)
+     + [3.1.2. Aspects To Improve](#312-Aspects-to-improve)
   * [3.2. Decision Log](#32-Decision-Log)
+     + [3.2.1. Aspects Done Well](#321-Aspects-done-well)
+     + [3.2.2. Aspects To Improve](#322-Aspects-to-improve)
   * [3.3. Commmunication](#33-Communication)
+     + [3.3.1. Aspects Done Well](#331-Aspects-done-well)
+     + [3.3.2. Aspects To Improve](#332-Aspects-to-improve)
   * [3.4. Teamwork](#34-Teamwork)
+     + [3.4.1. Aspects Done Well](#341-Aspects-done-well)
+     + [3.4.2. Aspects To Improve](#342-Aspects-to-improve)
 - [4. Tutor Feedback](#4-Tutor-Feedback)
   * [4.1. Aspects Done Well](#41-Aspects-done-well)
   * [4.2 Aspects to Improve](#42-Aspects-to-improve)
-- [5. Responses and Action Items](#5-Responses-and-Action-Items) 
-  * [5.1. Responses](#51-Responses)
-     + [5.1.1. Project Output](#511-Project-Output)
-     + [5.1.2. Decision Log](#512-Decision-Log)
-     + [5.1.3. Communication](#513-Communication)
-     + [5.1.4 Teamwork](#514-Teamwork)
-     + [5.1.5 Other Aspects](#515-Other-aspects)
-  * [5.2 Action Items](#52-Action-items)
+- [5. Action Items](#5-Action-Items) 
  - [6. Additional Feedbacks in Week 5 Tutorial](#6-additional-feedbacks-in-week-5-tutorial)
  - [7. Clients Feedbacks](#7-clients-feebbacks)
+ 
+## Glossary of Terms 
+
+F - Feedback 
+
+R - Team response 
+
 ## 1. Indication of Performance by Stakeholders 
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/Audit%201%20Indication%20of%20performance%20by%20stakeholders.png) 
 
-## 2. Self Feedback 
+## 2. Self Feedback  
 ### 2.1. Project Output 
 
 #### 2.1.1. Aspects well done 
-1. Our team thought our project output is good so far. 
+1. Our team thought our project output before audit 1 is good. We set the goals, and figure out the ways to communicate with team members and the clients.  
+2. Our team have already get the approval for the ConOps from our clients. 
+3. Our team are using engineering approach to tackle the challenge. 
 
 #### 2.1.2 Aspects to improve 
-1. In the next stage, we will start to communicate with client and finish the function anlaysis and finish the first version of design. 
+A1: Our of the team members mentaioned we need to start communicate with client and finish the function anlaysis and finish the first version of design. 
+
+R1: 
 
 ### 2.2 Decision Log
 #### 2.2.1. Aspects well done 
