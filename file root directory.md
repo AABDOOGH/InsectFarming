@@ -2,7 +2,7 @@
 
 ## File Root Directory 
 
-## 1. Audit Documents 
+## 1. [Audit Documents ](https://github.com/JessYJY/insectfarming.github.io/tree/master/Audit%20Documents)
 - [ Audit 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/Audit%201.md)
 - [ Audit 2](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/Audit%202.md)
 - [ Audit 3]
@@ -34,7 +34,7 @@
 - [Work Log](https://github.com/JessYJY/insectfarming.github.io/tree/master/Project%20schedule)
 
 
-## 5. Rendering design 
+## 5. [Rendering design ](https://github.com/JessYJY/insectfarming.github.io/tree/master/Rendering%20design)
 
 - [Preliminary rendering design](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/PreliminaryRenderingDesigns.pdf)
 
