@@ -16,8 +16,9 @@
 - [ Project Vision](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20initiation/Project%20vision.md)
 - [ Relevant Stakeholder](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20initiation/Relevant%20stakeholders.md)
 - [ Resources Risks and Contingencies](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20initiation/Resources%20risks%20and%20contingencies.md)
-- [ Requirement Analysis](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20initiation/Requirement%20analysis)
-- [ Function Analysis](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20initiation/Function%20analysis)
+- [ Requirement Analysis] (https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20initiation/Requirement%20Analysis.xlsx)
+
+- [ Functional Analysis](https://github.com/JessYJY/insectfarming.github.io/tree/master/Functional%20Analysis)
 
 ## 4. [Project Schedule](https://github.com/JessYJY/insectfarming.github.io/tree/master/Project%20schedule)
 
