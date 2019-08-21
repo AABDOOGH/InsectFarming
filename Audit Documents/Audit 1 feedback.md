@@ -39,87 +39,109 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/Audit%201%20Indication%20of%20performance%20by%20stakeholders.png) 
 
 ## 2. Self Feedback 
-### 2.1 Project Output 
+### 2.1. Project Output 
 
-Our team thought our project output is good so far. 
+#### 2.1.1. Aspects well done 
+1. Our team thought our project output is good so far. 
 
-In the next stage, we will start to communicate with client and finish the function anlaysis and finish the first version of design. 
+#### 2.1.2 Aspects to improve 
+1. In the next stage, we will start to communicate with client and finish the function anlaysis and finish the first version of design. 
 
 ### 2.2 Decision Log
-
+#### 2.2.1. Aspects well done 
 Our team believe the each deicsion making process is recorded in details, including  the date, ﬁnal decision and action item. In the next phase, as we select the best design after ideas generation. 
 
+### 2.2.2. Aspects to improve 
+1. One thing we could improve is we can involve more audiences in the decision-making process. 
 
-One thing we could improve is we can involve more audiences in the decision-making process. 
 
-Another thing we could do is we need to  look at the relevant standards and material speciﬁcations to support the decision on determine the material used to build the plant.
+2. Another thing we could do is we need to  look at the relevant standards and material speciﬁcations to support the decision on determine the material used to build the plant.
 
 ### 2.3. Communication 
-
-Our project team believed most part of our communication did well. Below, it shows some ideas we can imporve in the communication aspects. 
-
-Now, we didn’t talk about our project with our shadow team or the other teams in our tutorials too much. It will be beneﬁcial to introduce our project with other peoples and listen to their suggestions and opinions on our design idea. In addition, I will recommend our team to discuss our project and seek for suggestions with someone who has plant design experience. 
+#### 2.3.1 Aspects well done 
+1. Our project team believed most part of our communication did well. Below, it shows some ideas we can imporve in the communication aspects. 
+#### 2.3.2 Aspects to improve 
+2. Now, we didn’t talk about our project with our shadow team or the other teams in our tutorials too much. It will be beneﬁcial to introduce our project with other peoples and listen to their suggestions and opinions on our design idea. In addition, I will recommend our team to discuss our project and seek for suggestions with someone who has plant design experience. 
 
 ### 2.4 Teamwork 
+#### 2.4.1 Aspects well done 
+1. Our team believe most parts of teamwork is good so far. There are some points we can improve our teamwork. 
 
-Our team believe most parts of teamwork is good so far. There are some points we can improve our teamwork. 
 
-One thing we need to consider is the technical design task allocation. 
+#### 2.4.2. Aspects to improve 
+1. One thing we need to consider is the technical design task allocation. 
+
 
 ### 2.5 Other Feedbacks 
-It might be better if we speak clearer and use more visualisation tool such as videos and graphs during the presentation. 
+1. It might be better if we speak clearer and use more visualisation tool such as videos and graphs during the presentation. 
 
 ## 3. Shadow Team Feedback 
 
 ### 3.1 Project Output 
 
-One of the suggestion from our shadow team is adding more information in the stakeholder analysis. 
+#### 3.1.1 Aspects well done 
 
-There is no project constraint section. 
 
-Our shadow team recommand us to show the breakdown of the project cost. 
+#### 3.1.2. Aspects to improve 
+1. One of the suggestion from our shadow team is adding more information in the stakeholder analysis. 
+
+2. There is no project constraint section. 
+
+3. Our shadow team recommand us to show the breakdown of the project cost. 
 
 ### 3.2 Decision Log 
 
-One of the shadow team member do not find the decision log in excel form. 
+#### 3.2.1. Aspects well done 
 
-Our shadow team recommend to use Excel spreadsheet to record the decision. The table form will will help us to see when the decision occurred and whether or not it was related to the previous decision. 
+
+#### 3.2.2. Aspects to improve 
+1. One of the shadow team member do not find the decision log in excel form. 
+
+2. Our shadow team recommend to use Excel spreadsheet to record the decision. The table form will will help us to see when the decision occurred and whether or not it was related to the previous decision. 
 
 ### 3.3 Communication 
+#### 3.3.1. Aspects well done 
 
-Our shadow team advice us two sections may be created for minute-taking, one is ‘New Action Items’, to record what the team may need to do after the meeting; and the other one is ‘Action Items from Previous Meeting’, to indicate what results the team has gotten, and if the items are completed or still in-progress. 
+#### 3.3.2 Aspects to improve 
 
-Our shaodw team advice us another folder may be created to input any external interaction ( with your clients or suppliers), especially for formal touches like email correspondence. 
+1. Our shadow team advice us two sections may be created for minute-taking, one is ‘New Action Items’, to record what the team may need to do after the meeting; and the other one is ‘Action Items from Previous Meeting’, to indicate what results the team has gotten, and if the items are completed or still in-progress. 
 
-Our shadow team recommend it will be great if we can have something to indicate the follow-up process of the tasks assigned during the meeting. 
+2. Our shaodw team advice us another folder may be created to input any external interaction ( with your clients or suppliers), especially for formal touches like email correspondence. 
+
+3. Our shadow team recommend it will be great if we can have something to indicate the follow-up process of the tasks assigned during the meeting. 
 
 ### 3.4 Teamwork 
+#### 3.4.1 Aspects well done 
 
-Our shadow team recommend to separate each person’s log book and count the weekly duration each member spent to give you guys a better representation of who is putting more work than the others. 
+
+#### 3.4.2 Aspects well improve 
+1. Our shadow team recommend to separate each person’s log book and count the weekly duration each member spent to give you guys a better representation of who is putting more work than the others. 
 
 ### 3.5 Other feedbacks 
 
-If there can be a summary to indicate what is included in each file, it will be easy to access the repository. 
+1. If there can be a summary to indicate what is included in each file, it will be easy to access the repository. 
 
 
 ## 4. Tutor Feedback 
 
 ### 4.1. Aspects Done Well
-Landing page is also extremely very well presented. 
-Great start with your repository. 
-Documentation is of very high standard and concise with clear revision logs in all your key documents. 
+1. Landing page is also extremely very well presented. 
 
-ConOps has a clear goal and scope of your project, team roles and ground rules, stakeholders analysis, WBS, risk analysis, budget analysis and addresses some contingencies.
+2. Great start with your repository. 
 
-Each team member knows their speciﬁc roles and what they are accountable for. Everyone appears to be contributing to your project, as reﬂected in your internal and client meeting minutes. 
+3. Documentation is of very high standard and concise with clear revision logs in all your key documents. 
 
-PA1 presentation was also very good with nice clear slides about your project. 
+4. ConOps has a clear goal and scope of your project, team roles and ground rules, stakeholders analysis, WBS, risk analysis, budget analysis and addresses some contingencies.
+
+5. Each team member knows their speciﬁc roles and what they are accountable for. Everyone appears to be contributing to your project, as reﬂected in your internal and client meeting minutes. 
+
+6. PA1 presentation was also very good with nice clear slides about your project. 
 
 
 ### 4.2 Aspects to Improve
-It is important for you to see and experience in person how this process works.
+1. It is important for you to see and experience in person how this process works.
 
-it would be better to also consider making some practical prototypes/experiments to help you validate and test your ideas for the three key sub systems (breaking/pre-cooking, continuous cooking, separation) of your proposed design.
+2. It would be better to also consider making some practical prototypes/experiments to help you validate and test your ideas for the three key sub systems (breaking/pre-cooking, continuous cooking, separation) of your proposed design.
 
 
 ## 5 Responses and Action Items 
