@@ -236,7 +236,7 @@ Our team have not received feedbacks from clients. After we received it, we will
 |Create a file to track each task status| Minghui| In progress|
 |Plan the visit to a rendering plant |All team members| In progress|
 |Collect client feedback for Audit 1|All team members|In progress|
-|Finalize functional analysis |All team members and Client|In progree|
+|Finalize functional analysis |Derek|In progress|
 |Create a work log for each member|Minghui |Completed|
 |Divide technical design tasks| All team members |Completed|
 |Create a file root directory|Minghui | Completed|
