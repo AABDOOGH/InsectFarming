@@ -41,8 +41,8 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 - [4. Tutor Feedback](#4-Tutor-Feedback)
   * [4.1. Aspects Done Well](#41-Aspects-done-well)
   * [4.2 Aspects to Improve](#42-Aspects-to-improve)
-- [5. Action Items](#5-Action-Items) 
-- [6. Clients Feedbacks](#6-clients-feebbacks)
+ - [5. Clients Feedbacks](#6-clients-feebbacks)
+- [6. Action Items](#5-Action-Items) 
 - [7. Additional Feedbacks in Week 5 Tutorial](#7-additional-feedbacks-in-week-5-tutorial)
 
  
@@ -217,7 +217,15 @@ F2: It would be better to also consider making some practical prototypes/experim
 
 R2:  We have discussed prototyping with our clients. Our client thought it might be not feasible for our team to produce the prototype in 12 weeks. Thus, we will discuss this question in the week 5 tutorial. 
 
-## 5  Action Items 
+
+
+## 5. Clients Feedbacks
+
+Our team have not received feedbacks from clients. After we received it, we will communicate with our clients, reflect based on the feedback and plan for actions. 
+
+
+
+## 6  Action Items 
 
 
 | Action items           | Contributor        | Status          | 
@@ -233,9 +241,6 @@ R2:  We have discussed prototyping with our clients. Our client thought it might
 |Create a work log for each member|Minghui |Completed|
 |Divide technical design tasks| All team members |Completed|
 
-## 6. Clients Feedbacks
-
-Our team have not received feedbacks from clients. After we received it, we will communicate with our clients, reflect based on the feedback and plan for actions. 
 
 
 
