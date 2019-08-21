@@ -5,7 +5,7 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 | Issue            | Revision         | Date             | Purpose of Issue  | Prepared by       | Reviewed by       |
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | :---------------: |
 | 01               | 00               | 16/08/2019       | Summarize Audit 1 feedback | Minghui Zhang     | N/A                  |
-|02                |00                | 17/08/2019          |Update action items status| Minghui Zhang| N/A|
+|02                |00                | 20/08/2019          |Update action items status| Minghui Zhang| N/A|
 |03|00|19/08/2019 |Update action items status| Minghui Zhang| N/A|
 
 
@@ -234,13 +234,12 @@ Our team have not received feedbacks from clients. After we received it, we will
 |Create a folder and record the communication with clients and external audiences |Derek |In progress|
 |Come up with project constratins and upload in ConOps|Andre|In progress|
 |Create a file to track each task status| Minghui| In progress|
-|Create a file root directory|Minghui | In progress|
 |Plan the visit to a rendering plant |All team members| In progress|
 |Collect client feedback for Audit 1|All team members|In progress|
 |Finalize functional analysis |All team members and Client|In progree|
 |Create a work log for each member|Minghui |Completed|
 |Divide technical design tasks| All team members |Completed|
-
+|Create a file root directory|Minghui | Completed|
 
 
 
