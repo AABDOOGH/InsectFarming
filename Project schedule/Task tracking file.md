@@ -23,9 +23,19 @@ This file is issued to track the status for each allocated tasks.
 |2|03/08/2019|04/08/2019|ConOps section 2&4|Jiaying|4 hours|Completed|
 |2|03/08/2019|04/08/2019|ConOps section 1|Minghui| 2 hours|Completed|
 |2|03/08/2019|04/08/2019|ConOps section 3 |Andre| 3 hours|Completed|
+|2|03/08/2019|04/08/2019|Preliminary finance analysis |Andre| 2 hours|Completed|
 |3|05/08/2019|06/08/2019|Milestone|Jiayying|1 hour|Completed|
 |3|05/08/2019|06/08/2019|Timeline|Jiayying|1 hour|Completed|
-|3|05/08/2019|06/08/2019|WBS|Jiayying|2 hour|Completed|
-|
+|3|05/08/2019|06/08/2019|WBS|Jiayying|2 hours|Completed|
+|3|06/08/2019|06/08/2019|Meeting minute for 06/08|Derek|1 hour|Completed|
+|3|06/08/2019|08/08/2019|Audit 1 presentation|Project team|8 hours|Completed|
+|3|06/08/2019|08/08/2019|Create landing page| Jiaying| 5 hours|Completed|
+|3|08/08/2019|08/08/2019|Sign over ConOps|Project team and client| 20 minutes|Completed|
+|3|08/08/2019|08/08/2019|Meeting minute for 08/08 meeting|Derek|1 hour|Completed|
+|3|09/08/2019|09/08/2019|Meeting minute for 09/08 meeting|Derek |1 hour|Completed|
+|4|
+
+
+
 
 
