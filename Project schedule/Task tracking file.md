@@ -34,11 +34,19 @@ This file is issued to track the status for each allocated tasks.
 |3|08/08/2019|08/08/2019|Sign over ConOps|Project team and client| 20 minutes|Completed|
 |3|08/08/2019|08/08/2019|Meeting minute for 08/08 meeting|Derek|1 hour|Completed|
 |3|09/08/2019|09/08/2019|Meeting minute for 09/08 meeting|Derek |1 hour|Completed|
+|4|12/08/2019|12/08/2019|Meeting minute for 12/08|Derek|1 hour|Completed|
 |4|12/08/2019|13/08/2019|Research for soldier fly composition| Derek| 1 hour|Completed|
 |4|12/08/2019|14/08/2019|Visualize risk analysis |Minghui| 2 hour|Completed|
 |4|12/08/2019|14/08/2019|Download Auto CAD|Jingying| 1 hour|Completed|
-|4|12/08/2019|16/08/2019|initial design with what each component does|Andre|6 hours|Completed|
-
+|4|12/08/2019|16/08/2019|Initial design with what each component does|Andre|6 hours|Completed|
+|5|19/08/2019|19/08/2019|Meeting minute for 21/08|Derek|1 hour|Completed|
+|5|19/08/2019|19/08/2019|Prepare questions for week 5 client meeting| 3 hours|Project team|Completed|
+|5|19/08/2019|21/08/2019|Reflection for audit 1 feedback|minghui|3 hours|Completed|
+|5|21/08/2019|| Sketch idea design |Jiaying| |In progress|
+|5|21/08/2019|| Sketch idea design |Andre| |In progress|
+|5|21/08/2019||Generate idea design in 2D and 3D |Andre|  |In progress|
+|5|21/08/2019||Generate idea design in 2D and 3D |Jiaying|  |In progress|
+|5|21/08/2019||Generate idea design in 2D and 3D |Minghui|  |In progress|
 
 
 
