@@ -42,8 +42,9 @@ This document is issued to summarized the feedbacks from own team, shadow team a
   * [4.1. Aspects Done Well](#41-Aspects-done-well)
   * [4.2 Aspects to Improve](#42-Aspects-to-improve)
 - [5. Action Items](#5-Action-Items) 
- - [6. Additional Feedbacks in Week 5 Tutorial](#6-additional-feedbacks-in-week-5-tutorial)
- - [7. Clients Feedbacks](#7-clients-feebbacks)
+- [6. Clients Feedbacks](#6-clients-feebbacks)
+- [7. Additional Feedbacks in Week 5 Tutorial](#7-additional-feedbacks-in-week-5-tutorial)
+
  
 ## Glossary of Terms 
 
