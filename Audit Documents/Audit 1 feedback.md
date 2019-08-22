@@ -233,14 +233,12 @@ Our team have not received feedbacks from clients. After we received it, we will
 |Communicate with other stakeholders(clients, shadow team or tutors) to clarify the some feedbacks|All team members|In progress|
 |Create a folder and record the communication with clients and external audiences |Derek |In progress|
 |Come up with project constratins and upload in ConOps|Andre|In progress|
-|Create a file to track each task status| Minghui| In progress|
 |Plan the visit to a rendering plant |All team members| In progress|
 |Collect client feedback for Audit 1|All team members|In progress|
 |Finalize functional analysis |Derek|In progress|
 |Create a work log for each member|Minghui |Completed|
 |Divide technical design tasks| All team members |Completed|
-|Create a file root directory|Minghui | Completed|
-
+|Create a file root directory|Minghui | Completed||Create a file to track each task status| Minghui|Completed|
 
 
 ## 7. Additional Feedbacks in Week 5 Tuotrial
