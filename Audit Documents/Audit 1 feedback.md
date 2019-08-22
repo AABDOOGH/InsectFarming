@@ -7,7 +7,7 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 | 01               | 00               | 16/08/2019       | Summarize Audit 1 feedback | Minghui Zhang     | N/A                  |
 |02                |00                | 20/08/2019          |Update action items status| Minghui Zhang| N/A|
 |03|00|19/08/2019 |Update action items status| Minghui Zhang| N/A|
-
+|03|00|22/08/2019 |Update action items status| Minghui Zhang| N/A|
 
 
 ## Table of content 
