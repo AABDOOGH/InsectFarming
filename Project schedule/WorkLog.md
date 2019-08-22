@@ -4,7 +4,7 @@ The document is used to show the traceability of our team contributing to the pr
 | Issue            | Revision         | Date             | Purpose of Issue  | Prepared by       | Reviewed by       |
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | :---------------: |
 | 01               | 00               | 13/08/2019       | Created the work log and wrote the work I have done so far | Jiaying Ying     | N/A                  |
-| 02               |00                | 19/08/2019       | Modify the work log regards to the feedback | Minghui Zhang | Jiaying Ying|
+| 02               |00                | 19/08/2019       | Modify the work log regards to the feedback | Minghui Zhang | N/A|
 
 
 
