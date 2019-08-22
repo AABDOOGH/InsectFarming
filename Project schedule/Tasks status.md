@@ -51,6 +51,7 @@ This file is issued to track the status for each allocated tasks.
 |5|21/08/2019||Generate idea design in 2D and 3D |Andre|  |In progress|
 |5|21/08/2019||Generate idea design in 2D and 3D |Jiaying|  |In progress|
 |5|21/08/2019||Generate idea design in 2D and 3D |Minghui|  |In progress|
+|5|21/08/2019|| Functional analysis version 3| Derek||In progress|
 
 
 
