@@ -52,27 +52,27 @@ F - Feedback
 
 R - Team response 
 
-## 1. Indication of Performance by Stakeholders 
+## 1.Indication of Performance by Stakeholders 
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/Audit%201%20Indication%20of%20performance%20by%20stakeholders.png) 
 
-## 2. Self Feedback  
-### 2.1. Project Output 
+## 2.Self Feedback  
+### 2.1.Project Output 
 
-#### 2.1.1. Aspects Done well 
+#### 2.1.1.Aspects Done well 
 F1: Our team thought our project output before audit 1 is good. We set the goals, and figure out the ways to communicate with team members and the clients.  
 F2: Our team have already get the approval for the ConOps from our clients. 
 F3: Our team are using engineering approach to tackle the challenge. 
 
-#### 2.1.2. Aspects To Improve 
+#### 2.1.2.Aspects To Improve 
 F1: Our of the team members mentaioned we need to start communicate with client and finish the function anlaysis and finish the first version of design. 
 
 R1: Functional analysis is necessary to be done before the real design started. Our team will meet the client in Week 5 Wednesday. We will finalize the functional anlaysis during the meeting time. 
 
-### 2.2. Decision Log
+### 2.2.Decision Log
 #### 2.2.1. Aspects Done Well 
 F1: Our team believe the each deicsion making process is recorded in details, including  the date, ﬁnal decision and action item. In the next phase, as we select the best design after ideas generation. 
 
-### 2.2.2. Aspects To Improve
+### 2.2.2.Aspects To Improve
 F1: One thing we could improve is we can involve more audiences in the decision-making process. 
 
 R1: We will involve more audiences in the designing phase decision. Now, our team are more focusing on researching and scoping the technologies and existing products. 
