@@ -60,10 +60,12 @@ R - Team response
 
 #### 2.1.1.Aspects Done well 
 F1: Our team thought our project output before audit 1 is good. We set the goals, and figure out the ways to communicate with team members and the clients.  
+ 
+F2: The tasks in regard to the WBS were allocated into each team members and most of them could be ﬁnished on time with good quality
 
-F2: Our team have already get the approval for the ConOps from our clients. 
+F3: Our team have already get the approval for the ConOps from our clients. 
 
-F3: Our team are using engineering approach to tackle the challenge. 
+F4: Our team are using engineering approach to tackle the challenge. 
 
 #### 2.1.2.Aspects To Improve 
 F1: Our of the team members mentaioned we need to start communicate with client and finish the function anlaysis and finish the first version of design. 
@@ -72,7 +74,7 @@ R1: Functional analysis is necessary to be done before the real design started. 
 
 ### 2.2.Decision Log
 #### 2.2.1. Aspects Done Well 
-F1: Our team believe the each deicsion making process is recorded in details, including  the date, ﬁnal decision and action item. In the next phase, as we select the best design after ideas generation. 
+F1: Our team believe the each deicsion making process is recorded in details, including  the date, ﬁnal decision and action item. 
 
 ### 2.2.2.Aspects To Improve
 F1: One thing we could improve is we can involve more audiences in the decision-making process. 
@@ -91,13 +93,15 @@ F1: Our project team believed most part of our communication did well. Below, it
 
 #### 2.3.2. Aspects To Improve 
 
-F1. Now, we didn’t talk about our project with our shadow team or the other teams in our tutorials too much. It will be beneﬁcial to introduce our project with other peoples and listen to their suggestions and opinions on our design idea. In addition, I will recommend our team to discuss our project and seek for suggestions with someone who has plant design experience. 
+F1: Now, we didn’t talk about our project with our shadow team or the other teams in our tutorials too much. It will be beneﬁcial to introduce our project with other peoples and listen to their suggestions and opinions on our design idea. In addition, I will recommend our team to discuss our project and seek for suggestions with someone who has plant design experience. 
 
 R1: Our team do not have much communication with external audiences. In the week 5 tutorial, we will seek for more advice from tutor and shadow team. In addition, our team are planning to visit the rendering plant in NSW. Our team believe we could seek for more information and advice relating to designing. In addition, our team will try to communicate with experts who are woking the relevant industry and seek for advice from them. We are arranging a visit to a rendering plant to have more external communications. 
 
 ### 2.4. Teamwork 
 #### 2.4.1. Aspects Done Well  
-F1: Our team believe most parts of teamwork is good so far. Our group have set team ground rules to ensure the collaboration is effective. Each member in our group has designated specialist roles based on each members’ skills background. In addition, our client provided some useful information about the rendering process and technologies.
+F1: Our team believe most parts of teamwork is good so far. Our group have set team ground rules to ensure the collaboration is effective. Each member in our group has designated specialist roles based on each members’ skills background. 
+
+F2: We have good trust with our clients and client provided some useful information about the rendering process and technologies.
 
 #### 2.4.2. Aspects To Improve 
 F1. One thing we need to consider is the technical design task allocation. 
@@ -106,7 +110,6 @@ R1: Our team has already finished this task in week 4.
 
 ### 2.5. Other Feedbacks 
 F1. It might be better if we speak clearer and use more visualisation tool such as videos and graphs during the presentation. 
-
 
 R1: In the next audit presentation, our team would use more visulisation tool in the presentation. This would be an effective way for audience to understand our project. 
 ## 3. Shadow Team Feedback 
@@ -130,7 +133,7 @@ R2: We will work out the project constraints and add in the ConOps.
 
 F3. Our shadow team recommand us to show the breakdown of the project cost. 
 
-R3: The project scope is designing the mobile plant. Therefore, it will be a little bit hard to break down further more the project cost. We will communicate clients and tutor to figure out whether we ned to do the prototype. If our plan to do the prototype, we will figure out the detials for prototyping. 
+R3: The project scope is designing the mobile plant. Therefore, it will be a little bit hard to break down further more the project cost. The software we will use in our project is either free or provided by ANU. Thus,  We will communicate clients and tutor to figure out whether we ned to do the prototype. If our plan to do the prototype, we will figure out the detials for prototyping. 
 
 ### 3.2. Decision Log 
 
