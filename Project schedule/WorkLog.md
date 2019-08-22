@@ -46,9 +46,12 @@ The document is used to show the traceability of our team contributing to the pr
 |3/8/2019-4/8/2019 |ConOp documentation section 2&4 | Milestone 1 | 4hrs | Jiaying Ying |
 |5/8/2019 |Drawing the milestone timeline and WBS| Milestone 1  | 3hrs | Jiaying Ying|
 |7/8/2019 |Setup Landing page| Milestone 1 | 3hrs|Jiaying Ying|
+|21/8/2019 |Client meeting minites | Milestone 3 | 1hrs | Jiaying Ying |
+|23/08/2019| Update the current work status| N/A| 1hrs |Jiaying Ying |
 
 ## 5. Work Log for Minghui Zhang 
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | 
 |3/8/2019-4/8/2019 |ConOp documentation section 1,2&6 | Milestone 1 | 3hrs | Minghui Zhang |
 |15/8/2019-19/8/2019|Reflection for audit 1 feedback|Milestone 1|3 hrs|Minghui Zhang|
+|23/08/2019| Update the current work status| N/A| 1hrs |Minghui Zhang |
