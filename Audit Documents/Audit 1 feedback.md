@@ -63,12 +63,12 @@ F1: Our team thought our project output before audit 1 is good. We set the goals
 F2: Our team have already get the approval for the ConOps from our clients. 
 F3: Our team are using engineering approach to tackle the challenge. 
 
-#### 2.1.2 Aspects To Improve 
+#### 2.1.2. Aspects To Improve 
 F1: Our of the team members mentaioned we need to start communicate with client and finish the function anlaysis and finish the first version of design. 
 
 R1: Functional analysis is necessary to be done before the real design started. Our team will meet the client in Week 5 Wednesday. We will finalize the functional anlaysis during the meeting time. 
 
-### 2.2 Decision Log
+### 2.2. Decision Log
 #### 2.2.1. Aspects Done Well 
 F1: Our team believe the each deicsion making process is recorded in details, including  the date, ﬁnal decision and action item. In the next phase, as we select the best design after ideas generation. 
 
@@ -83,18 +83,18 @@ F2. Another thing we could do is we need to  look at the relevant standards and 
 R1: In the functioanl anlaysis task (Week 4), we involved the  International standards and Australian standards toward to the manufacturing. In the future designing phase, we will reference more to support our decision on determing the material used to build the plant. 
 
 ### 2.3. Communication 
-#### 2.3.1 Aspects Done Well 
+#### 2.3.1. Aspects Done Well 
 
 F1: Our project team believed most part of our communication did well. Below, it shows some ideas we can imporve in the communication aspects. 
 
-#### 2.3.2 Aspects To Improve 
+#### 2.3.2. Aspects To Improve 
 
 F1. Now, we didn’t talk about our project with our shadow team or the other teams in our tutorials too much. It will be beneﬁcial to introduce our project with other peoples and listen to their suggestions and opinions on our design idea. In addition, I will recommend our team to discuss our project and seek for suggestions with someone who has plant design experience. 
 
 R1: Our team do not have much communication with external audiences. In the week 5 tutorial, we will seek for more advice from tutor and shadow team. In addition, our team are planning to visit the rendering plant in NSW. Our team believe we could seek for more information and advice relating to designing. In addition, our team will try to communicate with experts who are woking the relevant industry and seek for advice from them. We are arranging a visit to a rendering plant to have more external communications. 
 
-### 2.4 Teamwork 
-#### 2.4.1 Aspects Done Well  
+### 2.4. Teamwork 
+#### 2.4.1. Aspects Done Well  
 F1: Our team believe most parts of teamwork is good so far. Our group have set team ground rules to ensure the collaboration is effective. Each member in our group has designated specialist roles based on each members’ skills background. In addition, our client provided some useful information about the rendering process and technologies.
 
 #### 2.4.2. Aspects To Improve 
@@ -102,16 +102,16 @@ F1. One thing we need to consider is the technical design task allocation.
 
 R1: Our team has already finished this task in week 4. 
 
-### 2.5 Other Feedbacks 
+### 2.5. Other Feedbacks 
 F1. It might be better if we speak clearer and use more visualisation tool such as videos and graphs during the presentation. 
 
 
 R1: In the next audit presentation, our team would use more visulisation tool in the presentation. This would be an effective way for audience to understand our project. 
 ## 3. Shadow Team Feedback 
 
-### 3.1 Project Output 
+### 3.1. Project Output 
 
-#### 3.1.1 Aspects Done Well
+#### 3.1.1. Aspects Done Well
 F1: Our team has set clear goals. 
 
 F2: The project team ground rules and responsibilities of each member is clear and transparent
@@ -130,7 +130,7 @@ F3. Our shadow team recommand us to show the breakdown of the project cost.
 
 R3: The project scope is designing the mobile plant. Therefore, it will be a little bit hard to break down further more the project cost. We will communicate clients and tutor to figure out whether we ned to do the prototype. If our plan to do the prototype, we will figure out the detials for prototyping. 
 
-### 3.2 Decision Log 
+### 3.2. Decision Log 
 
 #### 3.2.1. Aspects Done Well 
 
@@ -143,7 +143,7 @@ F1: One of the feedback is there is no decision log in excel spreadsheet form. O
 R1: Currently, there is no decision log in excel form in our repostiory is becuase we want note down every important points during the decision-making process. Thus, we created a file to record each decision, including, background, date, contributors, options considered, SWOT analysis for each option, outcome and action item. We think this might be helpful if we want to review the decision in for our team and the next team  who will take over our project in the next semester. They can have a better idea of why our team would like to do this decision. We will talk about this question with our tutor in the next tutorial and come back later. 
 
 
-### 3.3 Communication 
+### 3.3. Communication 
 #### 3.3.1. Aspects Done Well
 F1: The meeting notes are very well done. 
 
@@ -151,7 +151,7 @@ F2: It is very clear everyone’s contribution to the meeting and the to do list
 
 F3: The team show that they have regular contact with their client to facilitate a good working relationship and to keep the client
 well informed
-#### 3.3.2 Aspects To Improve 
+#### 3.3.2. Aspects To Improve 
 
 F1: Our shadow team advice us two sections may be created for minute-taking, one is ‘New Action Items’, to record what the team may need to do after the meeting; and the other one is ‘Action Items from Previous Meeting’, to indicate what results the team has gotten, and if the items are completed or still in-progress. 
 
@@ -173,17 +173,17 @@ F4: Our shadow team suggest us to have more communication with experts in the re
 R4：Yes! It will be beneficial for our team if we could communicate with the experts. Our team is arranging the visit to the rendering plant. We beleive we could get lots of useful feedback from them. 
 
 
-### 3.4 Teamwork 
-#### 3.4.1 Aspects Done Well
+### 3.4. Teamwork 
+#### 3.4.1. Aspects Done Well
 F1: The responsibilities of all other stakeholders are well defined which is great
 
 F2:  It is very clear which responsibilities fall on whom. 
-#### 3.4.2 Aspects To Improve 
+#### 3.4.2. Aspects To Improve 
 F1: Our shadow team recommend to separate each person’s log book and count the weekly duration each member spent to give you guys a better representation of who is putting more work than the others. 
 
 R1: Yes, we beleive this can clearly show what tasks did each member complete. Our team will create a work log for each member to show the contributions for each person. 
 
-### 3.5 Other feedbacks 
+### 3.5. Other feedbacks 
 
 F1: If there can be a summary to indicate what is included in each file, it will be easy to access the repository. 
 
@@ -206,7 +206,7 @@ F5. Each team member knows their speciﬁc roles and what they are accountable f
 F6. PA1 presentation was also very good with nice clear slides about your project. 
 
 
-### 4.2 Aspects to Improve
+### 4.2. Aspects to Improve
 F1.: It is important for you to see and experience in person how this process works.
 
 
