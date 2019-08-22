@@ -21,8 +21,9 @@ The document is used to show the traceability of our team contributing to the pr
 |6/08/2019|Group meeting-check the project progress and prepare for the client meeting| Milestone 1 | 1hrs| All Team|
 |7/08/2019|Meet with client and show the ConOps to the client| Milestone 1 | 1hrs | All Team |
 |9/08/2019|Meet with the client and get teh ConOps signed and prepare for Audit1| Milestone 1 | 1hrs | All Team |
-|12/08/2019|Regulary group Meeting|Milestone 2| 1hr|All team|
-|19/08/2019|Reguarly group meeting|Milestone 2| 3 hrs|All team|
+|12/08/2019|Group meeting-check the project progress and prepare for the client meeting|Milestone 2| 1hr|All team|
+|14/08/2019|Regulary client Meeting|Milestone 2| 1hr|All team|
+|19/08/2019|Group meeting-check the project progress and prepare for the client meeting|Milestone 2| 3 hrs|All team|
 |21/08/2019|Client meeting |Milestone 2| 1 hr|All team|
 
 
