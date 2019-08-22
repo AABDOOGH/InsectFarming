@@ -60,7 +60,9 @@ R - Team response
 
 #### 2.1.1.Aspects Done well 
 F1: Our team thought our project output before audit 1 is good. We set the goals, and figure out the ways to communicate with team members and the clients.  
+
 F2: Our team have already get the approval for the ConOps from our clients. 
+
 F3: Our team are using engineering approach to tackle the challenge. 
 
 #### 2.1.2.Aspects To Improve 
