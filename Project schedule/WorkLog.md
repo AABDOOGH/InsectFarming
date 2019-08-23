@@ -37,8 +37,13 @@ The document is used to show the traceability of our team contributing to the pr
 ## 3. Work Log for Derek Tan 
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | 
-|31/07/2019|Meeting minites for 31/07/2019|Milestone 1| 1hrs|Derek Tan|
-
+|29/07/2019|Meeting minites for 29/07/2019|Milestone 1| 1hrs|Derek Tan|
+|03/08/2019|General research about rendering plant |Milestone 1| 3hrs|Derek Tan|
+|10/08/2019|Requirement analysis|Milestone 1| 2hrs|Derek Tan|
+|16/08/2019|Detailed research about RenderTech|Milestone 1| 2hrs|Derek Tan|
+|17/08/2019|Sketch for functional analysis|Milestone 1| 2hrs|Derek Tan|
+|23/08/2019|Document and upload all of the emails with the clients|Milestone 1| 0.5hrs|Derek Tan|
+|24/08/2019|Final functional analysis|Milestone 1| 2hrs|Derek Tan|
 
 ## 4. Work Log for Jiaying Ying 
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
