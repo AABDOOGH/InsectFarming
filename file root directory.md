@@ -22,7 +22,7 @@
 
 ## 4. [Project Schedule](https://github.com/JessYJY/insectfarming.github.io/tree/master/Project%20schedule)
 
-- [Gantt Chart](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20schedule/Gantt%20Chart.pdf)
+- [Gantt Chart](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20schedule/Gantt%20Chart_v2.pdf)
 
 - [Timeline](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20schedule/timeline_updated1.png)
 
