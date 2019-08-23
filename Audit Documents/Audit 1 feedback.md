@@ -8,6 +8,7 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 |02                |00                | 20/08/2019          |Update action items status| Minghui Zhang| N/A|
 |03|00|19/08/2019 |Update action items status| Minghui Zhang| N/A|
 |04|00|22/08/2019 |Update action items status| Minghui Zhang| N/A|
+|05|01|22/08/2019 |Initial review| All team members| N/A|
 
 
 ## Table of content 
