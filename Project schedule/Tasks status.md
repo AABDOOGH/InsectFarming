@@ -41,7 +41,7 @@ This file is issued to track the status for each allocated tasks.
 |4|12/08/2019|14/08/2019|Visualize risk analysis |Minghui| 2 hour|Completed|
 |4|12/08/2019|14/08/2019|Download Auto CAD|Jingying| 1 hour|Completed|
 |4|12/08/2019|16/08/2019|Initial design with what each component does|Andre|6 hours|Completed|
-|4|16/08/2019|19/08/2019|TPM f|Andre| 5 hours|Completed|
+|4|16/08/2019|19/08/2019|TPM |Andre| 5 hours|Completed|
 |4|16/08/2019|19/08/2019|Initial functional analysis|Derek|3 hours|Completed| 
 |5|19/08/2019|19/08/2019|Meeting minute for 21/08|Derek|1 hour|Completed|
 |5|19/08/2019|19/08/2019|Prepare questions for week 5 client meeting| 3 hours|Project team|Completed|
