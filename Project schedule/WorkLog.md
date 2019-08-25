@@ -18,7 +18,13 @@ The document is used to show the traceability of our team contributing to the pr
 ## 1. Work Log for Team
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | 
+|29/07/2019| Set group regularly meetings| Milestone 1 | 10 mins| All team|
+|29/07/2019| Send introduction email to client| Milestone 1 |10 min|All team |
+|29/07/2019| Nominate person to TLP| 10 min| All team|
 |31/07/2019 |Visit client company and factory and discuss about the project scope | Milestone 1 | 2hrs | All Team|
+|31/07/2019| Set regular meeting with client| Milestone 1| 10 min| All team and client|
+|2/07/2019| Divide task for audit 1| Milestone 1 | 20 mins| All team |
+
 |6/08/2019|Group meeting-check the project progress and prepare for the client meeting| Milestone 1 | 1hr| All Team|
 |7/08/2019|Meet with client and show the ConOps to the client| Milestone 1 | 1hr | All Team |
 |9/08/2019|Meet with the client and get teh ConOps signed and prepare for Audit1| Milestone 1 | 1hr | All Team |
@@ -37,7 +43,8 @@ The document is used to show the traceability of our team contributing to the pr
 ## 3. Work Log for Derek Tan 
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | 
-|29/07/2019|Meeting minites for 29/07/2019|Milestone 1| 1hrs|Derek Tan|
+|29/07/2019|Meeting minites for 29/07/2019|Milestone 1| 1hr|Derek Tan|
+|2/08/2019|Meeting minites for 29/07/2019|Milestone 1| 1hr|Derek Tan|
 |03/08/2019|General research about rendering plant |Milestone 1| 3hrs|Derek Tan|
 |10/08/2019|Requirement analysis|Milestone 1| 2hrs|Derek Tan|
 |16/08/2019|Detailed research about RenderTech|Milestone 1| 2hrs|Derek Tan|
