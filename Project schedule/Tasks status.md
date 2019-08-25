@@ -50,10 +50,10 @@ This file is issued to track the status for each allocated tasks.
 |5|21/08/2019|21/08/2019|Meeting minute for 21/08|Jiaying|1 hours|Completed|
 |5|21/08/2019|23/08/2019| Sketch idea design |Jiaying|1 hour |Completed|
 |5|21/08/2019|23/08/2019| Sketch idea design |Andre| 1 hour |Completed|
-|5|21/08/2019||Generate idea design in 2D and 3D |Andre|  |In progress|
-|5|21/08/2019||Generate idea design in 2D and 3D |Jiaying|  |In progress|
-|5|21/08/2019||Generate idea design in 2D and 3D |Minghui|  |In progress|
-|5|21/08/2019|| Functional analysis version 3| Derek||In progress|
+|5|21/08/2019||Generate idea design in 2D and 3D |Andre| 1 hour |Completed|
+|5|21/08/2019||Generate idea design in 2D and 3D |Jiaying| 1 hour |Completed|
+|5|21/08/2019||Generate idea design in 2D and 3D |Minghui|  1 hour|Completed|
+|5|21/08/2019|| Functional analysis version 3| Derek|2 hours|Completed|
 |5|23/08/2019||Sketch component (Pre-breaker)|Derek|2 hours|Completed |
 |5|23/08/2019||Sketch components (Pre-cooker and Continue cooker)|Andre| |In progress|
 |5|23/08/2019||Sketch components (Separator and Decanter)|Minghui| |In progress|
