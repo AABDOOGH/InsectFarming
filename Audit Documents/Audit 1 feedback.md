@@ -257,3 +257,4 @@ Our client is satified with the project team progress unitl audit 1. Our client 
 
 3. It will be fine that our team do not have a physical prototype. 
 
+4. Toward to one of the feedback that our team do not have detailed stakehodler analysis, it might be our shadow team missed the document "Audit 1" or "ConOps". This may becuase it will be hard for people to find documents for somebody who have not used GitHub before. Therefore, our project team has already created a "File root directory" for our stakehodlers to easily find each important file. We hope this will help our project team and other stakehodlers to review documents. 
