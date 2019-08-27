@@ -61,7 +61,7 @@ This file is issued to track the status for each allocated tasks.
 |5|23/08/2019||Sketch components (Separator and Decanter)|Minghui| |In progress|
 |5|23/08/2019||Sketch components (Fat press and Percolator)|Jiaying | |In progress|
 |5|25/08/2019||Integrate 3D model |Andre| |In progress|
-|5|23/08/2019||Prepare Audit 2 ppt |Derek| 30 minutes |In progress|
+|5|23/08/2019||Prepare Audit 2 ppt |Derek| 30 minutes |Completed|
 |5|25/08/2019||Edit Audit 2 ppt|Andre| |In progress|
 |5|25/08/2019||Edit Audit 2 ppt|Jiaying ||In progress|
 |5|25/08/2019||Edit Audit 2 ppt|Minghui| |In progress|
