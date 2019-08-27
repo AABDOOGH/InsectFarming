@@ -6,6 +6,9 @@ This file is issued to track the status for each allocated tasks.
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | :---------------: |
 |01|00|19/08/2019    |Update action items status      | Minghui Zhang              |             N/A|
 |02|00|21/08/2019    |Update action items status      | Minghui Zhang              |             N/A|
+|03|00|25/08/2019    |Edit tasks    | Minghui Zhang              |             N/A|
+|04|00|27/08/2019    |Update action items status      | Minghui Zhang              |             N/A|
+
 
 
 ## Task tracking file 
