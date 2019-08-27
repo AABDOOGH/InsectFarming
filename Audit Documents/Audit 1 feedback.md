@@ -9,7 +9,7 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 |03|00|19/08/2019 |Update action items status| Minghui Zhang| N/A|
 |04|00|22/08/2019 |Update action items status| Minghui Zhang| N/A|
 |05|01|22/08/2019 |Initial review| All team members| N/A|
-
+|04|01|27/08/2019 |Update action items status| Minghui Zhang| N/A|
 
 ## Table of content 
 - [1. Indication of Performance by Stakeholders](#1-indication-of-performance-by-stakeholders)
@@ -227,8 +227,8 @@ R2:  We have discussed prototyping with our clients. Our client thought it might
 
 ## 5. Client Feedbacks
 
-Our team have not received feedbacks from clients. After we received it, we will communicate with our clients, reflect based on the feedback and plan for actions. 
 
+Our client is satified with the project team progress unitl audit 1. Our client has already sign over the ConOps. 
 
 
 ## 6. Action Items 
@@ -236,20 +236,24 @@ Our team have not received feedbacks from clients. After we received it, we will
 
 | Action items           | Contributor        | Status          | 
 | :--------------: | :--------------: | :--------------: | 
-|Communicate with other stakeholders(clients, shadow team or tutors) to clarify the some feedbacks|All team members|In progress|
-|Create a folder and record the communication with clients and external audiences |Derek |In progress|
 |Come up with project constratins and upload in ConOps|Andre|In progress|
-|Plan the visit to a rendering plant |All team members| In progress|
-|Collect client feedback for Audit 1|All team members|In progress|
-|Finalize functional analysis |Derek|In progress|
+|Plan the visit to a rendering plant |All team members| Completed|
+|Finalize functional analysis |Derek|Completed|
 |Create a work log for each member|Minghui |Completed|
 |Divide technical design tasks| All team members |Completed|
 |Create a file root directory|Minghui | Completed|
 |Create a file to track each task status| Minghui|Completed|
 |Create decision log in spreadsheet form | Minghui | Completed|
+|Communicate with other stakeholders(clients, shadow team or tutors) to clarify the some feedbacks|All team members|Completed|
+|Create a folder and record the communication with clients and external audiences |Derek |Completed|
+|Collect client feedback for Audit 1|All team members|Completed|
 
 
 ## 7. Additional Feedbacks in Week 5 Tuotrial
 
+1. There is no correct form to do the decision log. BUT, it will be much more clearly and easy to review if the decision form is in spreadsheet form. In addition, team can easily check whether there are decisions are related to each other. Thus, our team decided to create a spreadsheet for the decision log. 
 
+2. It might be hard for our team to make a detailed list of project cost. We agreed that our team is focusing on the designing part. Softwares used in the project is either free or provided by ANU. Thus, it will be fine if we do not divided further for the cost at this stage. 
+
+3. It will be fine that our team do not have a physical prototype. 
 
