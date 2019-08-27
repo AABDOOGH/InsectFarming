@@ -246,7 +246,7 @@ Our team have not received feedbacks from clients. After we received it, we will
 |Divide technical design tasks| All team members |Completed|
 |Create a file root directory|Minghui | Completed|
 |Create a file to track each task status| Minghui|Completed|
-|Create decision log in spreadsheet form | Minghui | COmpleted|
+|Create decision log in spreadsheet form | Minghui | Completed|
 
 
 ## 7. Additional Feedbacks in Week 5 Tuotrial
