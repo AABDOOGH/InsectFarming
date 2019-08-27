@@ -158,7 +158,7 @@ Potential customers (and the targets) of our project product will be insect farm
 
 Potential customers have no responsibilities to the project, but their requirements are one of the most important factors to be considered in the process of designing the mobile insect processing plant.
 
-
+### 2.6. Project Constraints
 
 
 ## 3. Resources Risks and Contingencies
