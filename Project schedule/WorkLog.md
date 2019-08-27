@@ -41,7 +41,14 @@ The document is used to show the traceability of our team contributing to the pr
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | 
 |3/8/2019-4/8/2019 |ConOp documentation section 3 | Milestone 1 | 3hrs | Andre Olivier |
 |4/8/2019-5/8/2019 |Preliminary financial analysis| Milestone 1 | 2hrs | Andre Olivier |
-|06/08/2019|Audit 1 preparation|N/A|2 hours| Andre Olivier|
+|06/08/2019-09/08/2019|Audit 1 preparation|N/A|3 hours| Andre Olivier|
+|06/08/2019-12/08/2019| Research and scoping existing technologies| 8 hrs| Jiaying Ying|
+|12/08/2019-16/08/2019| Initial design with function of each component| Milestone 2| 2 hrs| Andre Olivier|
+|16/08/2019-21/08/2019|TPM| Mileston 2| 5 hrs|Andre Olivier|
+|20/08/2019-23/08/2019|Idea generation for rendering plant design| 3 hrs|Andre Olivier|
+|23/08/2019-25/08/2019| 3D sketching for continuous cooker|Mileston 3| 3 hrs| Andre Olivier|
+|25/08/2019-27/08/2019| 3D sketching for pre-cooker |Mileston 3| 3 hrs| Andre Olivier|
+|28/08/2019-29/08/2019| Audit 2 preparation |Mielstone 3| 4 hrs|Andre Olivier|
 
 ## 3. Work Log for Derek Tan 
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
@@ -50,12 +57,17 @@ The document is used to show the traceability of our team contributing to the pr
 |2/08/2019|Meeting minites for 02/08/2019|Milestone 1| 1hr|Derek Tan|
 |03/08/2019|General research about rendering plant |Milestone 1| 3hrs|Derek Tan|
 |06/08/2019|Meeting minites for 06/08/2019|Milestone 1| 1hr|Derek Tan|
+|09/08/2019|Meeting minites for 09/08/2019|Milestone 1| 1hr|Derek Tan|
 |10/08/2019|Requirement analysis|Milestone 1| 2hrs|Derek Tan|
+|13/08/2019-15/08/2019| Research and scoping existing technologies| 4 hrs| Jiaying Ying|
 |16/08/2019|Detailed research about RenderTech|Milestone 1| 2hrs|Derek Tan|
-|17/08/2019|Sketch for functional analysis|Milestone 1| 2hrs|Derek Tan|
+|17/08/2019|Initial functional analysis|Milestone 1| 2hrs|Derek Tan|
+|19/08/2019-20/08/2019|Functional analysis version 2| Milestone 3| 2 hrs|Derek Tan|
+|20/08/2019-23/08/2019|Idea generation for rendering plant design| 3 hrs|Derek Tan|
 |23/08/2019|Document and upload all of the emails with the clients|Milestone 1| 0.5hrs|Derek Tan|
 |24/08/2019|Final functional analysis|Milestone 2| 2hrs|Derek Tan|
-
+|24/08/2019-26/08/2019| 3D sketching for pre-breaker|Milestone 3| 2 hrs|Derek Tan|
+|28/08/2019-29/08/2019| Audit 2 preparation |Mielstone 3| 4 hrs|Derek Tan|
 
 ## 4. Work Log for Jiaying Ying 
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
@@ -63,10 +75,19 @@ The document is used to show the traceability of our team contributing to the pr
 |27/07/2019 |Created the repository  |Milestone 1 | 2hrs | Jiaying Ying|
 |3/8/2019-4/8/2019 |ConOp documentation section 2&4 | Milestone 1 | 4hrs | Jiaying Ying |
 |5/8/2019 |Drawing the milestone timeline and WBS| Milestone 1  | 3hrs | Jiaying Ying|
-|06/08/2019|Audit 1 preparation|N/A|2 hours| Jiaying Ying|
-|7/8/2019 |Setup Landing page| Milestone 1 | 3hrs|Jiaying Ying|
+|06/08/2019-09/08/2019|Audit 1 preparation|N/A|6 hours| Jiaying Ying|
+|06/08/2019-08/08/2019| Create landing page| N/A| Jiaying Ying|
+|7/8/2019-9/08/2019 |Setup Landing page| Milestone 1 | 3hrs|Jiaying Ying|
+|12/08/2019| Download Auto CAD| Milestone 2| 2 hrs| Jiaying Ying|
+|13/08/2019-20/08/2019| Research and scoping existing technologies| 12 hrs| Jiaying Ying|
+|20/08/2019-23/08/2019|Idea generation for rendering plant design| 3 hrs|Jiaying Ying|
 |21/8/2019 |Client meeting minites | Milestone 3 | 1hrs | Jiaying Ying |
-|23/08/2019| Update the current work status| N/A| 1hrs |Jiaying Ying |
+|23/08/2019| Update the current work status| N/A| 1hr |Jiaying Ying |
+|23/08/2019-25/08/2019| 3D sketching for fat press|Mileston 3| 3 hrs| Jiaying Ying|
+|25/08/2019-27/08/2019| 3D sketching for percolator |Mileston 3| 3 hrs| Jiaying Ying|
+|28/08/2019-29/08/2019| Audit 2 preparation |Mielstone 3| 4 hrs|Jiaying Ying|
+
+
 
 ## 5. Work Log for Minghui Zhang 
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
@@ -75,4 +96,11 @@ The document is used to show the traceability of our team contributing to the pr
 |15/8/2019-19/8/2019|Reflection for audit 1 feedback|Milestone 1|3 hrs|Minghui Zhang|
 |23/08/2019| Update the current work status| N/A| 1hr |Minghui Zhang |
 |5/08/2019|Update decision log|N/A| 2 hrs|Minghui Zhang |
-|06/08/2019|Audit 1 preparation|N/A|2 hours| Minghui Zhang|
+|06/08/2019-09/08/2019|Audit 1 preparation|N/A|6 hours| Minghui Zhang|
+|12/08/2019-14/08/2019| Visulize risk analysis| Milestone 1 | 3 hrs| Minghui Zhang|
+|13/08/2019-20/08/2019| Research and scoping existing technologies| 12 hrs| Minghui Zhang|
+|19/08/2019-21/08/2019|Audit 1 feedback reflection| N/A| 4 hrs|Minghui Zhang|
+|20/08/2019-23/08/2019|Idea generation for rendering plant design| 3 hrs|Minghui Zhang|
+|23/08/2019-25/08/2019| 3D sketching for separator|Mileston 3| 3 hrs| Minghui Zhang |
+|25/08/2019-27/08/2019| 3D sketching for decanter |Mileston 3| 3 hrs| Minghui Zhang |
+|28/08/2019-29/08/2019| Audit 2 preparation |Mielstone 3| 4 hrs|Minghui Zhang|
