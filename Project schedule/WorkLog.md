@@ -20,7 +20,7 @@ The document is used to show the traceability of our team contributing to the pr
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | 
 |29/07/2019| Set group regularly meetings| Milestone 1 | 10 mins| All team|
 |29/07/2019| Send introduction email to client| Milestone 1 |10 min|All team |
-|29/07/2019| Nominate person to TLP| 10 min| All team|
+|29/07/2019| Nominate person to TLP|N/A| 10 min| All team|
 |31/07/2019 |Visit client company and factory and discuss about the project scope | Milestone 1 | 2hrs | All Team|
 |31/07/2019| Set regular meeting with client| Milestone 1| 10 min| All team and client|
 |02/07/2019| Divide task for audit 1| Milestone 1 | 20 mins| All team |
