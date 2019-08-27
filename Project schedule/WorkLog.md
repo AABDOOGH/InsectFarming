@@ -32,6 +32,8 @@ The document is used to show the traceability of our team contributing to the pr
 |14/08/2019|Regulary client Meeting|Milestone 2| 1hr|All team|
 |19/08/2019|Group meeting-check the project progress and prepare for the client meeting|Milestone 2| 3 hrs|All team|
 |21/08/2019|Client meeting |Milestone 2| 1 hr|All team|
+|21/08/2019|Plan visit to rendering factory|N/A| 20 mins|All team|
+|21/08/2019|Plan visit to GoTerra |N/A| 20 mins|All team|
 |25/08/2019|Meeting-check the 3D modelling progress| Milestone 3|2 hrs |All tean|
 |27/08/2019|Meeting-check the 3D modelling progress and prepare for client meeting | Milestone 3|2 hrs |All tean|
 
