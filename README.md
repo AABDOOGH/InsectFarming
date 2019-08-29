@@ -62,7 +62,7 @@ The Concept of Operations for insect farming team can be found [here](https://gi
 ## Project schedule 
 Click [here](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20schedule/Gantt%20Chart.pdf) can find out what progresses the team have done, what our team are currently working on and what are the future tasks. 
 
-
+![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20schedule/updated%20timeline.png)
 ## Meeting Minutes
 Detailed information in each meeting are recorded and can be found [here](https://github.com/JessYJY/insectfarming.github.io/tree/master/Meeting). 
 
