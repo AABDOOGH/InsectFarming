@@ -1,3 +1,7 @@
+
+
+
+
 The document is used to show the traceability of our team contributing to the project. 
 
 
@@ -19,15 +23,15 @@ The document is used to show the traceability of our team contributing to the pr
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | 
 |29/07/2019| Set group regularly meetings| Milestone 1 | 10 mins| All team|
-|29/07/2019| Send introduction email to client| Milestone 1 |10 min|All team |
-|29/07/2019| Nominate person to TLP|N/A| 10 min| All team|
-|31/07/2019 |Visit client company and factory and discuss about the project scope | Milestone 1 | 2hrs | All Team|
-|31/07/2019| Set regular meeting with client| Milestone 1| 10 min| All team and client|
+|29/07/2019| Send an introduction email to client| Milestone 1 |10 min|All team |
+|29/07/2019| Nominate a person to TLP|N/A| 10 min| All team|
+|31/07/2019 |Visit client company and factory and discuss the project scope | Milestone 1 | 2hrs | All Team|
+|31/07/2019| Set a regular meeting with client| Milestone 1| 10 min| All team and client|
 |02/07/2019| Divide task for audit 1| Milestone 1 | 20 mins| All team |
 |06/08/2019|Group meeting-check the project progress and prepare for the client meeting| Milestone 1 | 1hr| All Team|
 |06/08/2019|Audit 1 preparation|N/A|2 hours| Derek Tan|
 |07/08/2019|Meet with client and show the ConOps to the client| Milestone 1 | 1hr | All Team |
-|09/08/2019|Meet with the client and get teh ConOps signed and prepare for Audit1| Milestone 1 | 1hr | All Team |
+|09/08/2019|Meet with the client and get the ConOps signed and prepare for Audit1| Milestone 1 | 1hr | All Team |
 |12/08/2019|Group meeting-check the project progress and prepare for the client meeting|Milestone 2| 1hr|All team|
 |14/08/2019|Regulary client Meeting|Milestone 2| 1hr|All team|
 |19/08/2019|Group meeting-check the project progress and prepare for the client meeting|Milestone 2| 3 hrs|All team|
@@ -51,17 +55,17 @@ The document is used to show the traceability of our team contributing to the pr
 |23/08/2019-25/08/2019| 3D sketching for continuous cooker|Mileston 3| 3 hrs| Andre Olivier|
 |25/08/2019-27/08/2019| 3D sketching for pre-cooker |Mileston 3| 3 hrs| Andre Olivier|
 |28/08/2019-29/08/2019| Audit 2 preparation |Mielstone 3| 2 hrs|Andre Olivier|
-|28/08/2019-29/08/2019| Intergrate all components |Mielstone 3| 4 hrs|Andre Olivier|
+|28/08/2019-29/08/2019| Integrate all components |Mielstone 3| 4 hrs|Andre Olivier|
 
 
 ## 3. Work Log for Derek Tan 
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | 
-|29/07/2019|Meeting minites for 29/07/2019|Milestone 1| 1hr|Derek Tan|
-|2/08/2019|Meeting minites for 02/08/2019|Milestone 1| 1hr|Derek Tan|
+|29/07/2019|Meeting minutes for 29/07/2019|Milestone 1| 1hr|Derek Tan|
+|2/08/2019|Meeting minutes for 02/08/2019|Milestone 1| 1hr|Derek Tan|
 |03/08/2019|General research about rendering plant |Milestone 1| 3hrs|Derek Tan|
-|06/08/2019|Meeting minites for 06/08/2019|Milestone 1| 1hr|Derek Tan|
-|09/08/2019|Meeting minites for 09/08/2019|Milestone 1| 1hr|Derek Tan|
+|06/08/2019|Meeting minutes for 06/08/2019|Milestone 1| 1hr|Derek Tan|
+|09/08/2019|Meeting minutes for 09/08/2019|Milestone 1| 1hr|Derek Tan|
 |10/08/2019|Requirement analysis|Milestone 1| 2hrs|Derek Tan|
 |13/08/2019-15/08/2019| Research and scoping existing technologies| 4 hrs| Jiaying Ying|
 |16/08/2019|Detailed research about RenderTech|Milestone 1| 2hrs|Derek Tan|
@@ -85,7 +89,7 @@ The document is used to show the traceability of our team contributing to the pr
 |12/08/2019| Download Auto CAD| Milestone 2| 2 hrs| Jiaying Ying|
 |13/08/2019-20/08/2019| Research and scoping existing technologies| 12 hrs| Jiaying Ying|
 |20/08/2019-23/08/2019|Idea generation for rendering plant design| 3 hrs|Jiaying Ying|
-|21/08/2019 |Client meeting minites | Milestone 3 | 1hrs | Jiaying Ying |
+|21/08/2019 |Client meeting minutes | Milestone 3 | 1hrs | Jiaying Ying |
 |23/08/2019| Update the current work status| N/A| 1hr |Jiaying Ying |
 |23/08/2019-25/08/2019| 3D sketching for fat press|Mileston 3| 3 hrs| Jiaying Ying|
 |25/08/2019-27/08/2019| 3D sketching for percolator |Mileston 3| 3 hrs| Jiaying Ying|
