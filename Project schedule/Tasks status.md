@@ -57,17 +57,17 @@ This file is issued to track the status for each allocated tasks.
 |5|21/08/2019|23/08/2019|Generate idea design in 2D and 3D |Jiaying| 1 hour |Completed|
 |5|21/08/2019|23/08/2019|Generate idea design in 2D and 3D |Minghui|  1 hour|Completed|
 |5|21/08/2019||Plan the vist to rendering plant in NSW|Project team | |In progress|
-|5|21/08/2019||Plan the vist to GoTerra|Project team | |In progress|
+|5|21/08/2019|27/08/2019|Plan the vist to GoTerra|Project team | Project team and client|Completed| 2PM on 2 Sep|
 |5|21/08/2019|25/08/2019| Functional analysis version 3| Derek|2 hours|Completed|
 |5|23/08/2019|24/08/2019|Sketch component (Pre-breaker)|Derek|2 hours|Completed |
-|5|23/08/2019||Sketch components (Pre-cooker and Continue cooker)|Andre| |In progress|
-|5|23/08/2019||Sketch components (Separator and Decanter)|Minghui| |In progress|
-|5|23/08/2019||Sketch components (Fat press and Percolator)|Jiaying | |In progress|
-|5|25/08/2019||Integrate 3D model |Andre| |In progress|
-|5|23/08/2019||Prepare Audit 2 ppt |Derek| 30 minutes |Completed|
-|5|25/08/2019||Edit Audit 2 ppt|Andre| |In progress|
-|5|25/08/2019||Edit Audit 2 ppt|Jiaying ||In progress|
-|5|25/08/2019||Edit Audit 2 ppt|Minghui| |In progress|
+|5|23/08/2019|27/08/2019|Sketch components (Pre-cooker and Continue cooker)|Andre|5 hours |Completed|
+|5|23/08/2019|27/08/2019|Sketch components (Separator and Decanter)|Minghui|5 hours| Completed|
+|5|23/08/2019|27/08/2019|Sketch components (Fat press and Percolator)|Jiaying |5 hours |Completed|
+|5|25/08/2019|29/08/2019|Integrate 3D model |Andre|5 hours |In progress|
+|5|23/08/2019|29/08/2019|Prepare Audit 2 ppt |Derek| 30 minutes |Completed|
+|5|25/08/2019|29/08/2019|Edit Audit 2 ppt|Andre|2 hours |Completed|
+|5|25/08/2019|29/08/2019|Edit Audit 2 ppt|Jiaying |2 hours|Completed|
+|5|25/08/2019|29/08/2019|Edit Audit 2 ppt|Minghui| 2 hours|Completed|
 
 
 
