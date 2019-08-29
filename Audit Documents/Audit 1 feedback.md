@@ -244,12 +244,12 @@ Our client is satisfied with the project team progress until audit 1. Our client
 |Finalize functional analysis |Derek|Completed|
 |Create a work log for each member|Minghui |Completed|
 |Divide technical design tasks| All team members |Completed|
-|Create a file root directory|Minghui | Completed|
+|Create a file dictionary|Minghui | Completed|
 |Create a file to track each task status| Minghui|Completed|
 |Create decision log in spreadsheet form | Minghui | Completed|
-|Communicate with other stakeholders(clients, shadow team or tutors) to clarify some feedbacks|All team members|Completed|
+|Communicate with other stakeholders(clients, shadow team or tutors) to clarify some feedbacks|Project team|Completed|
 |Create a folder and record the communication with clients and external audiences |Derek |Completed|
-|Collect client feedback for Audit 1|All team members|Completed|
+|Collect client feedback for Audit 1|Project team|Completed|
 
 
 ## 7. Additional Feedbacks in Week 5 Tutorial
