@@ -26,6 +26,8 @@
 
 - [Timeline](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20schedule/timeline_updated1.png)
 
+-[Updated timeline](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20schedule/updated%20timeline.png)
+
 - [Milestone](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20schedule/Milestone.md)
 
 - [Task status](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20schedule/Task%20tracking%20file.md)
