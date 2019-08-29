@@ -26,7 +26,7 @@
 
 - [Timeline](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20schedule/timeline_updated1.png)
 
--[Updated timeline](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20schedule/updated%20timeline.png)
+- [Updated timeline](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20schedule/updated%20timeline.png)
 
 - [Milestone](https://github.com/JessYJY/insectfarming.github.io/blob/master/Project%20schedule/Milestone.md)
 
@@ -59,6 +59,8 @@
 - [Separator version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/separator-1.skp)
 
 - [Percolator version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/percolator.skp)
+
+- [Integrated design version 1]
 
 ## 6. [Client communication](https://github.com/JessYJY/insectfarming.github.io/tree/master/Client%20communication)
 
