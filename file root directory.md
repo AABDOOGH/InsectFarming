@@ -41,6 +41,23 @@
 
 - [Finance preliminary](https://github.com/JessYJY/insectfarming.github.io/blob/master/Research/FinancePreliminary.xlsx)
 
+-[Breaker version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/Breaker.skp)
+
+-[Pre-cooker version 1]()
+
+-[Continuous cooker]()
+
+
+-[Fat press version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/fat-press.skp)
+
+
+-[Decanter version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/decanter%20(1).skp)
+
+
+-[Separator version 1https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/separator-1.skp)
+
+-[Percolator version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/percolator.skp)
+
 ## 6. [Client communication](https://github.com/JessYJY/insectfarming.github.io/tree/master/Client%20communication)
 
 - [Client email](https://github.com/JessYJY/insectfarming.github.io/blob/master/Client%20communication/Client%20email.md)
