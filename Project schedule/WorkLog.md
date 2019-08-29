@@ -50,7 +50,9 @@ The document is used to show the traceability of our team contributing to the pr
 |20/08/2019-23/08/2019|Idea generation for rendering plant design| 3 hrs|Andre Olivier|
 |23/08/2019-25/08/2019| 3D sketching for continuous cooker|Mileston 3| 3 hrs| Andre Olivier|
 |25/08/2019-27/08/2019| 3D sketching for pre-cooker |Mileston 3| 3 hrs| Andre Olivier|
-|28/08/2019-29/08/2019| Audit 2 preparation |Mielstone 3| 4 hrs|Andre Olivier|
+|28/08/2019-29/08/2019| Audit 2 preparation |Mielstone 3| 2 hrs|Andre Olivier|
+|28/08/2019-29/08/2019| Intergrate all components |Mielstone 3| 4 hrs|Andre Olivier|
+
 
 ## 3. Work Log for Derek Tan 
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
