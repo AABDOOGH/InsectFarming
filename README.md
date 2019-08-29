@@ -16,7 +16,7 @@
  - [Decision Log](#decision-log)
 
 
-## File Root Directory 
+## File Dictionary
 
 Click [here](https://github.com/JessYJY/insectfarming.github.io/blob/master/file%20root%20directory.md) can direct you to file dictionary. This file can direct you to each important document related to the project. 
 
