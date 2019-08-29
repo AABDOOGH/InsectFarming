@@ -54,7 +54,7 @@ The document is used to show the traceability of our team contributing to the pr
 |20/08/2019-23/08/2019|Idea generation for rendering plant design| 3 hrs|Andre Olivier|
 |23/08/2019-25/08/2019| 3D sketching for continuous cooker|Mileston 3| 3 hrs| Andre Olivier|
 |25/08/2019-27/08/2019| 3D sketching for pre-cooker |Mileston 3| 3 hrs| Andre Olivier|
-|28/08/2019-29/08/2019| Audit 2 preparation |Mielstone 3| 2 hrs|Andre Olivier|
+|28/08/2019-29/08/2019| Audit 2 preparation |N/A3| 2 hrs|Andre Olivier|
 |28/08/2019-29/08/2019| Integrate all components |Mielstone 3| 4 hrs|Andre Olivier|
 
 
@@ -75,7 +75,7 @@ The document is used to show the traceability of our team contributing to the pr
 |23/08/2019|Document and upload all of the emails with the clients|Milestone 1| 0.5hrs|Derek Tan|
 |24/08/2019|Final functional analysis|Milestone 2| 2hrs|Derek Tan|
 |24/08/2019-26/08/2019| 3D sketching for pre-breaker|Milestone 3| 2 hrs|Derek Tan|
-|28/08/2019-29/08/2019| Audit 2 preparation |Mielstone 3| 4 hrs|Derek Tan|
+|28/08/2019-29/08/2019| Audit 2 preparation |N/A| 4 hrs|Derek Tan|
 
 ## 4. Work Log for Jiaying Ying 
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
@@ -93,7 +93,7 @@ The document is used to show the traceability of our team contributing to the pr
 |23/08/2019| Update the current work status| N/A| 1hr |Jiaying Ying |
 |23/08/2019-25/08/2019| 3D sketching for fat press|Mileston 3| 3 hrs| Jiaying Ying|
 |25/08/2019-27/08/2019| 3D sketching for percolator |Mileston 3| 3 hrs| Jiaying Ying|
-|28/08/2019-29/08/2019| Audit 2 preparation |Mielstone 3| 4 hrs|Jiaying Ying|
+|28/08/2019-29/08/2019| Audit 2 preparation |N/A| 4 hrs|Jiaying Ying|
 
 
 
@@ -114,4 +114,4 @@ The document is used to show the traceability of our team contributing to the pr
 |20/08/2019-23/08/2019|Idea generation for rendering plant design|Mileston 3| 3 hrs|Minghui Zhang|
 |23/08/2019-25/08/2019| 3D sketching for separator|Mileston 3| 3 hrs| Minghui Zhang |
 |25/08/2019-27/08/2019| 3D sketching for decanter |Mileston 3| 3 hrs| Minghui Zhang |
-|28/08/2019-29/08/2019| Audit 2 preparation |Mielstone 3| 4 hrs|Minghui Zhang|
+|28/08/2019-29/08/2019| Audit 2 preparation |N/A| 4 hrs|Minghui Zhang|
