@@ -133,7 +133,7 @@ R1: In our ConOps, we provide descriptions for each stakeholder, responsibilitie
 
 F2: There is no project constraint section.
 
-R2: For this part, our team decided not to add another `.
+R2: For this part, our team decided not to add another section for prorject constraints becuase we think they are already included in project scope, stakeholder analysis, risk analysis and contigencies. .
 
 
 F3. Our shadow team recommend us to show the breakdown of the project cost.
