@@ -8,8 +8,8 @@ This file is issued to track the status for each allocated tasks.
 |02|00|21/08/2019    |Update action items status      | Minghui Zhang              |             N/A|
 |03|00|25/08/2019    |Edit tasks    | Minghui Zhang              |             N/A|
 |04|00|27/08/2019    |Update action items status      | Minghui Zhang              |             N/A|
-
-
+|05|00|29/08/2019    |Update action items status      | Minghui Zhang              |             N/A|
+|06|01|29/08/2019    |Initial review      | All team members              |             N/A|
 
 ## Task tracking file 
 |Week |Start date     |Finish date    | Task description    | Did by    |Time duration   |Status|Comments       |
