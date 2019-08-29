@@ -2,7 +2,7 @@
 
 
 # Table of Contents
-- [File Root Directory](#file-root-directory)
+- [File Dictionary](#file-dictionary)
 - [Project Vision](#project-vision)
   * [Value Proposition](#value-proposition)
   * [Project Scope](#project-scope)
@@ -18,7 +18,7 @@
 
 ## File Root Directory 
 
-Click [here](https://github.com/JessYJY/insectfarming.github.io/blob/master/file%20root%20directory.md) can direct you to file root directory. This file can direct you to each important document related to the project. 
+Click [here](https://github.com/JessYJY/insectfarming.github.io/blob/master/file%20root%20directory.md) can direct you to file dictionary. This file can direct you to each important document related to the project. 
 
 ## Project Vision 
 
