@@ -47,7 +47,7 @@
 
 - [Pre-cooker version 1]()
 
-- [Continuous cooker]()
+- [Continuous cooker version 1]()
 
 
 - [Fat press version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/fat-press.skp)
@@ -60,7 +60,7 @@
 
 - [Percolator version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/percolator.skp)
 
-- [Integrated design version 1]
+- [Integrated design version 1]()
 
 ## 6. [Client communication](https://github.com/JessYJY/insectfarming.github.io/tree/master/Client%20communication)
 
