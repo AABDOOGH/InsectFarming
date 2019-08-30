@@ -43,7 +43,7 @@
 
 - [Finance preliminary](https://github.com/JessYJY/insectfarming.github.io/blob/master/Research/FinancePreliminary.xlsx)
 
-- [Breaker version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/Breaker.skp)
+- [Breaker version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/Breaker.png)
 
 - [Pre-cooker version 1]()
 
