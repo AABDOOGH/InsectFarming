@@ -56,7 +56,7 @@
 - [Decanter version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/decanter.png)
 
 
-- [Separator version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/separator.png)
+- [Separator version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/separator.pdf)
 
 - [Percolator version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/percolator.skp)
 
