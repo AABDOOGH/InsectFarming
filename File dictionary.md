@@ -53,8 +53,7 @@
 - [Fat press version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/fat-press.skp)
 
 
-- [Decanter version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/decanter.png)
-
+- [Decanter version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/decanter.pdf）
 
 - [Separator version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/separator.pdf)
 
