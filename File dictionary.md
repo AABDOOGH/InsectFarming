@@ -59,7 +59,7 @@
 
 - [Percolator version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/percolator.pdf)
 
-- [Integrated design version 1]()
+- [Integrated design version 1](https://github.com/JessYJY/insectfarming.github.io/tree/master/Rendering%20design)
 
 ## 6. [Client communication](https://github.com/JessYJY/insectfarming.github.io/tree/master/Client%20communication)
 
