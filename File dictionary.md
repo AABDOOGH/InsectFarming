@@ -45,9 +45,9 @@
 
 - [Breaker version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/Breaker.png)
 
-- [Pre-cooker version 1]()
+- [Pre-cooker version 1](https://github.com/JessYJY/insectfarming.github.io/tree/master/Rendering%20design)
 
-- [Continuous cooker version 1]()
+- [Continuous cooker version 1](https://github.com/JessYJY/insectfarming.github.io/tree/master/Rendering%20design)
 
 
 - [Fat press version 1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/fat-press.skp)
