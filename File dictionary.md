@@ -66,7 +66,7 @@
 
 - [Client email](https://github.com/JessYJY/insectfarming.github.io/blob/master/Client%20communication/Client%20email.md)
 
-- [Expert communication]()
+- [Expert communication](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/expert%20communication%20.pdf)
 
 ## 7. [Decision log ](https://github.com/JessYJY/insectfarming.github.io/blob/master/Client%20communication/Client%20email.md)
 
