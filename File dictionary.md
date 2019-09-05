@@ -7,6 +7,7 @@
 - [ ConOps ](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/ConOps.pdf)
 - [ PA1](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/PA1.pptx)
 - [ Audit 1 Feedback](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/Audit%201%20feedback.md)
+- [Audit 2 PPT](https://github.com/JessYJY/insectfarming.github.io/blob/master/Audit%20Documents/Audit2Presentation.pptx)
 
 ## 2. [Meeting Minutes](https://github.com/JessYJY/insectfarming.github.io/tree/master/Meeting)
 
