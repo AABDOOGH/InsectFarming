@@ -76,6 +76,8 @@ The document is used to show the traceability of our team contributing to the pr
 |24/08/2019|Final functional analysis|Milestone 2| 2hrs|Derek Tan|
 |24/08/2019-26/08/2019| 3D sketching for pre-breaker|Milestone 3| 2 hrs|Derek Tan|
 |28/08/2019-29/08/2019| Audit 2 preparation |N/A| 4 hrs|Derek Tan|
+|02/09/2019| GoTerra factory visit and typing up the visit summary |N/A| 4 hrs|Derek Tan|
+
 
 ## 4. Work Log for Jiaying Ying 
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
