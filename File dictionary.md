@@ -71,3 +71,5 @@
 ## 7. [Decision log ](https://github.com/JessYJY/insectfarming.github.io/blob/master/Client%20communication/Client%20email.md)
 
 - [Decision log spreadsheet](https://github.com/JessYJY/insectfarming.github.io/blob/master/Decision%20log/1.%20Decision%20log%20(spreadsheet).md)
+
+## 8. [Epxert communication](https://github.com/JessYJY/insectfarming.github.io/tree/master/Expert%20communication)
