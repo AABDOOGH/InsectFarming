@@ -79,6 +79,7 @@ The document is used to show the traceability of our team contributing to the pr
 |02/09/2019| GoTerra factory visit and typing up the visit summary |N/A| 4 hrs|Derek Tan|
 |12/09/2019-13/09/2019| Schematic diagram and research |N/A| 5 hrs|Derek Tan|
 |14/09/2019| Ventilation |N/A| 2 hrs|Derek Tan|
+|17/09/2019| TLP participation and typing up the summary |N/A| 2 hrs|Derek Tan|
 
 ## 4. Work Log for Jiaying Ying 
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
