@@ -69,6 +69,21 @@ This file is issued to track the status for each allocated tasks.
 |5|25/08/2019|29/08/2019|Edit Audit 2 ppt|Jiaying |2 hours|Completed|
 |5|25/08/2019|29/08/2019|Edit Audit 2 ppt|Minghui| 2 hours|Completed|
 |6|29/08/2019|02/09/2019|GoTerra factory visit and typing up the visit summary|Derek| 4 hours| Completed|
+|6|29/08/2019|14/08/2019| Update TPM| Andre| 8 hours| Completed|
+|6|29/08/2019|04/09/2019| Contact manufacturers| Andre|3 hours| Completed|
+|6|29/08/2019|13/09/2019| Draw the schematic diagram and research | Derek| 5 hours| Completed|
+|6|29/09/2019| 14/09/2019| Research on ventilation| Derek | 2 hours| Completed|
+|6|29/09/2019|17/09/2019|TLP participation and typing up the summary| Derek| 2n hours| Completed|
+|6|29/09/2019|31/09/2019| Decide the software for CAD drawing | Jiaying| 1 hour| Completed|
+|6|29/09/2019|05/09/2019| Contact with manufactuers| Minghui| 12 hours| Completed|
+|6|05/09/2019|06/09/2019| Optimize design based on manufacturers feedback|Minghui |5 hours| Completed|
+|6|05/09/2019|06/09/2019| Optimize design based on manufacturers feedback|Jiaying |5 hours| Completed|
+|6|07/09/2019| 08/09/2019| Decide the dimensionfor the optimized design| Minghui|5 hours | Completed|
+|6|07/09/2019| 08/09/2019| Decide the dimensionfor the optimized design| Jiaying|5 hours | Completed|
+|6|09/09/2019|14/09/2019| CAD drawings for fat press| Minghui| 5 hours | Completed|
+|6|09/09/2019|14/09/2019| CAD drawings for fat press| Jiaying| 5 hours | Completed|
+|6|15/08/2019|18/09/2019| CAD drawings for breaker| Minghui| 5 hours| Completed|
+|6|15/08/2019|18/09/2019| CAD drawings for breaker| Jiaying| 5 hours| Completed|
 |7|19/09/2019||CAD drawing for cooker| Andre| ||
 |7|19/09/2019|| CAD drawing for cooker| Andre| | |
 |7|19/09/2019| |CAD drawing for dust collector |Derek| | |
