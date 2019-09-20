@@ -49,10 +49,9 @@ The document is used to show the traceability of our team contributing to the pr
 |03/08/2019-04/08/2019 |ConOp documentation section 3 | Milestone 1 | 3hrs | Andre Olivier |
 |04/08/2019-05/08/2019 |Preliminary financial analysis| Milestone 1 | 2hrs | Andre Olivier |
 |06/08/2019-09/08/2019|Audit 1 preparation|N/A|3 hours| Andre Olivier|
-|06/08/2019-12/08/2019| Research and scoping existing technologies| 8 hrs| Jiaying Ying|
 |12/08/2019-16/08/2019| Initial design with function of each component| Milestone 2| 2 hrs| Andre Olivier|
 |16/08/2019-21/08/2019|TPM| Mileston 2| 5 hrs|Andre Olivier|
-|20/08/2019-23/08/2019|Idea generation for rendering plant design| 3 hrs|Andre Olivier|
+|20/08/2019-23/08/2019|Idea generation for rendering plant design|Milestone 3| 3 hrs|Andre Olivier|
 |23/08/2019-25/08/2019| 3D sketching for continuous cooker|Mileston 3| 3 hrs| Andre Olivier|
 |25/08/2019-27/08/2019| 3D sketching for pre-cooker |Mileston 3| 3 hrs| Andre Olivier|
 |28/08/2019-29/08/2019| Audit 2 preparation |N/A3| 2 hrs|Andre Olivier|
@@ -74,7 +73,7 @@ The document is used to show the traceability of our team contributing to the pr
 |16/08/2019|Detailed research about RenderTech|Milestone 1| 2hrs|Derek Tan|
 |17/08/2019|Initial functional analysis|Milestone 1| 2hrs|Derek Tan|
 |19/08/2019-20/08/2019|Functional analysis version 2| Milestone 3| 2 hrs|Derek Tan|
-|20/08/2019-23/08/2019|Idea generation for rendering plant design| 3 hrs|Derek Tan|
+|20/08/2019-23/08/2019|Idea generation for rendering plant design|Milestone 3| 3 hrs|Derek Tan|
 |23/08/2019|Document and upload all of the emails with the clients|Milestone 1| 0.5hrs|Derek Tan|
 |24/08/2019|Final functional analysis|Milestone 2| 2hrs|Derek Tan|
 |24/08/2019-26/08/2019| 3D sketching for pre-breaker|Milestone 3| 2 hrs|Derek Tan|
@@ -92,10 +91,11 @@ The document is used to show the traceability of our team contributing to the pr
 |05/08/2019 |Drawing the milestone timeline and WBS| Milestone 1  | 3hrs | Jiaying Ying|
 |06/08/2019-09/08/2019|Audit 1 preparation|N/A|6 hours| Jiaying Ying|
 |06/08/2019-08/08/2019| Create landing page| N/A| Jiaying Ying|
+|06/08/2019-12/08/2019| Research and scoping existing technologies| Milestone 2|8 hrs| Jiaying Ying|
 |7/8/2019-9/08/2019 |Setup Landing page| Milestone 1 | 3hrs|Jiaying Ying|
 |12/08/2019| Download Auto CAD| Milestone 2| 2 hrs| Jiaying Ying|
-|13/08/2019-20/08/2019| Research and scoping existing technologies| 12 hrs| Jiaying Ying|
-|20/08/2019-23/08/2019|Idea generation for rendering plant design| 3 hrs|Jiaying Ying|
+|13/08/2019-20/08/2019| Research and scoping existing technologies| Milestone 2|12 hrs| Jiaying Ying|
+|20/08/2019-23/08/2019|Idea generation for rendering plant design| Milestone 3|3 hrs|Jiaying Ying|
 |21/08/2019 |Client meeting minutes | Milestone 3 | 1hrs | Jiaying Ying |
 |23/08/2019| Update the current work status| N/A| 1hr |Jiaying Ying |
 |23/08/2019-25/08/2019| 3D sketching for fat press|Mileston 3| 3 hrs| Jiaying Ying|
