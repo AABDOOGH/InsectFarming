@@ -69,7 +69,6 @@ The document is used to show the traceability of our team contributing to the pr
 |06/08/2019|Meeting minutes for 06/08/2019|Milestone 1| 1hr|Derek Tan|
 |09/08/2019|Meeting minutes for 09/08/2019|Milestone 1| 1hr|Derek Tan|
 |10/08/2019|Requirement analysis|Milestone 1| 2hrs|Derek Tan|
-
 |16/08/2019|Detailed research about RenderTech|Milestone 1| 2hrs|Derek Tan|
 |17/08/2019|Initial functional analysis|Milestone 1| 2hrs|Derek Tan|
 |19/08/2019-20/08/2019|Functional analysis version 2| Milestone 3| 2 hrs|Derek Tan|
