@@ -29,7 +29,6 @@ The document is used to show the traceability of our team contributing to the pr
 |31/07/2019| Set a regular meeting with client| Milestone 1| 10 min| All team and client|
 |02/07/2019| Divide task for audit 1| Milestone 1 | 20 mins| All team |
 |06/08/2019|Group meeting-check the project progress and prepare for the client meeting| Milestone 1 | 1hr| All Team|
-|06/08/2019|Audit 1 preparation|N/A|2 hours| Derek Tan|
 |07/08/2019|Meet with client and show the ConOps to the client| Milestone 1 | 1hr | All Team |
 |09/08/2019|Meet with the client and get the ConOps signed and prepare for Audit1| Milestone 1 | 1hr | All Team |
 |12/08/2019|Group meeting-check the project progress and prepare for the client meeting|Milestone 2| 1hr|All team|
@@ -40,6 +39,8 @@ The document is used to show the traceability of our team contributing to the pr
 |21/08/2019|Plan visit to GoTerra |N/A| 20 mins|All team|
 |25/08/2019|Meeting-check the 3D modelling progress| Milestone 3|2 hrs |All tean|
 |27/08/2019|Meeting-check the 3D modelling progress and prepare for client meeting | Milestone 3|2 hrs |All tean|
+|14/08/2019|Group meeting for project progress| N/A| 3 hours| All team|
+|18/09/2019|Group keeting for project progress| N/A| 3 hours| ALl team|
 
 
 ## 2. Work Log for Andre Olivier 
@@ -56,6 +57,8 @@ The document is used to show the traceability of our team contributing to the pr
 |25/08/2019-27/08/2019| 3D sketching for pre-cooker |Mileston 3| 3 hrs| Andre Olivier|
 |28/08/2019-29/08/2019| Audit 2 preparation |N/A3| 2 hrs|Andre Olivier|
 |28/08/2019-29/08/2019| Integrate all components |Mielstone 3| 4 hrs|Andre Olivier|
+|28/09/2019-04/09/2019| Contact manufacturers| N/A| 3 hrs| Andre Olivier|
+|05/09/2019-14/08/2019| TPM| Milestone 2| 8 hrs| Andre Olivier|
 
 
 ## 3. Work Log for Derek Tan 
@@ -98,7 +101,10 @@ The document is used to show the traceability of our team contributing to the pr
 |23/08/2019-25/08/2019| 3D sketching for fat press|Mileston 3| 3 hrs| Jiaying Ying|
 |25/08/2019-27/08/2019| 3D sketching for percolator |Mileston 3| 3 hrs| Jiaying Ying|
 |28/08/2019-29/08/2019| Audit 2 preparation |N/A| 4 hrs|Jiaying Ying|
-
+|29/08/2019-31/08/2019| Decide the software for CAD drawings| 1 hr| Jiaying Ying|
+|1/09/2019-3/09/2019| Update repository document| 3 hrs|Jiaying Ying|
+|06/09/2019-14/09/2019| CAD drawings for fat press| 5 hrs| Jiaying Ying|
+|15/09/2019-18/09/2019| CAD drawings for breaker| 5 hrs| Jiaying Ying |
 
 
 ## 5. Work Log for Minghui Zhang 
@@ -119,3 +125,6 @@ The document is used to show the traceability of our team contributing to the pr
 |23/08/2019-25/08/2019| 3D sketching for separator|Mileston 3| 3 hrs| Minghui Zhang |
 |25/08/2019-27/08/2019| 3D sketching for decanter |Mileston 3| 3 hrs| Minghui Zhang |
 |28/08/2019-29/08/2019| Audit 2 preparation |N/A| 4 hrs|Minghui Zhang|
+|30/08/2019-05/08/2019| Contact with manufactuers| 12 hrs|Minghui Zhang|
+|06/09/2019-14/09/2019| CAD drawings for fat press| 5 hrs| Minghui Zhang|
+|15/09/2019-18/09/2019| CAD drawings for breaker| 5 hours| Minghui Zhang|
