@@ -14,6 +14,8 @@
  - [Project Schedule](#project-schedule)
  - [Meeting Minutes](#meeting-minutes)
  - [Decision Log](#decision-log)
+ - [Insect Processing Rendering Plant Design](#Insect-Processing-Rendering-Plant-Design)
+  * [Breaker](#breaker)
 
 
 ## File Dictionary
@@ -72,7 +74,7 @@ Detailed information for each major decision made in the whole project can be fo
 
 ## Insect Processing Rendering Plant Design
 
-Each component in the rendering plant is designed in Solidworks. The detailed 2D and 3D drawings could be found [here](https://github.com/JessYJY/insectfarming.github.io/tree/master/Rendering%20design/Final%20design)
+Each component in the rendering plant is designed in Solidworks. The detailed 2D and 3D drawings could be found [here](https://github.com/JessYJY/insectfarming.github.io/tree/master/Rendering%20design/Final%20design).
 
 ### Breaker
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/BaOe7Ly5Ymc&feature=youtu.be/0.jpg)](http://www.youtube.com/watch?v=xEka0FpmR5k)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/BaOe7Ly5Ymc/0.jpg)](https://youtu.be/BaOe7Ly5Ymc)
