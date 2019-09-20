@@ -4,7 +4,7 @@ This document is issued to summarized the feedbacks from own team, shadow team a
 ## Document Revision History 
 | Issue            | Revision         | Date             | Purpose of Issue  | Prepared by       | Reviewed by       |
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | :---------------: |
-| 01               | 00               | 16/09/2019       | Summarize Audit 1 feedback | Jiaying Ying     | N/A                  |
+| 01               | 00               | 16/09/2019       | Summarize Audit 1 feedback | Minghui Zhang     | N/A                  |
 |02                |00                | 20/09/2019          |Update action items status| Jiaying Ying | N/A|
 |05|01|22/09/2019 |Initial review | All team members| N/A|
 |04|01|23/09/2019 |Update action items status| Minghui Zhang| N/A|
