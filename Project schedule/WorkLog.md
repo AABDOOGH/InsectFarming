@@ -116,7 +116,7 @@ The document is used to show the traceability of our team contributing to the pr
 |15/8/2019-19/8/2019|Reflection for audit 1 feedback|Milestone 1|3 hrs|Minghui Zhang|
 |23/08/2019| Update the current work status| N/A| 1hr |Minghui Zhang |
 |05/08/2019|Update decision log|N/A| 2 hrs|Minghui Zhang |
-|06/08/2019-09/08/2019|Audit 1 preparation|N/A|6 hours| Minghui Zhang|
+|06/08/2019-09/08/2019|Audit 1 preparation|N/A|6 hrs| Minghui Zhang|
 |12/08/2019-14/08/2019| Visulize risk analysis| Milestone 1 | 3 hrs| Minghui Zhang|
 |13/08/2019-20/08/2019| Research and scoping existing technologies|Mileston 2| 12 hrs| Minghui Zhang|
 |19/08/2019-21/08/2019|Audit 1 feedback reflection| N/A| 4 hrs|Minghui Zhang|
