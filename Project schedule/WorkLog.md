@@ -57,7 +57,7 @@ The document is used to show the traceability of our team contributing to the pr
 |28/08/2019-29/08/2019| Audit 2 preparation |N/A3| 2 hrs|Andre Olivier|
 |28/08/2019-29/08/2019| Integrate all components |Mielstone 3| 4 hrs|Andre Olivier|
 |28/09/2019-04/09/2019| Contact manufacturers| N/A| 3 hrs| Andre Olivier|
-|05/09/2019-14/08/2019| TPM| Milestone 2| N/A|8 hrs| Andre Olivier|
+|05/09/2019-14/08/2019| Update TPM| Milestone 2| 8 hrs| Andre Olivier|
 
 
 ## 3. Work Log for Derek Tan 
