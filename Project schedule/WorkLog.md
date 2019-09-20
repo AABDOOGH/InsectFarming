@@ -39,8 +39,8 @@ The document is used to show the traceability of our team contributing to the pr
 |21/08/2019|Plan visit to GoTerra |N/A| 20 mins|All team|
 |25/08/2019|Meeting-check the 3D modelling progress| Milestone 3|2 hrs |All tean|
 |27/08/2019|Meeting-check the 3D modelling progress and prepare for client meeting | Milestone 3|2 hrs |All tean|
-|14/08/2019|Group meeting for project progress| N/A| 3 hours| All team|
-|18/09/2019|Group keeting for project progress| N/A| 3 hours| ALl team|
+|14/08/2019|Group meeting for project progress| N/A| 3 hrs| All team|
+|18/09/2019|Group keeting for project progress| N/A| 3 hrs| ALl team|
 
 
 ## 2. Work Log for Andre Olivier 
@@ -88,7 +88,7 @@ The document is used to show the traceability of our team contributing to the pr
 |27/07/2019 |Created the repository  |Milestone 1 | 2hrs | Jiaying Ying|
 |03/08/2019-04/08/2019 |ConOp documentation section 2&4 | Milestone 1 | 4hrs | Jiaying Ying |
 |05/08/2019 |Drawing the milestone timeline and WBS| Milestone 1  | 3hrs | Jiaying Ying|
-|06/08/2019-09/08/2019|Audit 1 preparation|N/A|6 hours| Jiaying Ying|
+|06/08/2019-09/08/2019|Audit 1 preparation|N/A|6 hrs| Jiaying Ying|
 |06/08/2019-08/08/2019| Create landing page| N/A| 3 hrs|Jiaying Ying|
 |06/08/2019-12/08/2019| Research and scoping existing technologies| Milestone 2|8 hrs| Jiaying Ying|
 |7/8/2019-9/08/2019 |Setup Landing page| Milestone 1 | 3hrs|Jiaying Ying|
@@ -131,4 +131,4 @@ The document is used to show the traceability of our team contributing to the pr
 |05/09/2019-06/09/2019| Optimize design based on Manufactuers feedbacks| Milestone 5| 5 hrs|Minghui Zhang|
 |07/08/2019-08/08/2019| Decide the dimension for optimized design| Milestone 5| 5 hrs|Minghui Zhang|
 |09/09/2019-14/09/2019| CAD drawings for fat press|Milestone 5| 5 hrs| Minghui Zhang|
-|15/09/2019-18/09/2019| CAD drawings for breaker| Milestone 5|5 hours| Minghui Zhang|
+|15/09/2019-18/09/2019| CAD drawings for breaker| Milestone 5|5 hrs| Minghui Zhang|
