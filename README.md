@@ -70,3 +70,10 @@ Detailed information in each meeting are recorded and can be found [here](https:
 ## Decision Log
 Detailed information for each major decision made in the whole project can be found in [Decision Log](https://github.com/JessYJY/insectfarming.github.io/tree/master/Decision%20log). 
 
+## Insect Processing Rendering Plant Design
+
+Each component in the rendering plant is designed in Solidworks. The detailed 2D and 3D drawings could be found [here]()
+
+### Breaker
+[![IMAGE ALT TEXT HERE](https://youtu.be/BaOe7Ly5Ymc)
+
