@@ -90,7 +90,7 @@ The document is used to show the traceability of our team contributing to the pr
 |03/08/2019-04/08/2019 |ConOp documentation section 2&4 | Milestone 1 | 4hrs | Jiaying Ying |
 |05/08/2019 |Drawing the milestone timeline and WBS| Milestone 1  | 3hrs | Jiaying Ying|
 |06/08/2019-09/08/2019|Audit 1 preparation|N/A|6 hours| Jiaying Ying|
-|06/08/2019-08/08/2019| Create landing page| N/A| Jiaying Ying|
+|06/08/2019-08/08/2019| Create landing page| N/A| 3 hrs|Jiaying Ying|
 |06/08/2019-12/08/2019| Research and scoping existing technologies| Milestone 2|8 hrs| Jiaying Ying|
 |7/8/2019-9/08/2019 |Setup Landing page| Milestone 1 | 3hrs|Jiaying Ying|
 |12/08/2019| Download Auto CAD| Milestone 2| 2 hrs| Jiaying Ying|
