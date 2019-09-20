@@ -16,6 +16,10 @@
 - [Decision Log](#decision-log)
 - [Insect Processing Rendering Plant Design](#Insect-Processing-Rendering-Plant-Design)
   * [Breaker](#breaker)
+  * [Cooker](#cooker)
+  * [Fat Press](#fat-press)
+  * [Condensor](#condensor)
+  * [Cooling Tower](#cooling-tower)
 
 
 ## File Dictionary
@@ -78,3 +82,13 @@ Each component in the rendering plant is designed in Solidworks. The detailed 2D
 
 ### Breaker
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/BaOe7Ly5Ymc/0.jpg)](https://youtu.be/BaOe7Ly5Ymc)
+
+### Cooker
+
+### Screw Covenyor
+
+### Fat Press
+
+### Condensor
+
+### Cooling Tower
