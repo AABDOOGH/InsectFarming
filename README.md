@@ -10,11 +10,11 @@
   * [Project Team](#project-team)
   * [Project Client](#project-client)
   * [Potential Customers](#potential-customers)
- - [Concept of Operations](#concept-of-operations)
- - [Project Schedule](#project-schedule)
- - [Meeting Minutes](#meeting-minutes)
- - [Decision Log](#decision-log)
- - [Insect Processing Rendering Plant Design](#Insect-Processing-Rendering-Plant-Design)
+- [Concept of Operations](#concept-of-operations)
+- [Project Schedule](#project-schedule)
+- [Meeting Minutes](#meeting-minutes)
+- [Decision Log](#decision-log)
+- [Insect Processing Rendering Plant Design](#Insect-Processing-Rendering-Plant-Design)
   * [Breaker](#breaker)
 
 
