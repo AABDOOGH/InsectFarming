@@ -48,7 +48,7 @@ The document is used to show the traceability of our team contributing to the pr
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | 
 |03/08/2019-04/08/2019 |ConOp documentation section 3 | Milestone 1 | 3hrs | Andre Olivier |
 |04/08/2019-05/08/2019 |Preliminary financial analysis| Milestone 1 | 2hrs | Andre Olivier |
-|06/08/2019-09/08/2019|Audit 1 preparation|N/A|3 hours| Andre Olivier|
+|06/08/2019-09/08/2019|Audit 1 preparation|N/A|3 hrs| Andre Olivier|
 |12/08/2019-16/08/2019| Initial design with function of each component| Milestone 2| 2 hrs| Andre Olivier|
 |16/08/2019-21/08/2019|TPM| Mileston 2| 5 hrs|Andre Olivier|
 |20/08/2019-23/08/2019|Idea generation for rendering plant design|Milestone 3| 3 hrs|Andre Olivier|
