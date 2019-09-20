@@ -68,6 +68,7 @@ This file is issued to track the status for each allocated tasks.
 |5|25/08/2019|29/08/2019|Edit Audit 2 ppt|Andre|2 hours |Completed|
 |5|25/08/2019|29/08/2019|Edit Audit 2 ppt|Jiaying |2 hours|Completed|
 |5|25/08/2019|29/08/2019|Edit Audit 2 ppt|Minghui| 2 hours|Completed|
+|6|29/08/2019|02/09/2019|GoTerra factory visit and typing up the visit summary|Derek| 4 hours| Completed|
 |7|19/09/2019||CAD drawing for cooker| Andre| ||
 |7|19/09/2019|| CAD drawing for cooker| Andre| | |
 |7|19/09/2019| |CAD drawing for dust collector |Derek| | |
