@@ -58,7 +58,7 @@ The document is used to show the traceability of our team contributing to the pr
 |28/08/2019-29/08/2019| Audit 2 preparation |N/A3| 2 hrs|Andre Olivier|
 |28/08/2019-29/08/2019| Integrate all components |Mielstone 3| 4 hrs|Andre Olivier|
 |28/09/2019-04/09/2019| Contact manufacturers| N/A| 3 hrs| Andre Olivier|
-|05/09/2019-14/08/2019| TPM| Milestone 2| 8 hrs| Andre Olivier|
+|05/09/2019-14/08/2019| TPM| Milestone 2| N/A|8 hrs| Andre Olivier|
 
 
 ## 3. Work Log for Derek Tan 
@@ -101,10 +101,13 @@ The document is used to show the traceability of our team contributing to the pr
 |23/08/2019-25/08/2019| 3D sketching for fat press|Mileston 3| 3 hrs| Jiaying Ying|
 |25/08/2019-27/08/2019| 3D sketching for percolator |Mileston 3| 3 hrs| Jiaying Ying|
 |28/08/2019-29/08/2019| Audit 2 preparation |N/A| 4 hrs|Jiaying Ying|
-|29/08/2019-31/08/2019| Decide the software for CAD drawings| 1 hr| Jiaying Ying|
-|1/09/2019-3/09/2019| Update repository document| 3 hrs|Jiaying Ying|
-|06/09/2019-14/09/2019| CAD drawings for fat press| 5 hrs| Jiaying Ying|
-|15/09/2019-18/09/2019| CAD drawings for breaker| 5 hrs| Jiaying Ying |
+|29/08/2019-31/08/2019| Decide the software for CAD drawings| N/A|1 hr| Jiaying Ying|
+|1/09/2019-3/09/2019| Update repository document| N/A|3 hrs|Jiaying Ying|
+|05/09/2019-06/09/2019| Optimize design based on Manufactuers feedbacks| Milestone 5| 5 hrs|Jiaying Ying|
+|07/08/2019-08/08/2019| Decide the dimension for optimized design| Milestone 5| 5 hrs|Jiaying Ying|
+|09/09/2019-14/09/2019| CAD drawings for fat press| Milestone 5|5 hrs| Jiaying Ying|
+|15/09/2019-18/09/2019| CAD drawings for breaker| Milestone 5|5 hrs| Jiaying Ying |
+
 
 
 ## 5. Work Log for Minghui Zhang 
@@ -125,6 +128,8 @@ The document is used to show the traceability of our team contributing to the pr
 |23/08/2019-25/08/2019| 3D sketching for separator|Mileston 3| 3 hrs| Minghui Zhang |
 |25/08/2019-27/08/2019| 3D sketching for decanter |Mileston 3| 3 hrs| Minghui Zhang |
 |28/08/2019-29/08/2019| Audit 2 preparation |N/A| 4 hrs|Minghui Zhang|
-|30/08/2019-05/08/2019| Contact with manufactuers| 12 hrs|Minghui Zhang|
-|06/09/2019-14/09/2019| CAD drawings for fat press| 5 hrs| Minghui Zhang|
-|15/09/2019-18/09/2019| CAD drawings for breaker| 5 hours| Minghui Zhang|
+|30/08/2019-05/08/2019| Contact with manufactuers|Milestone 5| 12 hrs|Minghui Zhang|
+|05/09/2019-06/09/2019| Optimize design based on Manufactuers feedbacks| Milestone 5| 5 hrs|Minghui Zhang|
+|07/08/2019-08/08/2019| Decide the dimension for optimized design| Milestone 5| 5 hrs|Minghui Zhang|
+|09/09/2019-14/09/2019| CAD drawings for fat press|Milestone 5| 5 hrs| Minghui Zhang|
+|15/09/2019-18/09/2019| CAD drawings for breaker| Milestone 5|5 hours| Minghui Zhang|
