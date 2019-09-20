@@ -57,7 +57,7 @@ This file is issued to track the status for each allocated tasks.
 |5|21/08/2019|23/08/2019|Generate idea design in 2D and 3D |Jiaying| 1 hour |Completed|
 |5|21/08/2019|23/08/2019|Generate idea design in 2D and 3D |Minghui|  1 hour|Completed|
 |5|21/08/2019||Plan the vist to rendering plant in NSW|Project team | |In progress|
-|5|21/08/2019|27/08/2019|Plan the vist to GoTerra|Project team | Project team and client|Completed| 2PM on 2 Sep|
+|5|21/08/2019|27/08/2019|Plan the vist to GoTerra Project team and client|Derek|Completed| 2PM on 2 Sep|
 |5|21/08/2019|25/08/2019| Functional analysis version 3| Derek|2 hours|Completed|
 |5|23/08/2019|24/08/2019|Sketch component (Pre-breaker)|Derek|2 hours|Completed |
 |5|23/08/2019|27/08/2019|Sketch components (Pre-cooker and Continue cooker)|Andre|5 hours |Completed|
