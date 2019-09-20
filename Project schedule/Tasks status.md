@@ -69,15 +69,15 @@ This file is issued to track the status for each allocated tasks.
 |5|25/08/2019|29/08/2019|Edit Audit 2 ppt|Jiaying |2 hours|Completed|
 |5|25/08/2019|29/08/2019|Edit Audit 2 ppt|Minghui| 2 hours|Completed|
 |7|19/09/2019||CAD drawing for cooker| Andre| ||
-|7|19/09/2019| CAD drawing for cooker| Andre| | |
-|7|19/09/2019| CAD drawing for dust collector |Derek| | |
-|7|19/09/2019| CAD drawing for condenser |Derek| | |
-|7|19/09/2019| CAD drawing for water ring vacuum |Derek| | |
-|7|19/09/2019| CAD drawing for pump| Derek| | |
-|7|19/09/2019| CAD drawing for power generator |Jiaying|||
-|7|19/09/2019| CAD drawing for Wwater tank|Jiaying | | |
-|7|19/09/2019| CAD drawing for cooling tower| Jiaying | | |
-|7|19/09/2019| CAD drawing for screw conveyor | Minghui |||
+|7|19/09/2019|| CAD drawing for cooker| Andre| | |
+|7|19/09/2019| |CAD drawing for dust collector |Derek| | |
+|7|19/09/2019|| CAD drawing for condenser |Derek| | |
+|7|19/09/2019| |CAD drawing for water ring vacuum |Derek| | |
+|7|19/09/2019| |CAD drawing for pump| Derek| | |
+|7|19/09/2019| |CAD drawing for power generator |Jiaying|||
+|7|19/09/2019| |CAD drawing for Wwater tank|Jiaying | | |
+|7|19/09/2019| |CAD drawing for cooling tower| Jiaying | | |
+|7|19/09/2019| |CAD drawing for screw conveyor | Minghui |||
 
 
 
