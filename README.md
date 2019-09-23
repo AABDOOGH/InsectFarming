@@ -86,6 +86,7 @@ Each component in the rendering plant is designed in Solidworks. The detailed 2D
 ### Cooker
 
 ### Screw Covenyor
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/qOfIYR8rpkE/0.jpg)](https://youtu.be/qOfIYR8rpkE)
 
 ### Fat Press
 
