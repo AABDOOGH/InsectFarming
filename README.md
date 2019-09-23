@@ -80,6 +80,7 @@ Detailed information for each major decision made in the whole project can be fo
 
 Each component in the rendering plant is designed in Solidworks. The detailed 2D and 3D drawings could be found [here](https://github.com/JessYJY/insectfarming.github.io/tree/master/Rendering%20design/Final%20design).
 
+### Overview the Designed Rendering System
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/System%20Design/Rendering%20system%20with%20cooling%20system.png)
 
 ### Breaker
