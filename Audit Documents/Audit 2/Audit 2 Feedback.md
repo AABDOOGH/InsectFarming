@@ -68,31 +68,53 @@ R1: Our team is almost finsh a version of more technically rigorous design and a
 F2: We need to look at the real world testing through the use of sophisticated simulation software on the
 structural and thermodynamic aspects of the design.
 
-R2: 
+R2: The real world testing criteria cannot be applied to our project. Our project is a design project and we are only focusing on designing. For the feasibility test, we will contact with manufacturers and experts. Our team will not do the simulation to simulate the process. The process is standardized. There is no necessary to simulate the working process. It will be more beneficial if we could contact the expert and manufacture to ask for advice. 
+
+F3: We need to do more design for the design ventillation system, accessibility and machine maintenance. 
+
+R3: Our team has already finished the ventillation system. We also found a shipping container which only has the frame. This allow the maximum possibility to access and easily to maintenance. 
+
+F4: We need to specify the specifications to be referenced and each document could be explained in detail with combination of requirements, government regulation, functionality and feasibility.
+
+R4: In the document to explian the design, we will properly reference. 
+
+F5: We need to finalize the technical peformance measurement. 
+
+R5: Our team will do not the technical performance measurement. It is very hard to find the related standards which can specify the exact numbers. Now, we decide to do the design specifications and the actual values we can achieve. 
+
 ### 2.2. Decision Log
 #### 2.2.1. Aspects Done Well 
-
+F1: Clear lines of communication, detailed minutes and worklog, heavy stakeholder input (client input) with an extremely inclusive decision making process.
 
 ### 2.2.2. Aspects To Improve
 
+No feedback. 
 
 ### 2.3. Communication 
 #### 2.3.1. Aspects Done Well 
+F1: We communicated with the stakeholders frequently. 
 
+F2: We are communicating with industry experts for design advice. 
 
+F3: We are also communicating with ANU PhD students to ask some advice for 3D drawings. 
 #### 2.3.2. Aspects To Improve 
-
+No feedbacks. 
 
 
 ### 2.4. Teamwork 
 #### 2.4.1. Aspects Done Well  
+F1: We have developed some new skills, such as sketchup and solidworks. 
 
+F2: Everyone invovle in the project and being responsible for the technical design in the project. 
 
+F3: We all contributed to the project and help each other with the tasks. 
 #### 2.4.2. Aspects To Improve 
 
+F1: We need a reviewer for the tasks. This need to ensure the quality of work. 
 
+R1: We will assign one person to review the finished tasks. We will add another column "Review" in the task status. 
 ### 2.5. Other Feedbacks 
-
+ 
 
 ## 3. Shadow Team Feedback 
 
@@ -100,19 +122,29 @@ R2:
 
 #### 3.1.1. Aspects Done Well
 
-
+F1: We have outputted preliminary rendering design, requirement analysis and functional analysis. 
 #### 3.1.2. Aspects To Improve
 
+F1: We need to show the design to the client. 
 
+R1: We have already show the design to the client. Client is satisfied with the design. 
+
+F1: One shadow member recommand us to 3D print the system. 
+
+R1: We do not think it is necessary and beneficial to 3D print the system. We will communicate with our tutor and shodown team in Week 7 tutorial. 
+
+F1: Shadown team recommand us to invovle research paper when we design the process. 
+
+R1: At this stage, we nearly finished the design section. In the improving stage, we will find more research paper to support the decision making to improve the design. 
 
 ### 3.2. Decision Log 
 
 #### 3.2.1. Aspects Done Well 
-
+No feedbacks. 
  
 
 #### 3.2.2. Aspects To Improve 
-
+No feedbacks. 
 
 
 
