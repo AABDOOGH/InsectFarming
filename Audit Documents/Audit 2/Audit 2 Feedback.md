@@ -24,6 +24,9 @@ This document is issued to summarized the feedbacks from own team, shadow team a
   * [2.4. Teamwork](#24-Teamwork)
      + [2.4.1. Aspects Done Well](#241-Aspects-done-well)
      + [2.4.2. Aspects To Improve](#242-Aspects-to-improve)
+     [2.5. reflections](#25-reflections)
+     + [2.5.1. Aspects Done Well](#251-Aspects-done-well)
+     + [2.5.2. Aspects To Improve](#252-Aspects-to-improve)
 - [3. Shadow Team Feedback](#3-Shadow-Team-feedback)
   * [3.1. Project Output](#31-Project-Output)
      + [3.1.1. Aspects Done Well](#311-Aspects-done-well)
@@ -113,7 +116,16 @@ F3: We all contributed to the project and help each other with the tasks.
 F1: We need a reviewer for the tasks. This need to ensure the quality of work. 
 
 R1: We will assign one person to review the finished tasks. We will add another column "Review" in the task status. 
-### 2.5. Other Feedbacks 
+
+F1: Our team roles are already changed and we have not updated it. 
+
+R1: We will assign the task and update the ConOps as soon as possible. 
+### 2.5. reflections 
+
+#### 2.5.1. Aspects Done Well 
+
+
+#### 2.5.2. Aspects To Improve  
  
 
 ## 3. Shadow Team Feedback 
@@ -158,11 +170,17 @@ No feedbacks.
 
 ### 3.4. Teamwork 
 #### 3.4.1. Aspects Done Well
-
+F1: We evenly distributed tasks. 
 #### 3.4.2. Aspects To Improve 
+F1: We do not have discussion in the meeting minutes. 
+
+R1: We think we have properly written down the discussion results. We will talk with shadown team in the tutorial session. 
+### 3.5. reflections 
+
+#### 3.5.1. Aspects Done Well 
 
 
-### 3.5. Other feedbacks 
+#### 3.5.2. Aspects To Improve
 
  
 
