@@ -181,7 +181,9 @@ F1: We need to separate client meeting and group meeting.
 
 R1: We marked in the every title for each meeting minutes to indicate whether this is client meeting or group meeting. We think this is clear encough. 
 
+F2: Expert communication need to properly written down. 
 
+R2: We will write a proper document to introduce the experts and all the important points in the communication.  
 
 ### 3.4. Teamwork 
 #### 3.4.1. Aspects Done Well
@@ -208,26 +210,42 @@ R4: We probably will not separate the client and group meeting minutes. In the t
 ### 3.5. reflections 
 
 #### 3.5.1. Aspects Done Well 
+F1: WE repsect every constructive feedbacks and summarized them properly in a document. 
 
+F2: We ask question to help other teams. 
 
 #### 3.5.2. Aspects To Improve
-
- 
+No feedbacks. 
 
 
 ## 4. Tutor Feedback 
 
 ### 4.1. Aspects Done Well
+F1: We have a conceuptual design. 
 
+F2: We take action on feedback we received in PA1. 
 
 
 ### 4.2. Aspects to Improve
 
+F1: Stability and support struture are some issues. 
 
+R1: Our team is working on this part. 
+
+F2: It will be beneficial if we could get some feedbacks from experts and other stakehodlers. 
+
+R2: Yes, this will be valuable if we could get some feedbacks from experts. Now, we are contacting the manufactures and seek for feedback to improve our design. 
+
+F3: It is good if we can visit the rendering plant. 
+
+R3: Our client is communicating with the rendering plant and we have not get any responses. We will try to contact them and see whether we could get responses. 
 
 
 ## 5. Client Feedbacks
 
+F1: The team has taken a client centric approach to development and product co-design. 
+
+F2: The team have taken a holistic systems approach to product design and have been responsive to the needs of the external client.
 
 
 
