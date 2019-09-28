@@ -40,6 +40,9 @@ This document is issued to summarized the feedbacks from own team, shadow team a
   * [3.4. Teamwork](#34-Teamwork)
      + [3.4.1. Aspects Done Well](#341-Aspects-done-well)
      + [3.4.2. Aspects To Improve](#342-Aspects-to-improve)
+  * [3.5. reflections](#35-reflections)
+     + [3.5.1. Aspects Done Well](#351-Aspects-done-well)
+     + [3.5.2. Aspects To Improve](#352-Aspects-to-improve)
 - [4. Tutor Feedback](#4-Tutor-Feedback)
   * [4.1. Aspects Done Well](#41-Aspects-done-well)
   * [4.2 Aspects to Improve](#42-Aspects-to-improve)
@@ -130,6 +133,7 @@ R1: We will assign the task and update the ConOps as soon as possible.
 #### 2.5.1. Aspects Done Well 
 F1: We have already summarized all the feedbacks from other stakeholders in terms of aspects well done and aspects to improve. Towrad to the feedback which we felt confused, we further communicate with our shadow team and tutor for clarification. 
 
+F2: We also actively provide our opinions and suggestions for the other teams during presentation.
 #### 2.5.2. Aspects To Improve  
 No feedbakcs. 
 
@@ -167,9 +171,15 @@ No feedbacks.
 
 ### 3.3. Communication 
 #### 3.3.1. Aspects Done Well
- 
-#### 3.3.2. Aspects To Improve 
+F1: We have recorded every client meeting and group meeting. 
 
+F2: We have recorded all the important emails between client and group. 
+
+F3: We are communicating with industry experts and manufacturers. 
+#### 3.3.2. Aspects To Improve 
+F1: We need to separate client meeting and group meeting. 
+
+R1: We marked in the every title for each meeting minutes to indicate whether this is client meeting or group meeting. We think this is clear encough. 
 
 
 
