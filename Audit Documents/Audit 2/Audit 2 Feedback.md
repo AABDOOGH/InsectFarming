@@ -179,7 +179,7 @@ F3: We are communicating with industry experts and manufacturers.
 #### 3.3.2. Aspects To Improve 
 F1: We need to separate client meeting and group meeting. 
 
-R1: We marked in the every title for each meeting minutes to indicate whether this is client meeting or group meeting. We think this is clear encough. 
+R1:We probably will not separate the client and group meeting minutes. In the title of each meeting minutes, we have already marked whethere this is client meeting or group meeting. So, we think this is clear enough
 
 F2: Expert communication need to properly written down. 
 
@@ -203,9 +203,7 @@ F3: Our shadow team recommand to provide the personality results to examine the 
 
 R3: Our team will not add the personality results. This is becuase everyone has cross-field involvement in the project. Everyone contribute to all the aspects in the project. Everyone nearly has equally responsbile to the project. Thus, the personality test will not provide much benefits.  
 
-F4: Shadow team advice us to separate client and group meeting minutes. 
 
-R4: We probably will not separate the client and group meeting minutes. In the title of each meeting minutes, we have already marked whethere this is client meeting or group meeting. So, we think this is clear enough. 
 
 ### 3.5. reflections 
 
@@ -254,10 +252,16 @@ F2: The team have taken a holistic systems approach to product design and have b
 
 | Action items           | Contributor        | Status          | 
 | :--------------: | :--------------: | :--------------: | 
-
+|Update roles for each member|Minghui |In progress|
+|Finish the ventilation system design|All team|Completed|
+|Email the rendering plant and fnind out whether we could have a visit| All team| In progress|
+|Stability and support structual deisgn| All team |In progress|
+|Add a column "Review" in the task status| Minghui |In progress|
 
 
 ## 7. Additional Feedbacks in Week 5 Tutorial
 
+It is totally fine if we do not 3D print the deisgn. 
 
+For the rendering deisgn visit, we could send emails by outselves and seek for responses. 
 
