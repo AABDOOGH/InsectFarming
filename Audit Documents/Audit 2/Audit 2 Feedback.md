@@ -263,5 +263,5 @@ F2: The team have taken a holistic systems approach to product design and have b
 
 It is totally fine if we do not 3D print the deisgn. 
 
-For the rendering deisgn visit, we could send emails by outselves and seek for responses. 
+For the rendering deisgn visit, we could send emails by ourselves and seek for responses. 
 
