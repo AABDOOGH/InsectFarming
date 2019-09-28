@@ -100,6 +100,11 @@ F1: We communicated with the stakeholders frequently.
 F2: We are communicating with industry experts for design advice. 
 
 F3: We are also communicating with ANU PhD students to ask some advice for 3D drawings. 
+
+F4: A variety of approaches was used to communicate effectively with clients. We have set up weekly meetings
+with the clients. 
+
+F5: We are contacting with manufacturers in China through Alibaba. He nearly answer all the questions we have during the design section.
 #### 2.3.2. Aspects To Improve 
 No feedbacks. 
 
@@ -123,10 +128,10 @@ R1: We will assign the task and update the ConOps as soon as possible.
 ### 2.5. reflections 
 
 #### 2.5.1. Aspects Done Well 
-
+F1: We have already summarized all the feedbacks from other stakeholders in terms of aspects well done and aspects to improve. Towrad to the feedback which we felt confused, we further communicate with our shadow team and tutor for clarification. 
 
 #### 2.5.2. Aspects To Improve  
- 
+No feedbakcs. 
 
 ## 3. Shadow Team Feedback 
 
@@ -162,7 +167,7 @@ No feedbacks.
 
 ### 3.3. Communication 
 #### 3.3.1. Aspects Done Well
-
+ 
 #### 3.3.2. Aspects To Improve 
 
 
@@ -171,10 +176,25 @@ No feedbacks.
 ### 3.4. Teamwork 
 #### 3.4.1. Aspects Done Well
 F1: We evenly distributed tasks. 
+
+F2: Our team has a proper assignent of roles. 
 #### 3.4.2. Aspects To Improve 
 F1: We do not have discussion in the meeting minutes. 
 
 R1: We think we have properly written down the discussion results. We will talk with shadown team in the tutorial session. 
+
+F2: Our shadow team advice us to have a style of cross-field involvemnet of each member. 
+
+R2: In our team, we indeed have a style of cross-field invovlement fir each member. Everyone contribute to the technical design. Everyone is resposibible for more than one field in the project. We will update the role in our ConOps as soon as possible. 
+
+F3: Our shadow team recommand to provide the personality results to examine the member strength and weakness to tailor the teamwork. 
+
+R3: Our team will not add the personality results. This is becuase everyone has cross-field involvement in the project. Everyone contribute to all the aspects in the project. Everyone nearly has equally responsbile to the project. Thus, the personality test will not provide much benefits.  
+
+F4: Shadow team advice us to separate client and group meeting minutes. 
+
+R4: We probably will not separate the client and group meeting minutes. In the title of each meeting minutes, we have already marked whethere this is client meeting or group meeting. So, we think this is clear enough. 
+
 ### 3.5. reflections 
 
 #### 3.5.1. Aspects Done Well 
