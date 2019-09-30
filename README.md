@@ -15,7 +15,8 @@
 - [Meeting Minutes](#meeting-minutes)
 - [Decision Log](#decision-log)
 - [Insect Processing Rendering Plant Design](#Insect-Processing-Rendering-Plant-Design)
-  * [Overview the Designed Rendering System](#Overview-the-Designed-Rendering-System)
+  * [Overview the Designed Rendering System - option 1 for median livestocks](#Overview-the-Designed-Rendering-System---option-1-for-median-livestocks)
+  * [Overview the Designed Rendering System - option 2 for insects](#Overview-the-Designed-Rendering-System---option-2-for-insects)
   * [Breaker](#breaker)
   * [Cooker](#cooker)
   * [Fat Press](#fat-press)
@@ -89,14 +90,12 @@ Each component in the rendering plant is designed in Solidworks. The detailed 2D
 
 ### Breaker
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/BaOe7Ly5Ymc/0.jpg)](https://youtu.be/BaOe7Ly5Ymc)
-
 ### Cooker
-
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/SuXll-_7eKA/0.jpg)](https://youtu.be/SuXll-_7eKA)
 ### Screw Covenyor
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/qOfIYR8rpkE/0.jpg)](https://youtu.be/qOfIYR8rpkE)
-
 ### Fat Press
-
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/FV1UGTOuOes/0.jpg)](https://youtu.be/FV1UGTOuOes)
 ### Condensor
 
 ### Cooling Tower
