@@ -99,3 +99,7 @@ Each component in the rendering plant is designed in Solidworks. The detailed 2D
 ### Condensor
 
 ### Cooling Tower
+
+
+## Feedback
+A feedback form has been created for the interest of our stakeholders, should they wish to pass on any changes or improvements they believe to be prudent. The form can be found [here](https://forms.gle/tCp9vBTgsX1YHFhV8)
