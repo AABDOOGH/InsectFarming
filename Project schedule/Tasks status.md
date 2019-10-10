@@ -84,16 +84,16 @@ This file is issued to track the status for each allocated tasks.
 |6|09/09/2019|14/09/2019| CAD drawings for fat press| Jiaying| 5 hours | Completed|
 |6|15/08/2019|18/09/2019| CAD drawings for breaker| Minghui| 5 hours| Completed|
 |6|15/08/2019|18/09/2019| CAD drawings for breaker| Jiaying| 5 hours| Completed|
-|7|19/09/2019||CAD drawing for cooker| Andre| ||
-|7|19/09/2019|| CAD drawing for cooker| Andre| | |
-|7|19/09/2019| |CAD drawing for dust collector |Derek| | |
-|7|19/09/2019|| CAD drawing for condenser |Derek| | |
-|7|19/09/2019| |CAD drawing for water ring vacuum |Derek| | |
-|7|19/09/2019| |CAD drawing for pump| Derek| | |
-|7|19/09/2019| |CAD drawing for power generator |Jiaying|||
-|7|19/09/2019| |CAD drawing for Wwater tank|Jiaying | | |
-|7|19/09/2019| |CAD drawing for cooling tower| Jiaying | | |
-|7|19/09/2019| |CAD drawing for screw conveyor | Minghui |||
+|7|19/09/2019|26/09/2019|CAD drawing for cooker| Andre| 3 hours |Completed|
+|7|19/09/2019|26/09/2019 |CAD drawing for dust collector |Derek| 2 hours |Completed |
+|7|19/09/2019|26/09/2019| CAD drawing for condenser |Derek|2 hours |Completed |
+|7|19/09/2019| 26/09/2019|CAD drawing for water vacuum |Derek|2 hours |Completed |
+|7|19/09/2019|26/09/2019 |CAD drawing for pump| Derek| 2 hours|Completed |
+|7|19/09/2019|26/09/2019 |CAD drawing for power generator |Minghui|1 hour|Completed|
+|7|19/09/2019|26/09/2019 |CAD drawing for Wwater tank|Minghui |1 hour|Completed |
+|7|19/09/2019|26/09/2019 |CAD drawing for cooling tower| Jiaying | 1 hour|Completed |
+|7|19/09/2019|26/09/2019 |CAD drawing for screw conveyor | Minghui |10 hours|Completed|
+|7|27/09/2019|01/10/2019| Assembly all the components| Minghui|20 hours| Completed|
 
 
 
