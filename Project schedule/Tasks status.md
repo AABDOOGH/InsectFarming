@@ -93,7 +93,19 @@ This file is issued to track the status for each allocated tasks.
 |7|19/09/2019|26/09/2019 |CAD drawing for Wwater tank|Minghui |1 hour|Completed |
 |7|19/09/2019|26/09/2019 |CAD drawing for cooling tower| Jiaying | 1 hour|Completed |
 |7|19/09/2019|26/09/2019 |CAD drawing for screw conveyor | Minghui |10 hours|Completed|
-|7|27/09/2019|01/10/2019| Assembly all the components| Minghui|20 hours| Completed|
+|7|27/09/2019|05/10/2019| Assembly all the components| Minghui|20 hours| Completed|
+|7|27/09/2019|09/10/2019|Design poster| Jiaying |20 hours| Completed|
+|7|27/09/2019|09/10/2019|Design poster| Andre |20 hours| Completed|
+|5|27/09/2019|11/10/2019|3D print overall design|Minghui |10 hours|Completed|
+|5|27/09/2019|11/10/2019|3D print overall design|Jiaying |10 hours|Completed|
+|7|06/09/2019|09/10/2019|Rendering the design in Solidoworks|Derek|20 hours| Completed|
+|7|06/09/2019|09/10/2019|Design broucher |Jiaying |30 hours| Completed|
+|7|06/09/2019|09/10/2019|Design broucher |Andre |20 hours| Completed|
+|7|06/09/2019|09/10/2019|2D design for each machine|Minghui|10 hours| Completed|
+|7|09/10/2019|09/10/2019|Print broucher and poster|Jiaying Ying|1 hour|Completed|
+|7|09/10/2019|10/10/2019|Assembly 3D print component|Minghui|6 hours| Completed|
+|7|09/10/2019|10/10/2019|Assembly 3D print component|Minghui|6 hours| Completed|
+|7|10/09/2019|11/09/2019|Prepare Audit 3|All team member|10 hours| Completed|
 
 
 
