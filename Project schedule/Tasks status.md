@@ -74,38 +74,38 @@ This file is issued to track the status for each allocated tasks.
 |6|29/08/2019|13/09/2019| Draw the schematic diagram and research | Derek| 5 hours| Completed|
 |6|29/09/2019| 14/09/2019| Research on ventilation| Derek | 2 hours| Completed|
 |6|29/09/2019|17/09/2019|TLP participation and typing up the summary| Derek| 2n hours| Completed|
-|6|29/09/2019|31/09/2019| Decide the software for CAD drawing | Jiaying| 1 hour| Completed|
-|6|29/09/2019|05/09/2019| Contact with manufactuers| Minghui| 12 hours| Completed|
-|7|05/09/2019|06/09/2019| Optimize design based on manufacturers feedback|Minghui |5 hours| Completed|
-|7|05/09/2019|06/09/2019| Optimize design based on manufacturers feedback|Jiaying |5 hours| Completed|
+|6|29/09/2019|31/09/2019| Decide the software for CAD drawing | Jiaying| 1 hour| Completed||
+|6|29/09/2019|05/09/2019| Contact with manufactuers| Minghui| 12 hours| Completed||
+|7|05/09/2019|06/09/2019| Optimize design based on manufacturers feedback|Minghui |5 hours| Completed|Reviewed by Jiaying|
+|7|05/09/2019|06/09/2019| Optimize design based on manufacturers feedback|Jiaying |5 hours| Completed|Reviewed by Minghui|
 |7|07/09/2019| 08/09/2019| Decide the dimensionfor the optimized design| Minghui|5 hours | Completed|
-|7|07/09/2019| 08/09/2019| Decide the dimensionfor the optimized design| Jiaying|5 hours | Completed|
-|8|09/09/2019|14/09/2019| CAD drawings for fat press| Minghui| 5 hours | Completed|
-|8|09/09/2019|14/09/2019| CAD drawings for fat press| Jiaying| 5 hours | Completed|
-|8|15/08/2019|18/09/2019| CAD drawings for breaker| Minghui| 5 hours| Completed|
-|8|15/08/2019|18/09/2019| CAD drawings for breaker| Jiaying| 5 hours| Completed|
-|9|19/09/2019|26/09/2019|CAD drawing for cooker| Andre| 3 hours |Completed|
-|9|19/09/2019|26/09/2019 |CAD drawing for dust collector |Derek| 2 hours |Completed |
-|9|19/09/2019|26/09/2019| CAD drawing for condenser |Derek|2 hours |Completed |
-|9|19/09/2019| 26/09/2019|CAD drawing for water vacuum |Derek|2 hours |Completed |
-|9|19/09/2019|26/09/2019 |CAD drawing for pump| Derek| 2 hours|Completed |
-|9|19/09/2019|26/09/2019 |CAD drawing for power generator |Minghui|1 hour|Completed|
-|9|19/09/2019|26/09/2019 |CAD drawing for Wwater tank|Minghui |1 hour|Completed |
-|9|19/09/2019|26/09/2019 |CAD drawing for cooling tower| Jiaying | 1 hour|Completed |
-|9|19/09/2019|26/09/2019 |CAD drawing for screw conveyor | Minghui |10 hours|Completed|
-|10|27/09/2019|05/10/2019| Assembly all the components| Minghui|20 hours| Completed|
-|10|27/09/2019|09/10/2019|Design poster| Jiaying |20 hours| Completed|
-|10|27/09/2019|09/10/2019|Design poster| Andre |20 hours| Completed|
-|10|27/09/2019|11/10/2019|3D print overall design|Minghui |10 hours|Completed|
-|10|27/09/2019|11/10/2019|3D print overall design|Jiaying |10 hours|Completed|
-|11|06/09/2019|09/10/2019|Rendering the design in Solidoworks|Derek|20 hours| Completed|
-|11|06/09/2019|09/10/2019|Design broucher |Jiaying |30 hours| Completed|
-|11|06/09/2019|09/10/2019|Design broucher |Andre |20 hours| Completed|
-|11|06/09/2019|09/10/2019|2D design for each machine|Minghui|10 hours| Completed|
-|12|09/10/2019|09/10/2019|Print broucher and poster|Jiaying Ying|1 hour|Completed|
+|7|07/09/2019| 08/09/2019| Decide the dimensionfor the optimized design| Jiaying|5 hours | Completed|Reviewed by Jiaying|
+|8|09/09/2019|14/09/2019| CAD drawings for fat press| Minghui| 5 hours | Completed|Reviewed by Jiaying|
+|8|09/09/2019|14/09/2019| CAD drawings for fat press| Jiaying| 5 hours | Completed|Reviewed by Jiaying|
+|8|15/08/2019|18/09/2019| CAD drawings for breaker| Minghui| 5 hours| Completed|Reviewed by Jiaying|
+|8|15/08/2019|18/09/2019| CAD drawings for breaker| Jiaying| 5 hours| Completed|Reviewed by Jiaying|
+|9|19/09/2019|26/09/2019|CAD drawing for cooker| Andre| 3 hours |Completed|Reviewed by Jiaying|
+|9|19/09/2019|26/09/2019 |CAD drawing for dust collector |Derek| 2 hours |Completed |Reviewed by Jiaying|
+|9|19/09/2019|26/09/2019| CAD drawing for condenser |Derek|2 hours |Completed |Reviewed by Jiaying|
+|9|19/09/2019| 26/09/2019|CAD drawing for water vacuum |Derek|2 hours |Completed |Reviewed by Jiaying|
+|9|19/09/2019|26/09/2019 |CAD drawing for pump| Derek| 2 hours|Completed |Reviewed by Jiaying|
+|9|19/09/2019|26/09/2019 |CAD drawing for power generator |Minghui|1 hour|Completed|Reviewed by Jiaying|
+|9|19/09/2019|26/09/2019 |CAD drawing for Wwater tank|Minghui |1 hour|Completed |Reviewed by Jiaying|
+|9|19/09/2019|26/09/2019 |CAD drawing for cooling tower| Jiaying | 1 hour|Completed |Reviewed by Jiaying|
+|9|19/09/2019|26/09/2019 |CAD drawing for screw conveyor | Minghui |10 hours|Completed|Reviewed by Jiaying|
+|10|27/09/2019|05/10/2019| Assembly all the components| Minghui|20 hours| Completed|Reviewed by Jiaying; Andre|
+|10|27/09/2019|09/10/2019|Design poster| Jiaying |20 hours| Completed|Reviewed by Andre|
+|10|27/09/2019|09/10/2019|Design poster| Andre |20 hours| Completed|Reviewed by Jiaying|
+|10|27/09/2019|11/10/2019|3D print overall design|Minghui |10 hours|Completed|Reviewed by Jiaying|
+|10|27/09/2019|11/10/2019|3D print overall design|Jiaying |10 hours|Completed|Reviewed by Jiaying|
+|11|06/09/2019|09/10/2019|Rendering the design in Solidoworks|Derek|20 hours| Completed|Reviewed by All teammember|
+|11|06/09/2019|09/10/2019|Design broucher |Jiaying |30 hours| Completed|Reviewed by Andre|
+|11|06/09/2019|09/10/2019|Design broucher |Andre |20 hours| Completed|Reviewed by Jiaying|
+|11|06/09/2019|09/10/2019|2D design for each machine|Minghui|10 hours| Completed|Reviewed by All team member|
+|12|09/10/2019|09/10/2019|Print broucher and poster|Jiaying Ying|1 hour|Completed|Reviewed by All team member|
 |12|09/10/2019|10/10/2019|Assembly 3D print component|Minghui|6 hours| Completed|
-|12|09/10/2019|10/10/2019|Assembly 3D print component|Minghui|6 hours| Completed|
-|12|10/09/2019|11/09/2019|Prepare Audit 3|All team member|10 hours| Completed|
+|12|09/10/2019|10/10/2019|Assembly 3D print component|Minghui|6 hours| Completed||
+|12|10/09/2019|11/09/2019|Prepare Audit 3|All team member|10 hours| Completed||
 
 
 
