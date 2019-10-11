@@ -41,7 +41,18 @@ The document is used to show the traceability of our team contributing to the pr
 |27/08/2019|Meeting-check the 3D modelling progress and prepare for client meeting | Milestone 3|2 hrs |All tean|
 |14/08/2019|Group meeting for project progress| N/A| 3 hrs| All team|
 |18/09/2019|Group keeting for project progress| N/A| 3 hrs| ALl team|
-|19/08/2019||Prepare questions for week 5 client meeting|
+|19/08/2019|Prepare questions for week 5 client meeting|N/A|1 hr|All team|
+|21/08/2019|Client meeting|N/A|3 hrs| All team|
+|27/08/2019|Group meeting|N/A|3 hrs| All team|
+|30/08/2019|Group meeting|N/A|3 hrs|All team|
+|12/09/2019|Mid-break meassenger vedio meeting|N/A| 3hrs|All team|
+|18/09/2019|Group meeting|N/A|3hrs|ALl team|
+|25/09/2019|Group meeting|N/A|3hrs|ALl team|
+|02/10/2019|Group meeting|N/A|3hrs|ALl team|
+|9/10/2019|Group meeting|N/A|3hrs|ALl team|
+|11/10/2019|Expert meeting with David Tychsen-Smith|Milestone 5|2 hrs|All team|
+
+
 
 ## 2. Work Log for Andre Olivier 
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
@@ -58,9 +69,10 @@ The document is used to show the traceability of our team contributing to the pr
 |28/08/2019-29/08/2019| Integrate all components |Mielstone 3| 4 hrs|Andre Olivier|
 |28/08/2019-04/09/2019| Contact manufacturers| N/A| 3 hrs| Andre Olivier|
 |05/09/2019-14/09/2019| Update TPM| Milestone 2| 8 hrs| Andre Olivier|
-|19/09/2019-26/09/2019|CAD drawing for cooker|2 hrs|
-|27/09/2019|09/10/2019|Design poster|20 hrs|
-|06/09/2019|09/10/2019|Design broucher ||20 hrs|
+|19/09/2019-26/09/2019|CAD drawing for cooker|Milestone 5| 2 hrs|Andre Olivier|
+|27/09/2019-09/10/2019|Design poster|Milestone 7|20 hrs|Andre Olovier|
+|06/10/2019-09/10/2019|Design broucher |Milestone 7|20 hrs|Andre Olivier|
+|06/10/2019-11/10/2019|Preliminary budget analysis| Milestone 7|5 hrs|Andre Olivier|
 
 ## 3. Work Log for Derek Tan 
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
@@ -85,11 +97,11 @@ The document is used to show the traceability of our team contributing to the pr
 |17/09/2019| TLP participation and typing up the summary |N/A| 2 hrs|Derek Tan|
 |29/08/2019-13/09/2019| Draw the schematic diagram and research ||5hrs|Derek Tan|
 |29/08/2010-14/09/2019| Research on ventilation||2hrs|Derek Tan|
-|19/09/2019|26/09/2019 |CAD drawing for dust collector ||2 hrs|
-|19/09/2019|26/09/2019| CAD drawing for condenser ||2 hrs|
-|19/09/2019| 26/09/2019|CAD drawing for water vacuum ||2 hrs|
-|19/09/2019|26/09/2019 |CAD drawing for pump||2 hrs|
-|06/09/2019|09/10/2019|Rendering the design in Solidoworks||20 hrs|
+|19/09/2019-26/09/2019 |CAD drawing for dust collector |Milestone 5|2 hrs|Derek Tan|
+|19/09/2019-26/09/2019| CAD drawing for condenser |Milestone 5|2 hrs|Derek Tan|
+|19/09/2019-26/09/2019|CAD drawing for water vacuum |Milestone 5|2 hrs|Derek Tan|
+|19/09/2019-26/09/2019 |CAD drawing for pump|Milestone 5|2 hrs|Derek Tan|
+|06/09/2019-09/10/2019|Rendering the design in Solidoworks|Milestone 5|20 hrs|Derek Tan|
 
 
 ## 4. Work Log for Jiaying Ying 
@@ -116,10 +128,10 @@ The document is used to show the traceability of our team contributing to the pr
 |07/08/2019-08/08/2019| Decide the dimension for optimized design| Milestone 5| 5 hrs|Jiaying Ying|
 |09/09/2019-14/09/2019| CAD drawings for fat press| Milestone 5|5 hrs| Jiaying Ying|
 |15/09/2019-18/09/2019| CAD drawings for breaker| Milestone 5|5 hrs| Jiaying Ying |
-|27/09/2019-09/10/2019|Design poster||20 hrs||
-|27/09/2019|11/10/2019|3D print overall design||10 hrs|
-|06/09/2019|09/10/2019|Design broucher ||20 hrs|
-|09/10/2019|09/10/2019|Print broucher and poster||1 hr|
+|27/09/2019-09/10/2019|Design poster|Milestone 7|20 hrs|Jiaying Ying |
+|27/09/2019-11/10/2019|3D print overall design|N/A|10 hrs|Jiaying Ying |
+|06/09/2019-09/10/2019|Design broucher |Milestone 7|20 hrs|Jiaying Ying |
+|09/10/2019-09/10/2019|Print broucher and poster|Milestone 7|1 hr|Jiaying Ying |
 
 ## 5. Work Log for Minghui Zhang 
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
@@ -135,7 +147,6 @@ The document is used to show the traceability of our team contributing to the pr
 |21/08/2019| Edit work log| N/A| 2 hrs| Minghui Zhang|
 |22/08/2019| Edit decision log|N/A| 2 hrs| Minghui Zhang |
 |23/08/2019| Create file root directory|N/A| 2 hrs |Minghui Zhang|
-|20/08/2019-23/08/2019|Idea generation for rendering plant design|Mileston 3| 3 hrs|Minghui Zhang|
 |23/08/2019-25/08/2019| 3D sketching for separator|Mileston 3| 3 hrs| Minghui Zhang |
 |25/08/2019-27/08/2019| 3D sketching for decanter |Mileston 3| 3 hrs| Minghui Zhang |
 |28/08/2019-29/08/2019| Audit 2 preparation |N/A| 4 hrs|Minghui Zhang|
@@ -144,12 +155,13 @@ The document is used to show the traceability of our team contributing to the pr
 |07/08/2019-08/08/2019| Decide the dimension for optimized design| Milestone 5| 5 hrs|Minghui Zhang|
 |09/09/2019-14/09/2019| CAD drawings for fat press|Milestone 5| 5 hrs| Minghui Zhang|
 |15/09/2019-18/09/2019| CAD drawings for breaker| Milestone 5|5 hrs| Minghui Zhang|
-|19/09/2019-26/09/2019 |CAD drawing for power generator ||1 hr|
-|19/09/2019-26/09/2019 |CAD drawing for Wwater tank||1 hr|
-|19/09/2019-26/09/2019 |CAD drawing for cooling tower||1hr|
-|19/09/2019|26/09/2019 |CAD drawing for screw conveyor ||10 hrs|
-|27/09/2019|05/10/2019| Assembly all the components||20 hrs|
-|27/09/2019|11/10/2019|3D print overall design||10 hrs|
-|06/09/2019|09/10/2019|2D design for each machine||10 hrs| 
-|09/10/2019|10/10/2019|Assembly 3D print component||6 hrs|
-|09/10/2019|10/10/2019|Assembly 3D print component|| 6hrs|
+|19/09/2019-26/09/2019 |CAD drawing for power generator |Milestone 5|1 hr|Minghui Zhang|
+|19/09/2019-26/09/2019 |CAD drawing for Wwater tank|Mileston 5|1 hr|Minghui Zhang|
+|19/09/2019-26/09/2019 |CAD drawing for cooling tower|Milestone 5|1 hr|Minghui Zhang|
+|19/09/2019-26/09/2019 |CAD drawing for screw conveyor |Milestone 5|10 hrs|Minghui Zhang|
+|27/09/2019-05/10/2019| Assembly all the components|Milestone 5|20 hrs|Minghui Zhang|
+|27/09/2019-11/10/2019|3D print overall design|Milestone 5|10 hrs|Minghui Zhang|
+|06/09/2019-09/10/2019|2D design for each machine|Milestone 5|10 hrs| Minghui Zhang|
+|09/10/2019-10/10/2019|Assembly 3D print component|Milestone 5|6 hrs|Minghui Zhang|
+|08/10/2019-08/10/2019|Meeting with Dr.Yi. Xiao| Milestone 5| 2hrs|Minghui Zhang|
+|09/10/2019-10/10/2019|Assembly 3D print component|Milestone 5| 6hrs|Minghui Zhang|
