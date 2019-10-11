@@ -95,8 +95,8 @@ The document is used to show the traceability of our team contributing to the pr
 |12/09/2019-13/09/2019| Schematic diagram and research |N/A| 5 hrs|Derek Tan|
 |14/09/2019| Ventilation |N/A| 2 hrs|Derek Tan|
 |17/09/2019| TLP participation and typing up the summary |N/A| 2 hrs|Derek Tan|
-|29/08/2019-13/09/2019| Draw the schematic diagram and research ||5hrs|Derek Tan|
-|29/08/2010-14/09/2019| Research on ventilation||2hrs|Derek Tan|
+|29/08/2019-13/09/2019| Draw the schematic diagram and research |Milestone 4|5hrs|Derek Tan|
+|29/08/2010-14/09/2019| Research on ventilation|Milestone 4|2hrs|Derek Tan|
 |19/09/2019-26/09/2019 |CAD drawing for dust collector |Milestone 5|2 hrs|Derek Tan|
 |19/09/2019-26/09/2019| CAD drawing for condenser |Milestone 5|2 hrs|Derek Tan|
 |19/09/2019-26/09/2019|CAD drawing for water vacuum |Milestone 5|2 hrs|Derek Tan|
