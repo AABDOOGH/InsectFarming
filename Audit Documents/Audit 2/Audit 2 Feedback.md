@@ -254,7 +254,7 @@ F2: The team have taken a holistic systems approach to product design and have b
 | :--------------: | :--------------: | :--------------: | 
 |Update roles for each member|Minghui |Completed|
 |Finish the ventilation system design|All team|Completed|
-|Add a column "Review" in the task status| Minghui |In progress|
+|Add a column "Review" in the task status| Minghui |Completed|
 
 
 ## 7. Additional Feedbacks in Week 5 Tutorial
