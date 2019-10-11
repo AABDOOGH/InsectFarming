@@ -252,10 +252,8 @@ F2: The team have taken a holistic systems approach to product design and have b
 
 | Action items           | Contributor        | Status          | 
 | :--------------: | :--------------: | :--------------: | 
-|Update roles for each member|Minghui |In progress|
+|Update roles for each member|Minghui |Completed|
 |Finish the ventilation system design|All team|Completed|
-|Email the rendering plant and fnind out whether we could have a visit| All team| In progress|
-|Stability and support structual deisgn| All team |In progress|
 |Add a column "Review" in the task status| Minghui |In progress|
 
 
