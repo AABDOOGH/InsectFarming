@@ -69,12 +69,12 @@ The stakeholder degree of influence and degree of interest analysis could be fou
 This project team consists of 4 undergraduate students with different engineering skills. All the members need to follow the ground rules in the group. Each member has their distinct roles and needs to be responsible for their sections. Other external stakeholders can have direct contact with the member if they have any advice, concerns or questions toward one specific section.
 
 
-| Name           | Role                  | Email                                                   |
-| :------------: |:-------------:        | :-----:                                                 |
-|Andre Oliver    |Mechanical engineer    | u5807603@anu.edu.au                           |
-|Haoxuan Tan  | Administrator and engineering technologiest |u6391332@anu.edu.au|
-|Jiaying Ying| Research, repository manager and software engineer| u6034298@anu.edu.au |
-|Minghui Zhang | Mechanical engineer | u6065938@anu.edu.au|
+| Name           |Initial Role                  | Updated Role|Email                                                   |
+| :------------: |:-------------:        | :-----:                                                 | :-----:                    |
+|Andre Oliver    |Mechanical engineer|Research; Mechanical engineer    | u5807603@anu.edu.au                           |
+|Haoxuan Tan  | Administrator|Administrator and engineering technologiest |u6391332@anu.edu.au|
+|Jiaying Ying| Research and repository manager|Research, repository manager and software engineer| u6034298@anu.edu.au |
+|Minghui Zhang | Mechanical engineer |Research; Mechanical engineer| u6065938@anu.edu.au|
 
 - Project team ground rules
   * All team members need to communicate and treat each other with respect.
