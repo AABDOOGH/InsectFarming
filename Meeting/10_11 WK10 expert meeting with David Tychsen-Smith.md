@@ -13,7 +13,7 @@
 
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/david.jpg)
 
-\bf[Mr David Tychsen-Smith] is an expert at the machine design, who has lots of practical and industrial experience and especially good at machine structure, power supplier and CAD drawings. He is an ANU staff, who is incharge with the fabrication facility. 
+Mr David Tychsen-Smith is an expert at the machine design, who has lots of practical and industrial experience and especially good at machine structure, power supplier and CAD drawings. He is an ANU staff, who is incharge with the fabrication facility. 
 
 Here is the website of his profile: https://cecs.anu.edu.au/people/david-tychsen-smith
 
