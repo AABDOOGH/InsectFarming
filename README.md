@@ -95,6 +95,9 @@ Each component in the rendering plant is designed in Solidworks. The detailed 2D
 ### Fat Press
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/FV1UGTOuOes/0.jpg)](https://youtu.be/FV1UGTOuOes)
 
+### Design Specification and Evaluation
+
+The design specification and evalution documents could be found [here](https://github.com/JessYJY/insectfarming.github.io/tree/master/Rendering%20design/Final%20design).
 
 ## Feedback
 A feedback form has been created for the interest of our stakeholders, should they wish to pass on any changes or improvements they believe to be prudent. The form can be found [here](https://forms.gle/tCp9vBTgsX1YHFhV8)
