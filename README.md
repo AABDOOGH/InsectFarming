@@ -20,8 +20,6 @@
   * [Breaker](#breaker)
   * [Cooker](#cooker)
   * [Fat Press](#fat-press)
-  * [Condensor](#condensor)
-  * [Cooling Tower](#cooling-tower)
 - [Feedback](#feedback)
 
 ## File Dictionary
@@ -96,9 +94,6 @@ Each component in the rendering plant is designed in Solidworks. The detailed 2D
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/qOfIYR8rpkE/0.jpg)](https://youtu.be/qOfIYR8rpkE)
 ### Fat Press
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/FV1UGTOuOes/0.jpg)](https://youtu.be/FV1UGTOuOes)
-### Condensor
-
-### Cooling Tower
 
 
 ## Feedback
