@@ -16,7 +16,7 @@
 - [Insect Processing Rendering Plant Design](#Insect-Processing-Rendering-Plant-Design)
   * [Overview the Designed Rendering System - option 1 for median livestocks](#Overview-the-Designed-Rendering-System---option-1-for-median-livestocks)
   * [Overview the Designed Rendering System - option 2 for insects](#Overview-the-Designed-Rendering-System---option-2-for-insects)
-  * [Overview the Integrated System in 3D] (#Overview-the-Integrated-System-in-3D)
+  * [Overview the Integrated System in 3D](#Overview-the-Integrated-System-in-3D)
   * [Breaker](#breaker)
   * [Cooker](#cooker)
   * [Fat Press](#fat-press)
