@@ -1,4 +1,4 @@
-![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/Title_v1.png)
+![alt text](https://github.com/JessYJY/InsectFarming/blob/master/Project%20initiation/Title_v1.png)
 
 
 # Table of Contents
