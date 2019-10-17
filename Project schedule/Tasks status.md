@@ -111,14 +111,14 @@ This file is issued to track the status for each allocated tasks.
 |11|06/10/2019|09/10/2019|Design broucher |Andre |20 hours| Completed|Reviewed by Jiaying|
 |11|06/10/2019|09/10/2019|2D design for each machine|Minghui|10 hours| Completed|Reviewed by All team member|
 |12|09/10/2019|09/10/2019|Print broucher and poster|Jiaying Ying|1 hour|Completed|Reviewed by All team member|
-|12|09/10/2019|10/10/2019|Assembly 3D print component|Minghui|6 hours| Completed|
-|12|09/10/2019|10/10/2019|Assembly 3D print component|Minghui|6 hours| Completed||
+|12|09/10/2019|10/10/2019|Assembly 3D print component|Minghui|6 hours| Completed|Reviewed by all team|
+|12|09/10/2019|10/10/2019|Assembly 3D print component|Minghui|6 hours| Completed|Reviewed by all team|
 |12|10/09/2019|11/10/2019|Prepare Audit 3|All team member|10 hours| Completed||
-|12|10/10/2019|13/10/2019|Tidy up repository|Jiaying|10 hours| Completed||
-|12|11/10/2019|16/10/2019|Design iteration document|Jiaying| 10 hours|Compelted||
-|13|13/10/2019|16/09/2019|Team review for reflection|Minghui|5 hours|Completed||
-|13|13/10/2019|16/09/2019|Team review for project output, decision making and design visulization|Andre|12 hours| Completed||
-|13|13/10/2019|16/09/2019|Team review for communication and teamwork|Derek|8 hours|Completed|
+|12|10/10/2019|13/10/2019|Tidy up repository|Jiaying|10 hours| Completed|Reviewed by all team|
+|12|11/10/2019|16/10/2019|Design iteration document|Jiaying| 10 hours|Compelted|Reviewed by all team|
+|13|13/10/2019|16/09/2019|Team review for reflection|Minghui|5 hours|Completed|Reviewed by all team|
+|13|13/10/2019|16/09/2019|Team review for project output, decision making and design visulization|Andre|12 hours| Completed|Reviewed by all team|
+|13|13/10/2019|16/09/2019|Team review for communication and teamwork|Derek|8 hours|Completed|Reviewed by all team|
 
 
 
