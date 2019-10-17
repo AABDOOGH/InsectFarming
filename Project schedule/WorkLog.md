@@ -9,6 +9,9 @@ The document is used to show the traceability of our team contributing to the pr
 | :--------------: | :--------------: | :--------------: | :---------------: | :---------------: | :---------------: |
 | 01               | 00               | 13/08/2019       | Created the work log and wrote the work I have done so far | Jiaying Ying     | N/A                  |
 | 02               |00                | 19/08/2019       | Modify the work log regards to the feedback | Minghui Zhang | N/A|
+| 03               |00                | 19/09/2019       | Keep the document up to date | Minghui Zhang | N/A|
+| 04               |00                | 30/09/2019       | Keep the document up to date | Minghui Zhang | N/A|
+| 04               |00                | 17/10/2019       | Keep the document up to date | Jiaying Ying | N/A|
 
 
 
@@ -51,7 +54,9 @@ The document is used to show the traceability of our team contributing to the pr
 |02/10/2019|Group meeting|N/A|3hrs|ALl team|
 |9/10/2019|Group meeting|N/A|3hrs|ALl team|
 |11/10/2019|Expert meeting with David Tychsen-Smith|Milestone 5|2 hrs|All team|
-
+|14/10/2019|Capstone showcase|Milestone 7|2 hrs|All team|
+|16/10/2019|Group meeting|N/A|3hrs|ALl team|
+|17/10/2019-18/10/2019|Team review document| Milestone 7|2 hrs|ALl team|
 
 
 ## 2. Work Log for Andre Olivier 
@@ -73,6 +78,8 @@ The document is used to show the traceability of our team contributing to the pr
 |27/09/2019-09/10/2019|Design poster|Milestone 7|20 hrs|Andre Olovier|
 |06/10/2019-09/10/2019|Design broucher |Milestone 7|20 hrs|Andre Olivier|
 |06/10/2019-11/10/2019|Preliminary budget analysis| Milestone 7|5 hrs|Andre Olivier|
+|13/10/2019-17/10/2019|Contact client for feedback on the overall project| Milestone 7|1 hrs|Andre Olivier|
+
 
 ## 3. Work Log for Derek Tan 
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
@@ -102,6 +109,7 @@ The document is used to show the traceability of our team contributing to the pr
 |19/09/2019-26/09/2019|CAD drawing for water vacuum |Milestone 5|2 hrs|Derek Tan|
 |19/09/2019-26/09/2019 |CAD drawing for pump|Milestone 5|2 hrs|Derek Tan|
 |06/09/2019-09/10/2019|Rendering the design in Solidoworks|Milestone 5|20 hrs|Derek Tan|
+|09/09/2019-12/10/2019|Finalise design iteration document|Milestone 5|2 hrs|Derek Tan|
 
 
 ## 4. Work Log for Jiaying Ying 
@@ -132,6 +140,8 @@ The document is used to show the traceability of our team contributing to the pr
 |27/09/2019-11/10/2019|3D print overall design|N/A|10 hrs|Jiaying Ying |
 |06/09/2019-09/10/2019|Design broucher |Milestone 7|20 hrs|Jiaying Ying |
 |09/10/2019-09/10/2019|Print broucher and poster|Milestone 7|1 hr|Jiaying Ying |
+|01/10/2019-16/10/2019|Collect the survey from outside audience|Milestone 5|1 hr|Jiaying Ying |
+|17/10/2019-17/10/2019|Tidy up the repository and update landing page|Milestone 7|3 hr|Jiaying Ying |
 
 ## 5. Work Log for Minghui Zhang 
 |Date              |Contribution           |Target Milestone    |Estimated hours           |Did by    |
@@ -165,3 +175,5 @@ The document is used to show the traceability of our team contributing to the pr
 |09/10/2019-10/10/2019|Assembly 3D print component|Milestone 5|6 hrs|Minghui Zhang|
 |08/10/2019-08/10/2019|Meeting with Dr.Yi. Xiao| Milestone 5| 2hrs|Minghui Zhang|
 |09/10/2019-10/10/2019|Assembly 3D print component|Milestone 5| 6hrs|Minghui Zhang|
+|10/10/2019-11/10/2019|Update decision log|Milestone 7| 1hrs|Minghui Zhang|
+|16/10/2019-17/10/2019|Manage and feedback on the collected survey|Milestone 7|1 hr|Minghui Zhang|
