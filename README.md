@@ -2,7 +2,6 @@
 
 
 # Table of Contents
-- [File Dictionary](#file-dictionary)
 - [Project Vision](#project-vision)
   * [Value Proposition](#value-proposition)
   * [Project Scope](#project-scope)
