@@ -49,6 +49,10 @@ This file is issued to track the status for each allocated tasks.
 |5|19/08/2019|19/08/2019|Meeting minute for 21/08|Derek|1 hour|Completed|
 |5|19/08/2019|19/08/2019|Prepare questions for week 5 client meeting| 3 hours|Project team|Completed|
 |5|19/08/2019|21/08/2019|Reflection for audit 1 feedback|Minghui|3 hours|Completed|
+|5|19/08/2019|21/08/2019|create work log for each member|Minghui |3 hours|Complted|Modified based on Audit 1 feedback|
+|5|19/08/2019|21/08/2019|Creaate a file dictionary|Minghui|3 hours|Complted|Modified based on Audit 1 feedback|
+|5|19/08/2019|21/08/2019|Create a decision log in spreadsheet form|Minghui| 2hours|Competed|Modified based on Audit 1 feedback|
+|5|19/08/2019|21/08/2019|Create a folder to record the communication with client and external audiences|Minghui |1 hour|Completed| Modified based on Audit 1 feedback|
 |5|19/08/2019|21/08/2010| Functional analysis version 2| Derek|3 hours|Completed|
 |5|21/08/2019|21/08/2019|Meeting minute for 21/08|Jiaying|1 hours|Completed|
 |5|21/08/2019|23/08/2019| Sketch idea design |Jiaying|1 hour |Completed|
@@ -76,12 +80,16 @@ This file is issued to track the status for each allocated tasks.
 |6|29/08/2019|17/09/2019|TLP participation and typing up the summary| Derek| 2n hours| Completed|
 |6|29/08/2019|31/08/2019| Decide the software for CAD drawing | Jiaying| 1 hour| Completed||
 |6|29/08/2019|05/09/2019| Contact with manufactuers| Minghui| 12 hours| Completed||
-|7|05/09/2019|06/09/2019| Optimize design based on manufacturers feedback|Minghui |5 hours| Completed|Reviewed by Jiaying|
-|7|05/09/2019|06/09/2019| Optimize design based on manufacturers feedback|Jiaying |5 hours| Completed|Reviewed by Minghui|
+|7|05/09/2019|06/09/2019| Optimize design based on manufacturers feedback|Minghui |5 hours| Completed|
+|7|05/09/2019|06/09/2019| Optimize design based on manufacturers feedback|Jiaying |5 hours| Completed|
 |7|07/09/2019| 08/09/2019| Decide the dimensionfor the optimized design| Minghui|5 hours | Completed|
-|7|07/09/2019| 08/09/2019| Decide the dimensionfor the optimized design| Jiaying|5 hours | Completed|Reviewed by Jiaying|
-|8|09/09/2019|14/09/2019| CAD drawings for fat press| Minghui| 5 hours | Completed|Reviewed by Jiaying|
-|8|09/09/2019|14/09/2019| CAD drawings for fat press| Jiaying| 5 hours | Completed|Reviewed by Jiaying|
+|7|07/09/2019| 08/09/2019| Decide the dimensionfor the optimized design| Jiaying|5 hours | Completed|
+|8|09/09/2019|14/09/2019| CAD drawings for fat press| Minghui| 5 hours | Completed|
+|8|09/09/2019|14/09/2019| CAD drawings for fat press| Jiaying| 5 hours | Completed||
+|9|10/09/2019|10/09/2019|Summarize Aduti 2 feedback|Minghui|5 hours|Compelted|Reviewed by all team|
+|9|10/09/2019|10/09/2019|Add a column "Review" in the task status|Minghui|1 hour| Completed|Modified based on Audit 2 feedback|
+|9|10/09/2019|10/09/2019|Investigate the ventiallation system design|ALl team| 10 hours| Completed|Modified based on Audit 2 feedback|
+|9|12/09/2019|15/09/2019|Update roles for each member and record the role of each member in all weeks|Jiaying|3 hours|Compelted|Modified based on Audit 2 feedback|
 |8|15/09/2019|18/09/2019| CAD drawings for breaker| Minghui| 5 hours| Completed|Reviewed by Jiaying|
 |8|15/09/2019|18/09/2019| CAD drawings for breaker| Jiaying| 5 hours| Completed|Reviewed by Jiaying|
 |9|19/09/2019|26/09/2019|CAD drawing for cooker| Andre| 3 hours |Completed|Reviewed by Jiaying|
@@ -99,13 +107,18 @@ This file is issued to track the status for each allocated tasks.
 |10|27/09/2019|11/10/2019|3D print overall design|Minghui |10 hours|Completed|Reviewed by Jiaying|
 |10|27/09/2019|11/10/2019|3D print overall design|Jiaying |10 hours|Completed|Reviewed by Jiaying|
 |11|06/09/2019|09/10/2019|Rendering the design in Solidoworks|Derek|20 hours| Completed|Reviewed by All teammember|
-|11|06/09/2019|09/10/2019|Design broucher |Jiaying |30 hours| Completed|Reviewed by Andre|
-|11|06/09/2019|09/10/2019|Design broucher |Andre |20 hours| Completed|Reviewed by Jiaying|
-|11|06/09/2019|09/10/2019|2D design for each machine|Minghui|10 hours| Completed|Reviewed by All team member|
+|11|06/10/2019|09/10/2019|Design broucher |Jiaying |30 hours| Completed|Reviewed by Andre|
+|11|06/10/2019|09/10/2019|Design broucher |Andre |20 hours| Completed|Reviewed by Jiaying|
+|11|06/10/2019|09/10/2019|2D design for each machine|Minghui|10 hours| Completed|Reviewed by All team member|
 |12|09/10/2019|09/10/2019|Print broucher and poster|Jiaying Ying|1 hour|Completed|Reviewed by All team member|
 |12|09/10/2019|10/10/2019|Assembly 3D print component|Minghui|6 hours| Completed|
 |12|09/10/2019|10/10/2019|Assembly 3D print component|Minghui|6 hours| Completed||
-|12|10/09/2019|11/09/2019|Prepare Audit 3|All team member|10 hours| Completed||
+|12|10/09/2019|11/10/2019|Prepare Audit 3|All team member|10 hours| Completed||
+|12|10/10/2019|13/10/2019|Tidy up repository|Jiaying|10 hours| Completed||
+|12|11/10/2019|16/10/2019|Design iteration document|Jiaying| 10 hours|Compelted||
+|13|13/10/2019|16/09/2019|Team review for reflection|Minghui|5 hours|Completed||
+|13|13/10/2019|16/09/2019|Team review for project output, decision making and design visulization|Andre|12 hours| Completed||
+|13|13/10/2019|16/09/2019|Team review for communication and teamwork|Derek|8 hours|Completed|
 
 
 
