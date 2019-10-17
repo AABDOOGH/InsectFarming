@@ -87,6 +87,8 @@ Each component in the rendering plant is designed in Solidworks. The detailed 2D
 ### Overview the Designed Rendering System - option 2 for insects
 ![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Rendering%20design/System%20design/Rendering%20system%20-%20option%202%20v1.png)
 
+### Overview the Integrated System in 3D 
+![alt text](https://github.com/JessYJY/InsectFarming/blob/master/Rendering%20design/Final%20design/Integrated%20Design%20Overview.JPG)
 ### Breaker
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/BaOe7Ly5Ymc/0.jpg)](https://youtu.be/BaOe7Ly5Ymc)
 ### Cooker
