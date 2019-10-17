@@ -16,15 +16,13 @@
 - [Insect Processing Rendering Plant Design](#Insect-Processing-Rendering-Plant-Design)
   * [Overview the Designed Rendering System - option 1 for median livestocks](#Overview-the-Designed-Rendering-System---option-1-for-median-livestocks)
   * [Overview the Designed Rendering System - option 2 for insects](#Overview-the-Designed-Rendering-System---option-2-for-insects)
+  * [Overview the Integrated System in 3D] (#Overview-the-Integrated-System-in-3D)
   * [Breaker](#breaker)
   * [Cooker](#cooker)
   * [Fat Press](#fat-press)
   * [Design Specification and Evaluation](#Design-Specification-and-Evaluation)
 - [Feedback](#feedback)
 
-## File Dictionary
-
-Click [here](https://github.com/JessYJY/insectfarming.github.io/blob/master/File%20dictionary.md) can direct you to file dictionary. This file can direct you to each important document related to the project. 
 
 ## Project Vision 
 
