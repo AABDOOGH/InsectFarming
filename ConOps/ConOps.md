@@ -12,6 +12,7 @@ This document is issued to define our team project - Mobile insect processing pl
 | 04               | 01               | 08/08/2019       | Initial review  |  N/A    | Minghui Zhang                  |
 | 05               | 00               | 09/08/2019       | Final review  |  N/A    | All team                  |
 | 06               | 01               | 27/08/2019       | Update with more detail from audit 2  |  All team    | All team                  |
+| 07               | 01               | 18/10/2019       | Finalish the document  |  Jiaying Ying    | All team                  |
 
 ## Table of Content
 - [1. Project Vision](#1-project-vision)
@@ -186,9 +187,10 @@ The projected budget is therefore as follows:
 ### 3.2. Project Outcome Risks
 
 The integrated nature of the final design, has with it accompanying risks that all pose their own different levels of importance. These risks can be relegated into two categories: Financial and Material Risks, each with their own set of contigencies that will aim to minimize their probability and impact. The below diagram shows the risk breakdown structure. 
-![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/risk%20analysis.png)
+![alt text](https://github.com/JessYJY/InsectFarming/blob/master/Audit%20Documents/Audit%202/risk%20analysis.png)
+
 The below diagram shows the risk impact severity matrix
-![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/risk%20analysis%202.png)
+![alt text](https://github.com/JessYJY/InsectFarming/blob/master/Audit%20Documents/Audit%202/risk%20analysis%202.png)
 
 #### 3.2.1. Financial Risks
 
@@ -303,13 +305,13 @@ The Gantt Chart of the project could be found [HERE](https://github.com/JessYJY/
 |3|	1.4.1|	Finalise Documentation|	8|	11/10/19	|18/10/19|	Project team	|1.1-1.3		|
 |3|	1.4.2|	Project Handover|	0|	18/10/19	|18/10/19	|Project team|	1.4.1		|
 	
-![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/timeline2.png)
+![alt text](https://github.com/JessYJY/InsectFarming/blob/master/Project%20schedule/updated%20timeline.png)
 	
 ## 5. Contracts 
 The client specified that our team do not need to sign over non-disclosure agreement and any contract related to intellectual property. 
 
 ## 6. Development Tools and Management of Taks - Project Repository
-Our team's landing page can be found [here](https://jessyjy.github.io/insectfarming.github.io/).
+Our team's landing page can be found [here](https://jessyjy.github.io/InsectFarmWeb/).
 
 Both SharePoint and GitHub are used in this project as development tools. SharePoint is used to collaborate tasks together. The primary purpose of using Github is to organise, and archive finalised documentations. 
 ### 6.1. Repository Guide 
