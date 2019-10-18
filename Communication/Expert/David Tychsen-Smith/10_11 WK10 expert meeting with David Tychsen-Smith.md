@@ -11,7 +11,7 @@
 
 ## Mr David Tychsen-Smith
 
-![alt text](https://github.com/JessYJY/insectfarming.github.io/blob/master/Image/david.jpg)
+![alt text](https://github.com/JessYJY/InsectFarming/blob/master/Communication/Expert/David%20Tychsen-Smith/u3303702.jpg)
 
 Mr David Tychsen-Smith is an expert at the machine design, who has lots of practical and industrial experience and especially good at machine structure, power supplier and CAD drawings. He is an ANU staff, who is incharge with the fabrication facility. 
 
