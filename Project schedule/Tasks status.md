@@ -118,6 +118,7 @@ This file is issued to track the status for each allocated tasks.
 |12|11/10/2019|16/10/2019|Design iteration document|Jiaying| 10 hours|Compelted|Reviewed by all team|
 |13|13/10/2019|16/09/2019|Team review for reflection|Minghui|5 hours|Completed|Reviewed by all team|
 |13|13/10/2019|16/09/2019|Team review for project output, decision making and design visulization|Andre|12 hours| Completed|Reviewed by all team|
+|13|13/10/2019|16/09/2019|Schematic diagram for the system|Andre|5 hours|Completed|Reviewed by All team|
 |13|13/10/2019|16/09/2019|Summarize survey feedback|Minghui|1 hour|Completed|Reviewed by all team|
 |13|13/10/2019|16/09/2019|Update the system description and machine introduction to the repository|Jiaying|20 mins| Completed|Modified based on survey feedback|
 |13|13/10/2019|16/09/2019|Team review for communication and teamwork|Derek|8 hours|Completed|Reviewed by all team|
