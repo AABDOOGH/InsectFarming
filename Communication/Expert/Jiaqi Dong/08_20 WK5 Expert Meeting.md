@@ -1,4 +1,4 @@
-# Expert Meeting Records
+# Expert Meeting Records with Jiaqi Dong
 
 ## General Information
 | Content | Description | 
@@ -8,6 +8,17 @@
 | **Attendees** | **Project team**:Minghui Zhang, Jiaying Ying **Expert**: Jiaqi Dong (ANU PhD) |
 | **Prepared by**  | Jiaying Ying| 
 | **Reviewed by**  | Jiaying Ying   |
+
+## Mr Jiaqi Dong
+
+![alt text](https://github.com/JessYJY/InsectFarming/blob/master/Communication/Expert/Jiaqi%20Dong/Jiaqi%20Dong.jpg)
+
+Mr Jiaqi Dong is a third PhD student at ANU. His research field is Computational Mechanics. He has lots of experience on the computational simulation on the new material or machines.
+
+Here is the website of his profile: https://cecs.anu.edu.au/people/jiaqi-dong
+
+His email address: u5497526@anu.edu.au
+
 
 ## Agenda
 - Establishing rendering Process
